@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mouth talk sad 2 loop" itemID="51216fcb-00002254" symbolType="graphic" lastModified="1361145834">
+  <timeline>
+    <DOMTimeline name="mouth talk sad 2 loop">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Closed Puffy">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open Puffy" selected="true">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open Puffy 2">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open Puffy">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

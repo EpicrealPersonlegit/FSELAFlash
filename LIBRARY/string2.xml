@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="string2" itemID="5111e390-0000115e" lastModified="1360126878">
+  <timeline>
+    <DOMTimeline name="string2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#181818"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!90 1220[92 1227 110 1260!110 1260[120 1290 120 1296!120 1296[120 1303 95 1307!20 1150[0 1152 0 1171!0 1171|3 1187!-68 0[-13 603 -13 670!-13 670[#12.5A #43A.0A 21.5 1145"/>
+                    <Edge cubics="!-68 0(;-31,402 -13,625 -13,670q-68 0Q-13 598q-13 670);"/>
+                    <Edge cubics="!-13 670(;8,945 19,1103 22,1145q-13 670 22 1145);"/>
+                    <Edge cubics="!20 1150(;-4,1152 0,1165 0,1171q20 1150Q5 1151q1 1159Q0 1161q0 1171);"/>
+                    <Edge cubics="!0 1171(;0,1176 3,1182 3,1187q0 1171 3 1187);"/>
+                    <Edge cubics="!90 1220(;92,1227 106,1249 110,1260q90 1220Q92 1227q110 1260);"/>
+                    <Edge cubics="!110 1260(;115,1275 120,1288 120,1296q110 1260Q120 1290q120 1296);"/>
+                    <Edge cubics="!120 1296(;120,1310 101,1306 95,1307q120 1296Q120 1305q110 1306Q98 1307q95 1307);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

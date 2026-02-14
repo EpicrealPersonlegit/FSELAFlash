@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Arms/Arm Bent Curled" itemID="4c5a1040-000011d8" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Limbs/Arms/Arm Bent Curled" sourceLastModified="1280970849" lastModified="1280970849" sourceItemID="4c5a1040-000011d8">
+  <timeline>
+    <DOMTimeline name="Arm Bent Curled">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5.5 -32|3 26!3 26[-7.640625 #17.BF -18.5 22!-18.5 22[#FFFF62.B1 #FFFFFF.3F -271.5 81!-271.5 81[#FFFE7E.5E #A3.7C -408.5 302.5!-408.5 302.5[#FFFE50.F6 #1B9.43 -349 555!-349 555[#FFFEA3.FD #22C.7C -347 558!-347 558[#FFFEB0.E4 #208.CA -301.5
+ 497!-301.5 497[#FFFEFB.D5 #1D3.1 -210 475!-210 475[#FFFF5F.F3 #1E3.31 -130.5 524.5!-130.5 524.5[-100.8125 #235.D6 -109 616!-109 616[#FFFF8B.C9 #293.D3 -149 688!-149 688[#FFFF66.8B #2B3.E2 -158.5 695.5!-158.5 695.5[#FFFF38.29 #2D5.7 -250
+ 717.5!-250 717.5[#FFFEF4.B7 #2CA.6E -282 707.5!-282 707.5[#FFFED6.01 #2B9.FE -313 687!-313 687[-362.0625 #28A.39 -400.5 596.5!-400.5 596.5[#FFFE0E.5A #1CD.91 -471 297!-471 297[#FFFE43.F9 #84.C9 -309 35.5!-309 35.5[#FFFF52.2F #FFFFC2.A5
+ -9.5 -34.5!-9.5 -34.5[#FFFFFE.19 #FFFFDE.A2 5.5 -32"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

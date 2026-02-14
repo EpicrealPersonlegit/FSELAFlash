@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tiune bob" itemID="5121716d-000031fa" lastModified="1361146669">
+  <timeline>
+    <DOMTimeline name="tiune bob">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!" selected="true">
+                  <matrix>
+                    <Matrix ty="2.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="15872" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="spikes2" itemID="50fce565-00001fd0" lastModified="1359525371">
+  <timeline>
+    <DOMTimeline name="spikes2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#505050"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!75.5 -600|150 -2!150 -2|225 -600!225 -600|225 -602!225 -602|225.5 -600!225.5 -600|300 -2!300 -2|150 -2!150 -2|0 -2!0 -2|-150 -2!-150 -2|-300 -2!-300 -2|-225 -600!-225 -600|-225 -602!-225 -602|-224.5 -600!-224.5 -600|-150 -2!-150 -2|-75
+ -600!-75 -600|-75 -602!-75 -602|-74.5 -600!-74.5 -600|0 -2!0 -2|75 -600!75 -600|75 -602!75 -602|75.5 -600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

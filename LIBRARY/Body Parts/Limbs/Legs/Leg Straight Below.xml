@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Leg Straight Below" itemID="48effe0e-0000090f" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Mouths/Limbs/Legs/Leg Straight Below" sourceLastModified="1280972276" lastModified="1280972276" sourceItemID="48effe0e-0000090f">
+  <timeline>
+    <DOMTimeline name="Leg Straight Below">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!173 316[68 302 62 512!62 512|40 2!40 2|0 2!0 2|-14 671!-14 671[228 676 259 502!259 502[271 437 243 379!243 379[217 322 173 316"/>
+                    <Edge cubics="!62 512(;62,512 40,2 40,2p62 512q40 2);"/>
+                    <Edge cubics="!40 2(;40,2 0,2 0,2p40 2q0 2);"/>
+                    <Edge cubics="!0 2(;0,2 -14,671 -14,671p0 2q-14 671);"/>
+                    <Edge cubics="!62 512(;64,437 75,303 173,316q62 512Q68 302q173 316);"/>
+                    <Edge cubics="!-14 671(;350,679 288,331 173,316q-14 671Q228 676q259 502Q271 437q243 379Q217 322q173 316);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

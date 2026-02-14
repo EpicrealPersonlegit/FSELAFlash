@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Arms/Arm Straight" itemID="4b19bb36-000028b1" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Limbs/Arms/Arm Straight" sourceLastModified="1280971113" lastModified="1358653162" sourceItemID="4b19bb36-000028b1">
+  <timeline>
+    <DOMTimeline name="Arm Straight">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!85 535S2[120 570 120 620!120 620[120 670 85 705!85 705[50 740 0 740!0 740[-50 740 -85 705!-85 705[-120 670 -120 620!-120 620[-120 570 -85 535!-85 535[#FFFFC0.22 #201.DE -37.5 505.5!-37.5 505.5|-20 0!-20 0|20 0!20 0|36.5 505!36.5 505
+[#3F.88 #201.88 85 535"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

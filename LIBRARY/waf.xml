@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="waf" itemID="51217145-00003075" lastModified="1361146181" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="waf">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="201.05" ty="246.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal" selected="true">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="152.05" ty="88.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal" selected="true">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="252.65" ty="88.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed Puffy" selected="true">
+                  <matrix>
+                    <Matrix a="-1.81904602050781" c="0.0367431640625" d="1.75144958496094" tx="199" ty="160"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

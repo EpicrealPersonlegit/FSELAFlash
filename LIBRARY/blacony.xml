@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="blacony" itemID="50fcb93d-0000142b" lastModified="1358739773">
+  <timeline>
+    <DOMTimeline name="blacony">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-3.5" ty="-89.35"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.101960784313725"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!330 1510|140 1510!140 1510|140 1385!140 1385|583 1385!583 1385|583 1510!583 1510|413 1510!413 1510|140 1782!140 1782|140 1700!140 1700|228 1612!228 1612|140 1612!140 1612|140 1557!140 1557|283 1557!283 1557|330 1510"/>
+                    <Edge fillStyle0="1" edges="!0 1557|-142 1557!-142 1557|-189 1510!-189 1510|0 1510!0 1510|0 1385!0 1385|-443 1385!-443 1385|-443 1510!-443 1510|-277 1510!-277 1510|0 1787!0 1787|0 1699!0 1699|-87 1612!-87 1612|0 1612!0 1612|0 1557"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

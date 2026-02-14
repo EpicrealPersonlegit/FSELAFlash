@@ -1,0 +1,274 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="charImage" itemID="51241971-000001af" linkageExportForAS="true" linkageIdentifier="charImage" lastModified="1361320305" lastUniqueIdentifier="24">
+  <timeline>
+    <DOMTimeline name="charImage" currentFrame="7">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="square" weight="2" joints="miter">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" caps="square" weight="2" joints="miter">
+                        <fill>
+                          <SolidColor color="#009900"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-143 -152[-130 -181 -38 -259!-38 -259[#FFFFEA.5A #FFFEEF.3B -6.5 -285!-6.5 -285[#20.1A #FFFF17.9E 65 -194!65 -194[125 -123 126 -122"/>
+                    <Edge strokeStyle="2" edges="!-143 -1412[#FFFF87.3D #FFFA88.83 -110.5 -1399.5!-110.5 -1399.5[#FFFF92.05 #FFFA8A.07 -96 -1375!-96 -1375[#FFFFAD.FF #FFFAB7.7C -72 -1342.5!-72 -1342.5|-71.5 -1342!-71.5 -1342[#FFFFBA.83 #FFFABF.F7 -57.5 -1372!-57.5 -1372[#FFFFD8.85 #FFFA81.3F
+ -5.5 -1444.5!-5.5 -1444.5[#28.3F #FFFA28.06 82 -1530"/>
+                    <Edge strokeStyle="1" edges="
+!-59 -359[#FFFFE0.5A #FFFEC0.DC -6.5 -285!83 -359[#2F.AE #FFFEB5.41 -6.5 -285"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="anim 2" name="anim">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="11.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="square" weight="2" joints="miter">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" caps="square" weight="2" joints="miter">
+                        <fill>
+                          <SolidColor color="#009900"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!65 -194S4[125 -123 126 -122"/>
+                    <Edge strokeStyle="2" edges="
+!-143 -1412S4[#FFFF87.3D #FFFA88.83 -110.5 -1399.5!-110.5 -1399.5[#FFFF92.05 #FFFA8A.07 -96 -1375!-96 -1375[#FFFFAD.FF #FFFAB7.7C -72 -1342.5!-72 -1342.5|-71.5 -1342!-71.5 -1342[#FFFFBA.83 #FFFABF.F7 -57.5 -1372!-57.5 -1372[#FFFFD8.85
+ #FFFA81.3F -5.5 -1444.5!-5.5 -1444.5[#28.3F #FFFA28.06 82 -1530"/>
+                    <Edge strokeStyle="1" edges="
+!-59 -359[#FFFFE0.5A #FFFEC0.DC -6.5 -285!-6.5 -285[#2F.AE #FFFEB5.41 83 -359"/>
+                    <Edge strokeStyle="1" edges="
+!-38 -259S4[-130 -181 -143 -152"/>
+                    <Edge strokeStyle="1" edges="
+!65 -194[#20.1A #FFFF17.9E -6.5 -285!-6.5 -285[#FFFFEA.5A #FFFEEF.3B -38 -259"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="anim" name="anim" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="11.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="65" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="down and up" selected="true">
+                  <transformationPoint>
+                    <Point y="-22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="triangle!">
+                  <matrix>
+                    <Matrix d="2.51136779785156" ty="-65.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="triangle!">
+                  <matrix>
+                    <Matrix a="-1" d="-2.51136779785156" ty="-21.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="triangle!" selected="true">
+                  <matrix>
+                    <Matrix d="2.51136779785156" ty="-65.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="triangle!" selected="true">
+                  <matrix>
+                    <Matrix a="-1" d="-2.51136779785156" ty="-21.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="triangle!" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-2.51136779785156" d="0" tx="21.95" ty="-43.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="triangle!" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="2.51136779785156" d="0" tx="-21.95" ty="-43.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="65" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.427810668945313" d="0.427810668945313" tx="0.05" ty="-16.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="35" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char2" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.427810668945313" d="0.427810668945313" tx="0.05" ty="-16.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char2" selected="true" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0.427810668945313" d="0.427810668945313" tx="0.05" ty="-16.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bubble 2">
+                  <matrix>
+                    <Matrix tx="0.05" ty="-14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bubble" selected="true">
+                  <transformationPoint>
+                    <Point y="-22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="35" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bubble">
+                  <transformationPoint>
+                    <Point y="-22.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bubble" selected="true">
+                  <transformationPoint>
+                    <Point y="-22.75"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

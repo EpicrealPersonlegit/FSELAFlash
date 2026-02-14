@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="fill bucket" itemID="50fdc9ea-0000185c" lastModified="1358809720">
+  <timeline>
+    <DOMTimeline name="fill bucket">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!290 123.5|413.5 0!413.5 0|604.5 191!604.5 191[#2F7.63 #6A.B6 821 279!821 279[#372.5E #1C3.0A 857 636!857 636[#34F.2 #325.5F 742 801!742 801|742 343.5!742 343.5|335.5 749.5!335.5 749.5|-0.5 413.5!-0.5 413.5|115.5 298"/>
+                    <Edge strokeStyle="1" edges="!115.5 298[#5E.1C #111.74 44.5 187.5!44.5 187.5[#FFFFFB.21 #65.2F 59.5 45.5!59.5 45.5[#7B.DA #FFFFF5.F5 194.5 42.5!194.5 42.5[#109.1A #5E.EC 290 123.5"/>
+                    <Edge fillStyle1="1" edges="!115.5 298|290 123.5"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!178.5 382[#8F.CB #153.47 115.5 298!290 123.5[#14B.B8 #97.91 374.5 186"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tune armless" itemID="512172a2-000040d2" lastModified="1361146538">
+  <timeline>
+    <DOMTimeline name="tune armless">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune armles2">
+                  <matrix>
+                    <Matrix a="-0.306564331054688" d="0.306564331054688" tx="27.45" ty="-49.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95.1" y="69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

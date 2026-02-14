@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Leg Bent Above" itemID="48effe6e-00000a43" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Mouths/Limbs/Legs/Leg Bent Above" sourceLastModified="1280971852" lastModified="1280971852" sourceItemID="48effe6e-00000a43">
+  <timeline>
+    <DOMTimeline name="Leg Bent Above">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!75.5 68.5[#25.E9 #23.DA -10 -3!-10 -3|0 -20.5!0 -20.5[#35.CB #5.32 101.5 44.5!101.5 44.5[#B1.66 #6C.A 197.5 208.5!197.5 208.5[208 262 171 359!171 359[141 437 100 500!100 500[207 538 250 631!250 631[293 724 220 760!220 760[154 793 68
+ 691!68 691[9 622 -18 558.5!-18 558.5[39 #1F1.3F 93 401!93 401[158 #11D.A2 152 224.5!152 224.5[143 #7F.79 75.5 68.5"/>
+                    <Edge cubics="!-10 -3(-10,-3;-10,-3 0,-20 0,-20p-10 -3q0 -20)0,-20;"/>
+                    <Edge cubics="!93 401(;136,324 156,266 152,225q93 401Q158 285q152 225)152,225;"/>
+                    <Edge cubics="!152 225(152,225;146,160 121,108 76,69q152 225Q143 127q76 69);"/>
+                    <Edge cubics="!102 45(;152,88 184,142 198,209q102 45Q177 110q198 209);"/>
+                    <Edge cubics="!198 209(198,209;213,288 144,433 100,500q198 209Q208 262q171 359Q141 437q100 500);"/>
+                    <Edge cubics="!-18 559(;20,518 57,465 93,401q-18 559Q38 498q93 401)93,401;"/>
+                    <Edge cubics="!0 -20(0,-20;36,-3 70,18 102,45q0 -20Q57 7q102 45);"/>
+                    <Edge cubics="!76 69(;51,47 22,23 -10,-3q76 69 -10 -3)-10,-3;"/>
+                    <Edge cubics="!220 760(;117,811 -4,592 -18,559q220 760Q154 793q68 691Q9 622q-18 559);"/>
+                    <Edge cubics="!220 760(220,760;317,712 243,551 100,500q220 760Q293 724q250 631Q207 538q100 500);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

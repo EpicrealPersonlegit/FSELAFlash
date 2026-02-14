@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="blacker" itemID="50145766-00045ce8" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="blacker" sourceLastModified="1343518811" symbolType="graphic" lastModified="1343518811" sourceItemID="50145766-00045ce8">
+  <timeline>
+    <DOMTimeline name="blacker">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.4649658203125" d="0.4649658203125" tx="0.05" ty="-186.55"/>
+                        </matrix>
+                        <GradientEntry alpha="0" ratio="0"/>
+                        <GradientEntry alpha="0.941176470588235" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6642 0|-6641 0!-6641 0|-6641 -7462!-6641 -7462|6642 -7462!6642 -7462|6642 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,140 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flickering" itemID="51107355-00000207" lastModified="1360032887" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="flickering">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#663300"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!83 -274|275 -82!275 85|83 277!-279 -82|-87 -274!-87 277|-279 85"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#663300"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-300 -300|300 -300!300 -300|300 300!300 300|-300 300!-300 300|-300 -300"/>
+                    <Edge fillStyle0="1" edges="!-260.5 -260|259.5 -260!259.5 -260|259.5 260!259.5 260|-260.5 260!-260.5 260|-260.5 -260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.141176470588235"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!300 -300|300 300!300 300|-300 300!-300 300|-300 -300!-300 -300|300 -300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.301960784313725"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!300 300|-300 300!-300 300|-300 -300!-300 -300|300 -300!300 -300|300 300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.141176470588235"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!300 300|-300 300!-300 300|-300 -300!-300 -300|300 -300!300 -300|300 300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFD942"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFE26F"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!93 -94[132 -55 132 0!132 0[132 55 93 93!93 93[55 132 0 132!0 132[-55 132 -94 93!-94 93[-132 55 -132 0!-132 0[-132 -55 -94 -94!-94 -94[-55 -132 0 -132!0 -132[55 -132 93 -94"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!50 -50.5[#46.FD #FFFFE2.72 71 0!71 0[#46.FD #1D.92 50 50!50 50[#1D.92 #46.FD 0 71!0 71[#FFFFE2.72 #46.FD -50.5 50!-50.5 50[#FFFFB9.07 #1D.92 -71 0!-71 0[#FFFFB9.07 #FFFFE2.72 -50.5 -50.5!-50.5 -50.5[#FFFFE2.72 #FFFFB9.07 0 -71!0 -71
+[#1D.92 #FFFFB9.07 50 -50.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFCC00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!259.5 -260|259.5 260!259.5 260|-260.5 260!-260.5 260|-260.5 -260!-260.5 -260|259.5 -260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

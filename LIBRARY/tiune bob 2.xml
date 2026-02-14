@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tiune bob 2" itemID="51217335-000046dc" lastModified="1361146720" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="tiune bob 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!">
+                  <matrix>
+                    <Matrix a="0.992050170898438" b="-0.122573852539063" c="0.122573852539063" d="0.992050170898438" tx="2.55" ty="-1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="8" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!" selected="true">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!">
+                  <matrix>
+                    <Matrix a="0.9925537109375" b="0.12188720703125" c="-0.12188720703125" d="0.9925537109375" tx="-2.55" ty="-1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

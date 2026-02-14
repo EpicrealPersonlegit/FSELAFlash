@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lego1" itemID="512170f8-00003069" lastModified="1361146108" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="lego1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2789 505[2789 578 2758 629!2758 629[2727 681 2684 681!2684 681[2641 681 2610 629!2610 629[2579 578 2579 505!2579 505[2579 432 2610 380!2610 380[2641 329 2684 329!2684 329[2727 329 2758 380!2758 380[2789 432 2789 505!1169 510[1169 589
+ 1135 645!1135 645[1102 701 1054 701!1054 701[1006 701 972 645!972 645[939 589 939 510!939 510[939 431 972 375!972 375[1006 319 1054 319!1054 319[1102 319 1135 375!1135 375[1169 431 1169 510"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed 2">
+                  <matrix>
+                    <Matrix a="-2.38697814941406" c="0.0482177734375" d="2.29827880859375" tx="96.75" ty="73.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="legolthi">
+                  <matrix>
+                    <Matrix tx="95.1" ty="139.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

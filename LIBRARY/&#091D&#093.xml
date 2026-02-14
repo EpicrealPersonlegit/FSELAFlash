@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="[D]" itemID="50fdbbfb-0000181a" lastModified="1358806011">
+  <timeline>
+    <DOMTimeline name="[D]">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-3.8" ty="-6.85"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!437 429|477 429!477 429|477 176!477 176|437 176!437 176|437 137!437 137|524 137!524 137|524 468!524 468|437 468!437 468|437 429!76 137|163 137!163 137|163 176!163 176|123 176!123 176|123 429!123 429|163 429!163 429|163 468!163 468|76
+ 468!76 468|76 137"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-3.5" ty="-5.15"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!248 181|248 352!248 352|287 352!287 352[309 352 318 349!318 349[331 346 339 338!339 338[348 331 353 314!353 314[358 296 358 266!358 266[358 236 353 220!353 220[348 204 338 195!338 195[329 187 314 183!314 183[303 181 271 181!271 181|248
+ 181!340 142[363 149 379 166!379 166[395 183 404 208!404 208[412 232 412 269!412 269[412 300 404 323!404 323[394 352 377 369!377 369[363 382 340 390!340 390[323 395 294 395!294 395|196 395!196 395|196 137!196 137|291 137!291 137[323 137
+ 340 142"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

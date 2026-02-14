@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Leg Straight Scrunched" itemID="48e43702-0000003f" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Mouths/Limbs/Legs/Leg Straight Scrunched" sourceLastModified="1280972389" lastModified="1280972389" lastUniqueIdentifier="1" sourceItemID="48e43702-0000003f">
+  <timeline>
+    <DOMTimeline name="Leg Straight Scrunched">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!119 482[107 474 86 476!86 476[66 478 61 488!61 488|40 2!40 2|0 2!0 2|-18 642!-18 642|181 642.5!181 642.5|181 641.5!181 641.5|350 440!350 440[287 370 208 399!208 399[140 424 119 482"/>
+                    <Edge cubics="!40 2(;40,2 0,2 0,2p40 2q0 2);"/>
+                    <Edge cubics="!181 642(;181,642 350,440 350,440p181 642q350 440);"/>
+                    <Edge cubics="!181 643(;181,643 181,642 181,642p181 643q181 642);"/>
+                    <Edge cubics="!61 488(;61,488 40,2 40,2p61 488q40 2);"/>
+                    <Edge cubics="!119 482(;103,471 67,475 61,488q119 482Q107 474q86 476Q66 478q61 488);"/>
+                    <Edge cubics="!-18 642(;-18,642 181,643 181,643q-18 642 181 643);"/>
+                    <Edge cubics="!0 2(;0,2 -18,642 -18,642q0 2 -18 642);"/>
+                    <Edge cubics="!350 440(;257,336 141,420 119,482q350 440Q287 370q208 399Q140 424q119 482);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

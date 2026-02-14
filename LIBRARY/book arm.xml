@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="book arm" itemID="50fc65a8-00000115" lastModified="1358719358" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="book arm" currentFrame="19">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.452380952380952"/>
+                  <Point x="0.595238095238095" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="0.24114990234375" b="0.0818023681640625" c="-0.123992919921875" d="0.365570068359375" tx="-0.05" ty="4.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="-0.1436767578125" b="0.416549682617188" c="-0.366714477539063" d="-0.119384765625" tx="-1.7" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

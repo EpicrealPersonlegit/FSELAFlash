@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="blob1" itemID="511eb4b8-0000353c" lastModified="1361078725" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="blob1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#99FF00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#599500"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!684 365[#2A3.7E 734 734.5 1107!734.5 1107[#2E5.23 1151 724 1192!724 1192[720.25 1200 716.5 1209!716.5 1209[#2C8.B3 1216 707 1224!707 1224[#2BE.3A 1230 696.5 1236!696.5 1236[684 1244 671.5 1252!671.5 1252|630 1200!630 1200|679.5 1120
+!679.5 1120|550 619!550 619|527 722!527 722|437.5 622!437.5 622[449.25 #392.09 360.5 1118!360.5 1118[#16E.9 #364.C5 273 637!273 637|186 804!186 804|122 667!122 667|31.5 939!31.5 939[-31.890625 #26D.E4 32.5 228!32.5 228|109.5 145!109.5
+ 145|151.5 68!151.5 68[#122.DF -54.078125 444.5 43!444.5 43|481.5 18!481.5 18[#250.EA #FFFFF7.C3 669 77!669 77[#2AE.F5 221 684 365"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!60 615[142 594 224 563!224 563[326 522 435 525!435 525[541 512 616 584!616 584[#267.94 #1E3.D8 518 442!518 442[451 436 384 436!384 436[219 435 95 525!95 525|60 615"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="eyespin">
+                  <matrix>
+                    <Matrix tx="3.55" ty="8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="eyespin">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="30.55" ty="19.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="drop">
+                  <matrix>
+                    <Matrix tx="0.55" ty="43.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

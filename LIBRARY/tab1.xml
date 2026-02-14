@@ -1,0 +1,190 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tab1" itemID="50fda65c-0000126e" lastModified="1358823653" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="tab1">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="textie1" fontRenderingMode="device" width="160.5" height="43.15" maxCharacters="100" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="128.25" ty="51.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="0" size="18" bitmapSize="360" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="textie3" fontRenderingMode="device" width="160.5" height="165" maxCharacters="800" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="128.25" ty="162.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="-2" size="18" bitmapSize="360" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="textie2" fontRenderingMode="device" width="160.5" height="43.15" maxCharacters="100" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="128.25" ty="106.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="0" size="18" bitmapSize="360" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMInputText name="textie1" fontRenderingMode="device" width="160.5" height="43.15" maxCharacters="100" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="315.25" ty="51.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="0" size="18" bitmapSize="360" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="textie3" fontRenderingMode="device" width="160.5" height="165" maxCharacters="800" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="315.25" ty="162.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="-2" size="18" bitmapSize="360" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="textie2" fontRenderingMode="device" width="160.5" height="43.15" maxCharacters="100" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="315.25" ty="106.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="0" size="18" bitmapSize="360" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="device" left="6.1" width="55.2" height="20.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="57.2" ty="51.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Name:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" bold="true" lineSpacing="-5" size="18" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="device" left="11.55" width="105.2" height="20.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.75" ty="162.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Description:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" bold="true" lineSpacing="-5" size="18" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="device" left="-8.9" width="70.2" height="20.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="57.2" ty="106.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Creator:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" bold="true" lineSpacing="-5" size="18" face="_sans"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5776 1929.5|2488 1929.5!2488 1929.5|2488 1007.5!2488 1007.5|5776 1007.5!5776 1007.5|5776 1929.5!5776 3039.5|2488 3039.5!2488 3039.5|2488 2117.5!2488 2117.5|5776 2117.5!5776 2117.5|5776 3039.5!2488 6589.5|2488 3209.5!2488 3209.5|5776
+ 3209.5!5776 3209.5|5776 6589.5!5776 6589.5|2488 6589.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bar1">
+                  <transformationPoint>
+                    <Point x="150" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="device" width="140.4" height="33.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="5.95" ty="3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Level Info</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="-5" size="30" face="_sans" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

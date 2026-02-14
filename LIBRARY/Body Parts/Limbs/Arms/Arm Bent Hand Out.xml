@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Arms/Arm Bent Hand Out" itemID="4c5a109c-00001369" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Limbs/Arms/Arm Bent Hand Out" sourceLastModified="1280971041" lastModified="1280971041" sourceItemID="4c5a109c-00001369">
+  <timeline>
+    <DOMTimeline name="Arm Bent Hand Out">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-25 820[-64 819 -95 785!-95 785[-126 753 -133 708!-133 708[-152 595 -25 566!-25 566[#4.2C 693 -25 820"/>
+                    <Edge cubics="!-25 820(;-131,818 -208,608 -25,566q-25 820Q-64 819q-95 785Q-126 753q-133 708Q-152 595q-25 566);"/>
+                    <Edge cubics="!-25 566(;-25,566 -25,820 -25,820q-25 566 -25 820);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-25.5 566[#FFFF8D.8B #21E.53 -161 442.5!-161 442.5[#FFFF2E.32 #155.4A -180 224.5!-180 224.5[#FFFF63.E3 #7D.76 -86 67!-86 67[#FFFFD3.FB #20.4C 3 22.5!3 22.5[3 2.75 3 -17!3 -17[#FFFFC8.79 #FFFFF9.31 -108.5 35!-108.5 35[#FFFF3E.FE #66.D3
+ -227 221.5!-227 221.5[#FFFEF3.F6 #16D.CE -213 497!-213 497[#FFFF65.26 #27A.95 -25 620!-25 620|-25.5 566"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

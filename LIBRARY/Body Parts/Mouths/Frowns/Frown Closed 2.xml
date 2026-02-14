@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Mouths/Frowns/Frown Closed 2" itemID="4afa1fc6-0000050f" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="Body Parts/Mouths/Frowns/Frown Closed 2" sourceLastModified="1257906149" lastModified="1257906149" sourceItemID="4afa1fc6-0000050f">
+  <timeline>
+    <DOMTimeline name="Frown Closed 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-410 235[-360 48 -213 -62!-213 -62[-79 -162 79 -162!79 -162[239 -161 333 -58!333 -58[438 56 415 255"/>
+                    <Edge cubics="!-410 235(;-270,-290 480,-305 415,255q-410 235Q-360 48q-213 -62Q-79 -162q79 -162Q239 -161q333 -58Q438 56q415 255);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

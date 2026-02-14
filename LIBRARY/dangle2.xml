@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dangle2" itemID="51214073-00000312" lastModified="1361133944" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="dangle2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.523255813953488"/>
+                  <Point x="0.62093023255814" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above" name="leg">
+                  <matrix>
+                    <Matrix a="-0.227249145507813" b="0.184371948242188" c="0.225112915039063" d="0.306289672851563" tx="-6.75" ty="-7.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.9" y="1.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.523255813953488"/>
+                  <Point x="0.62093023255814" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above" name="leg">
+                  <matrix>
+                    <Matrix a="-0.29217529296875" b="-0.019744873046875" c="-0.0436859130859375" d="0.377883911132813" tx="-6.25" ty="-7.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.95" y="1.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above" name="leg">
+                  <matrix>
+                    <Matrix a="-0.227249145507813" b="0.184371948242188" c="0.225112915039063" d="0.306289672851563" tx="-6.75" ty="-7.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.9" y="1.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

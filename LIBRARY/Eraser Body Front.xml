@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Eraser Body Front" itemID="4a8c65ec-000000c2" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="Body Parts/Characters/Eraser/Eraser Body Front" sourceLastModified="1321075868" lastModified="1321075868" sourceItemID="4a8c65ec-000000c2">
+  <timeline>
+    <DOMTimeline name="Eraser Body Front">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E47E93"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#E68A9C"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#DF6A82"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#CC536B"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="!1323.5 -1410.5|-515.5 -1589!-515.5 -1589|-115.5 -1734.5!-115.5 -1734.5|1701.5 -1561.5!1701.5 -1561.5|1323.5 -1410.5"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!1774.5 -1525.5|595.5 1542!595.5 1542|175 1716.5!175 1716.5|1351.5 -1357!1351.5 -1357|1774.5 -1525.5"/>
+                    <Edge fillStyle0="4" edges="!642.5 1588|1870 -1599!1870 -1599|-124.5 -1795.5!-124.5 -1795.5|-641.5 -1593.5!-641.5 -1593.5|-1871 1606!-1871 1606|120 1795!120 1795|642.5 1588"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="!99 1733|-1781.5 1554!-1781.5 1554|-591 -1541!-591 -1541|1285.5 -1353.5!1285.5 -1353.5|99 1733"/>
+                    <Edge cubics="!1352 -1357(;1352,-1357 1775,-1525 1775,-1525p1352 -1357q1775 -1525);"/>
+                    <Edge cubics="!1702 -1561(;1702,-1561 1324,-1410 1324,-1410p1702 -1561q1324 -1410);"/>
+                    <Edge cubics="!-493 -1583(;-493,-1583 -115,-1734 -115,-1734p-493 -1583q-115 -1734);"/>
+                    <Edge cubics="!-124 -1795(;-124,-1795 -630,-1593 -630,-1593p-124 -1795q-630 -1593);"/>
+                    <Edge cubics="!596 1542(;596,1542 172,1712 172,1712p596 1542q172 1712);"/>
+                    <Edge cubics="!1870 -1599(;1870,-1599 -124,-1795 -124,-1795p1870 -1599q-124 -1795);"/>
+                    <Edge cubics="!-115 -1734(;-115,-1734 1702,-1561 1702,-1561p-115 -1734q1702 -1561);"/>
+                    <Edge cubics="!-600 -1533(;-600,-1533 1286,-1353 1286,-1353p-600 -1533q1286 -1353);"/>
+                    <Edge cubics="!99 1733(;99,1733 -1786,1554 -1786,1554p99 1733q-1786 1554);"/>
+                    <Edge cubics="!1324 -1410(;1324,-1410 -493,-1583 -493,-1583p1324 -1410q-493 -1583);"/>
+                    <Edge cubics="!-1786 1554(;-1786,1554 -600,-1533 -600,-1533p-1786 1554q-600 -1533);"/>
+                    <Edge cubics="!1775 -1525(;1775,-1525 596,1542 596,1542p1775 -1525q596 1542);"/>
+                    <Edge cubics="!172 1712(;172,1712 1352,-1357 1352,-1357p172 1712q1352 -1357);"/>
+                    <Edge cubics="!1286 -1353(;1286,-1353 99,1733 99,1733p1286 -1353q99 1733);"/>
+                    <Edge cubics="!-1871 1606(;-1871,1606 -630,-1593 -630,-1593p-1871 1606q-630 -1593);"/>
+                    <Edge cubics="!643 1588(;643,1588 1870,-1599 1870,-1599p643 1588q1870 -1599);"/>
+                    <Edge cubics="!120 1795(;120,1795 643,1588 643,1588p120 1795q643 1588);"/>
+                    <Edge cubics="!120 1795(;118,1795 -1871,1606 -1871,1606p120 1795q-1871 1606);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

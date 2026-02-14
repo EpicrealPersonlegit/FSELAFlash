@@ -1,0 +1,204 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lights" itemID="50fc708f-000001f1" lastModified="1358727816" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="lights">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" name="light1">
+                  <matrix>
+                    <Matrix tx="27.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" name="light1">
+                  <matrix>
+                    <Matrix tx="14.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light2">
+                  <matrix>
+                    <Matrix tx="39.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" name="light1">
+                  <matrix>
+                    <Matrix tx="9.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light2">
+                  <matrix>
+                    <Matrix tx="27.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light3">
+                  <matrix>
+                    <Matrix tx="44.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" name="light1">
+                  <matrix>
+                    <Matrix tx="9.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light2">
+                  <matrix>
+                    <Matrix tx="21.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light3">
+                  <matrix>
+                    <Matrix tx="33.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light4">
+                  <matrix>
+                    <Matrix tx="44.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" name="light1">
+                  <matrix>
+                    <Matrix tx="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light2">
+                  <matrix>
+                    <Matrix tx="16.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light3">
+                  <matrix>
+                    <Matrix tx="27.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light4">
+                  <matrix>
+                    <Matrix tx="38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light5">
+                  <matrix>
+                    <Matrix tx="49.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" name="light1">
+                  <matrix>
+                    <Matrix tx="4.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light2">
+                  <matrix>
+                    <Matrix tx="13.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light3">
+                  <matrix>
+                    <Matrix tx="22.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light4">
+                  <matrix>
+                    <Matrix tx="31.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light5">
+                  <matrix>
+                    <Matrix tx="40.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light" name="light6">
+                  <matrix>
+                    <Matrix tx="49.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="legs1" itemID="50f9f02b-00000a88" lastModified="1358558193" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="legs1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight">
+                  <matrix>
+                    <Matrix a="-0.364852905273438" d="0.364852905273438" tx="0.35" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.35" y="13.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

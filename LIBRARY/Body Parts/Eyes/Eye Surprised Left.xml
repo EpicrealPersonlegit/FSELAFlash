@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Eyes/Eye Surprised Left" itemID="4b19bb36-000028b9" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Eyes/Eye Surprised Left" sourceLastModified="1280965286" lastModified="1280965286" sourceItemID="4b19bb36-000028b9">
+  <timeline>
+    <DOMTimeline name="Eye Surprised Left">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!48.5 -108[#44.FC -63 69 0!69 0[#44.FC 63 48.5 107!48.5 107[#1C.CC 152 0 152!0 152[-28.921875 152 -49.5 107!-49.5 107[-69.109375 63 -69 0!-69 0[-69.109375 -63 -49.5 -108!-49.5 -108[-28.921875 -152 0 -152!0 -152[#1C.CC -152 48.5 -108"/>
+                    <Edge fillStyle0="1" edges="!193 -297[101 -484 -75.5 -429.5!-75.5 -429.5[-102 -420 -102 -403!-102 -403[-102 -386 -70 -393!-70 -393[66 -421 139 -271!139 -271[#90.A6 #FFFEFC.4C 156.5 -255.5!156.5 -255.5[#A8.06 #FFFF04.83 179 -257!179 -257[#BE.51 #FFFEF9.5D 194.5 -274.5
+!194.5 -274.5[198.5 #FFFEE1.FF 193 -297"/>
+                    <Edge cubics="!0 -152(0,-152;19,-152 36,-137 49,-108q0 -152Q29 -152q49 -108)49,-108;"/>
+                    <Edge cubics="!0 152(;-19,152 -36,137 -49,107q0 152Q-29 152q-49 107);"/>
+                    <Edge cubics="!-49 -108(;-36,-137 -19,-152 0,-152q-49 -108Q-29 -152q0 -152)0,-152;"/>
+                    <Edge cubics="!195 -274(195,-274;198,-282 197,-290 193,-297q195 -274Q199 -286q193 -297);"/>
+                    <Edge cubics="!179 -257(179,-257;186,-261 192,-267 195,-274q179 -257Q191 -264q195 -274);"/>
+                    <Edge cubics="!157 -255(157,-255;164,-252 172,-253 179,-257q157 -255Q168 -250q179 -257)179,-257;"/>
+                    <Edge cubics="!139 -271(139,-271;143,-264 149,-258 157,-255q139 -271Q146 -259q157 -255)157,-255;"/>
+                    <Edge cubics="!49 107(49,107;36,137 19,152 0,152q49 107Q30 152q0 152);"/>
+                    <Edge cubics="!69 0(;69,42 62,78 49,107q69 0Q69 62q49 107);"/>
+                    <Edge cubics="!49 -108(;62,-78 69,-42 69,0q49 -108Q69 -62q69 0);"/>
+                    <Edge cubics="!-49 107(-49,107;-62,78 -69,42 -69,0q-49 107Q-69 62q-69 0);"/>
+                    <Edge cubics="!-69 0(-69,0;-69,-42 -62,-78 -49,-108q-69 0Q-69 -62q-49 -108);"/>
+                    <Edge cubics="!-70 -393(-70,-393;22,-412 97,-357 139,-271q-70 -393Q-3 -407q53 -371Q106 -338q139 -271)139,-271;"/>
+                    <Edge cubics="!193 -297(;136,-412 44,-466 -75,-429q193 -297Q149 -385q82 -420Q12 -456q-75 -429);"/>
+                    <Edge cubics="!-70 -393(;-114,-384 -110,-418 -75,-429q-70 -393Q-102 -386q-102 -403Q-102 -420q-75 -429)-75,-429;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

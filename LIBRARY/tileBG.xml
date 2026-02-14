@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tileBG" itemID="510c8e19-000002cc" lastModified="1360031683">
+  <timeline>
+    <DOMTimeline name="tileBG">
+      <layers>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.32156862745098"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2600 600|2000 0!2000 0|1800 0!1800 0|2600 800!2600 800|2600 600!2600 200|2400 0!2400 0|2200 0!2200 0|2600 400!2600 400|2600 200!2600 1400|1200 0!1200 0|1000 0!1000 0|2600 1600!2600 1600|2600 1400!2600 1000|1600 0!1600 0|1400 0!1400 0
+|2600 1200!2600 1200|2600 1000!600 0|2600 2000!2600 2000|2600 1800!2600 1800|800 0!800 0|600 0!200 0|2600 2400!2600 2400|2600 2200!2600 2200|400 0!400 0|200 0!0 200|2400 2600!2400 2600|2600 2600!2600 2600|0 0!0 0|0 200!0 600|2000 2600
+!2000 2600|2200 2600!2200 2600|0 400!0 400|0 600!0 1400|1200 2600!1200 2600|1400 2600!1400 2600|0 1200!0 1200|0 1400!0 1800|800 2600!800 2600|1000 2600!1000 2600|0 1600!0 1600|0 1800"/>
+                    <Edge fillStyle1="1" edges="
+!0 800|1800 2600!1800 2600|1600 2600!1600 2600|0 1000!0 1000|0 800"/>
+                    <Edge fillStyle0="1" edges="
+!200 2600|0 2400!0 2400|0 2600!0 2600|200 2600"/>
+                    <Edge fillStyle1="1" edges="
+!0 2000|600 2600!600 2600|400 2600!400 2600|0 2200!0 2200|0 2000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#721F1F"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!0 2600|2600 2600!2600 2600|2600 0!2600 0|0 0!0 0|0 2600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

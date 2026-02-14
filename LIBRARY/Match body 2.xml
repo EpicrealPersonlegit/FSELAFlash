@@ -1,0 +1,561 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Match body 2" itemID="50fa0d86-00001806" lastModified="1360904710" lastUniqueIdentifier="57">
+  <timeline>
+    <DOMTimeline name="Match body 2" currentFrame="7">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="match bob">
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="-0.322235107421875" b="-0.090789794921875" c="-0.090789794921875" d="0.322235107421875" tx="-5.6" ty="-19.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.335128784179688" d="0.335128784179688" tx="0.05" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.335128784179688" d="0.335128784179688" tx="-3.6" ty="-38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="-0.313751220703125" b="0.117233276367188" c="0.117233276367188" d="0.313751220703125" tx="4.65" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mouth talk 1" name="mouth" selected="true">
+                  <matrix>
+                    <Matrix a="0.488937377929688" d="0.9688720703125" tx="-0.8" ty="-28.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="match bob" selected="true">
+                  <matrix>
+                    <Matrix a="-1" tx="1.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.322235107421875" b="-0.090789794921875" c="0.090789794921875" d="0.322235107421875" tx="6.2" ty="-19.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="-0.335128784179688" d="0.335128784179688" tx="0.55" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="0.335128784179688" d="0.335128784179688" tx="4.2" ty="-38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.313751220703125" b="0.117233276367188" c="-0.117233276367188" d="0.313751220703125" tx="-4.05" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mouth talk 1" name="mouth">
+                  <matrix>
+                    <Matrix a="-0.488937377929688" d="0.9688720703125" tx="1.4" ty="-28.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ruby fly arm" name="arm1">
+                  <matrix>
+                    <Matrix a="0.999664306640625" b="-0.022705078125" c="0.022705078125" d="0.999664306640625" tx="-3.05" ty="-25.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.55" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.33477783203125" b="0.0128631591796875" c="-0.0128631591796875" d="0.33477783203125" tx="2.45" ty="-41.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1" y="1.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.33477783203125" b="-0.0128631591796875" c="-0.0128631591796875" d="0.33477783203125" tx="-1.3" ty="-39.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Smile Open 1">
+                  <matrix>
+                    <Matrix a="-0.194244384765625" b="-0.0074615478515625" c="-0.0112762451171875" d="0.292984008789063" tx="0.55" ty="-28.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.45" y="3.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ruby fly arm" name="arm2">
+                  <matrix>
+                    <Matrix a="-0.999664306640625" b="0.022705078125" c="0.022705078125" d="0.999664306640625" tx="6.7" ty="-25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="2.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="ruby fly arm" name="arm1">
+                  <matrix>
+                    <Matrix a="-0.999771118164063" b="-0.01812744140625" c="-0.01812744140625" d="0.999771118164063" tx="5.05" ty="-25.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="-0.334716796875" b="0.014404296875" c="0.014404296875" d="0.334716796875" tx="-0.5" ty="-40.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.15" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="0.334716796875" b="-0.014404296875" c="0.014404296875" d="0.334716796875" tx="3.25" ty="-38.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Smile Open 1">
+                  <matrix>
+                    <Matrix a="0.194198608398438" b="-0.0083465576171875" c="0.012603759765625" d="0.292922973632813" tx="1.45" ty="-28.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="3.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ruby fly arm" name="arm2">
+                  <matrix>
+                    <Matrix a="0.999771118164063" b="0.01812744140625" c="-0.01812744140625" d="0.999771118164063" tx="-4.65" ty="-24.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="0.02471923828125" b="-0.333786010742188" c="-0.333786010742188" d="-0.0247039794921875" tx="-3.5" ty="-20.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.334426879882813" b="0.0204620361328125" c="-0.0204620361328125" d="0.334426879882813" tx="3.4" ty="-40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.1" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-0.334426879882813" b="-0.0204620361328125" c="-0.0204620361328125" d="0.334426879882813" tx="-0.4" ty="-38.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Teeth">
+                  <matrix>
+                    <Matrix a="-0.19403076171875" b="-0.011871337890625" c="-0.017913818359375" d="0.29266357421875" tx="1.2" ty="-28.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="3.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="0.02471923828125" b="-0.333786010742188" c="-0.333786010742188" d="-0.0247039794921875" tx="7.25" ty="-20.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="-0.02471923828125" b="-0.333786010742188" c="0.333786010742188" d="-0.0247039794921875" tx="5.55" ty="-20.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="-0.334426879882813" b="0.0204620361328125" c="0.0204620361328125" d="0.334426879882813" tx="-1.35" ty="-40.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.1" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="0.334426879882813" b="-0.0204620361328125" c="0.0204620361328125" d="0.334426879882813" tx="2.45" ty="-38.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Teeth">
+                  <matrix>
+                    <Matrix a="0.19403076171875" b="-0.011871337890625" c="0.017913818359375" d="0.29266357421875" tx="0.85" ty="-28.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="3.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="-0.02471923828125" b="-0.333786010742188" c="0.333786010742188" d="-0.0247039794921875" tx="-5.2" ty="-20.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent" selected="true">
+                  <matrix>
+                    <Matrix a="0.247894287109375" b="-0.224929809570313" c="-0.224929809570313" d="-0.247894287109375" tx="-4.9" ty="-20.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body" selected="true">
+                  <matrix>
+                    <Matrix a="0.334869384765625" b="0.011962890625" c="-0.011962890625" d="0.334869384765625" tx="1.5" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1" y="1.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Closed 3" selected="true">
+                  <matrix>
+                    <Matrix a="-0.334869384765625" b="-0.011962890625" c="-0.011962890625" d="0.334869384765625" tx="-1.95" ty="-41.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent" selected="true">
+                  <matrix>
+                    <Matrix a="-0.179336547851563" b="-0.380706787109375" c="0.302841186523438" d="-0.142654418945313" tx="5.35" ty="-20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open 4" selected="true">
+                  <matrix>
+                    <Matrix a="-0.19427490234375" b="-0.0069427490234375" c="-0.011749267578125" d="0.3291015625" tx="-0.05" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="-0.247894287109375" b="-0.224929809570313" c="0.224929809570313" d="-0.247894287109375" tx="5.95" ty="-20.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="-0.334869384765625" b="0.011962890625" c="0.011962890625" d="0.334869384765625" tx="-0.45" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1" y="1.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Closed 3">
+                  <matrix>
+                    <Matrix a="0.334869384765625" b="-0.011962890625" c="0.011962890625" d="0.334869384765625" tx="3" ty="-41.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="0.179336547851563" b="-0.380706787109375" c="-0.302841186523438" d="-0.142654418945313" tx="-4.3" ty="-20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open 4">
+                  <matrix>
+                    <Matrix a="0.19427490234375" b="-0.0069427490234375" c="0.011749267578125" d="0.3291015625" tx="1.1" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm1">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="-6.15" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.335128784179688" d="0.335128784179688" tx="0.05" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.335128784179688" d="0.335128784179688" tx="-3.6" ty="-38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm2">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="5.4" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.194427490234375" d="0.329345703125" tx="-1.4" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm1">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="6.75" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="-0.335128784179688" d="0.335128784179688" tx="0.55" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="0.335128784179688" d="0.335128784179688" tx="4.2" ty="-38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm2">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="-4.8" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="0.194427490234375" d="0.329345703125" tx="2" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.5" y="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm1">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="-6.15" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm2">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="7.2" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.335128784179688" d="0.335128784179688" tx="0.2" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.20111083984375" d="0.335128784179688" tx="-5.15" ty="-38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.116683959960938" d="0.329345703125" tx="-3.8" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.45" y="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm1">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="6.9" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Draw" name="arm2">
+                  <matrix>
+                    <Matrix a="0.998992919921875" d="0.998992919921875" tx="-6.3" ty="-20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.335128784179688" d="0.335128784179688" tx="0.1" ty="-40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="0.20111083984375" d="0.335128784179688" tx="5.8" ty="-38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="0.116683959960938" d="0.329345703125" tx="4.45" ty="-28.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.45" y="3.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="iceee" itemID="50fa0cb8-00001586" lastModified="1358564582" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="iceee">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Ice Cube Side">
+                  <matrix>
+                    <Matrix a="0.319107055664063" b="-0.0054779052734375" c="0.009796142578125" d="0.3189697265625" tx="0.35" ty="-25.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-0.375244140625" b="0.0051116943359375" d="0.375244140625" tx="-17.4" ty="-29.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.8" y="4.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Neutral/Neutral Closed">
+                  <matrix>
+                    <Matrix a="-0.318145751953125" b="0.0123748779296875" c="0.01629638671875" d="0.310256958007813" tx="-11.3" ty="-17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.75" y="4.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

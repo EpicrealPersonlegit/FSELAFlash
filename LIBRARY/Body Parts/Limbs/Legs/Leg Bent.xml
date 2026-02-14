@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Leg Bent" itemID="48dfc17b-00000270" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Mouths/Limbs/Legs/Leg Bent" sourceLastModified="1280971747" lastModified="1280971747" sourceItemID="48dfc17b-00000270">
+  <timeline>
+    <DOMTimeline name="Leg Bent">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!360 643|61.5 642!61.5 642[#15.DE #282.0D -18 642!-18 642[39 572 93 462!93 462[158 330 152 260!152 260[143 149 75.5 81.5!75.5 81.5[#25.E9 #2C.4C -10 0!-10 0|0 -20!0 -20[#35.CB #9.78 101.5 54.5!101.5 54.5[#B1.66 #7F.91 197.5 241.5!197.5
+ 241.5[#DD.6D #179.A8 154.5 491!154.5 491[#B7.22 #1E9.AA 212 495!212 495[335 519 360 643"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

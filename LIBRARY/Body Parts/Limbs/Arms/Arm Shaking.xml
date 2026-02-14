@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Arms/Arm Shaking" itemID="49826a66-0000068e" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Limbs/Arms/Arm Shaking" sourceLastModified="1269794336" symbolType="graphic" lastModified="1269794336" lastUniqueIdentifier="2" sourceItemID="49826a66-0000068e">
+  <timeline>
+    <DOMTimeline name="Arm Shaking">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.82879638671875" b="0.553497314453125" c="-0.553497314453125" d="0.82879638671875" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.2109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.980911254882813" b="-0.191192626953125" c="0.191192626953125" d="0.980911254882813" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.2109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.997879028320313" b="-0.008697509765625" c="0.008697509765625" d="0.997879028320313" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.2109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.982467651367188" b="-0.180831909179688" c="0.180831909179688" d="0.982467651367188" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.2109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.941253662109375" b="0.334625244140625" c="-0.334625244140625" d="0.941253662109375" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.902191162109375" b="-0.428955078125" c="0.428955078125" d="0.902191162109375" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.962905883789063" b="0.260910034179688" c="-0.260910034179688" d="0.962905883789063" tx="0.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

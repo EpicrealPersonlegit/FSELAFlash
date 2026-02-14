@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bub!" itemID="50fa0f09-00001cea" lastModified="1358565253">
+  <timeline>
+    <DOMTimeline name="bub!">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Characters/Bubble/Bubble Body">
+                  <matrix>
+                    <Matrix a="0.364852905273438" d="0.364852905273438" tx="0.4" ty="-39.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="0.364852905273438" d="0.364852905273438" tx="-27.45" ty="-41.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="-0.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Left">
+                  <matrix>
+                    <Matrix a="0.364852905273438" d="0.364852905273438" tx="-11.75" ty="-41.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-0.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-18.25" ty="-25.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="glow" itemID="5108a992-0000089b" lastModified="1359522194">
+  <timeline>
+    <DOMTimeline name="glow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-137.85" ty="301.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0133056640625" d="0.0133056640625" tx="148.65" ty="-290.75"/>
+                        </matrix>
+                        <GradientEntry color="#00FF00" ratio="0"/>
+                        <GradientEntry color="#00FF00" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3126 -5968[3189 -5905 3189 -5815!3189 -5815[3189 -5726 3126 -5663!3126 -5663[3063 -5599 2973 -5599!2973 -5599[2884 -5599 2820 -5663!2820 -5663[2757 -5726 2757 -5816!2757 -5816[2757 -5905 2820 -5968!2820 -5968[2884 -6031 2973 -6031!2973
+ -6031[3063 -6031 3126 -5968"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

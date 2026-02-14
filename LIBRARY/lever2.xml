@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lever2" itemID="51109b39-000003f4" lastModified="1360116700">
+  <timeline>
+    <DOMTimeline name="lever2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0066FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#002864"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!40 -237|40 -236"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!40 -236|40 -100"/>
+                    <Edge fillStyle1="1" edges="!40 -100|40 0!40 0|-40 0!-40 0|-40 -100"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-40 -100|-40 -400!-40 -400|40 -400!40 -400|40 -237"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tower" itemID="50fcb4bd-0000140e" lastModified="1358738682">
+  <timeline>
+    <DOMTimeline name="tower">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#575757"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!239.5 179.5|-40.5 179.5!-40.5 179.5|-40.5 139.5!-40.5 139.5|239.5 139.5!239.5 139.5|239.5 179.5!239.5 259.5|-40.5 259.5!-40.5 259.5|-40.5 219.5!-40.5 219.5|239.5 219.5!239.5 219.5|239.5 259.5!239.5 419.5|-40.5 419.5!-40.5 419.5|-40.5
+ 379.5!-40.5 379.5|239.5 379.5!239.5 379.5|239.5 419.5!239.5 339.5|-40.5 339.5!-40.5 339.5|-40.5 299.5!-40.5 299.5|239.5 299.5!239.5 299.5|239.5 339.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#575757"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!200 0|200 1000!200 1000|0 1000!0 1000|0 0!0 0|200 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

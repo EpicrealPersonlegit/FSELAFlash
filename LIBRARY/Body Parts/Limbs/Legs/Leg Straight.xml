@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Leg Straight" itemID="4b1437a3-00001c8e" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Limbs/Legs/Leg Straight" sourceLastModified="1280972179" lastModified="1358562458" lastUniqueIdentifier="2" sourceItemID="4b1437a3-00001c8e">
+  <timeline>
+    <DOMTimeline name="Leg Straight">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!62 512|40 2!40 2|0 2!0 2|-18 642!-18 642|360 643!360 643[335 519 212 495!212 495[#87.57 #1E0.D4 62 512"/>
+                    <Edge cubics="!0 2(;0,2 40,2 40,2p0 2q40 2)40,2;"/>
+                    <Edge cubics="!40 2(40,2;40,2 62,512 62,512p40 2q62 512);"/>
+                    <Edge cubics="!212 495(212,495;161,486 111,491 62,512q212 495Q134 481q62 512);"/>
+                    <Edge cubics="!360 643(;343,560 294,511 212,495q360 643Q335 519q212 495)212,495;"/>
+                    <Edge cubics="!-18 642(;-18,642 0,2 0,2q-18 642 0 2);"/>
+                    <Edge cubics="!360 643(;360,643 9,642 -18,642q360 643 -18 642)-18,642;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

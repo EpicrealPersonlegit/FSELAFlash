@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="spikeball 2" itemID="512ad2e6-0000037f" lastModified="1361761906">
+  <timeline>
+    <DOMTimeline name="spikeball 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.7">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!227.5 -213|104 -213"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!104 -213|389 -5!389 -5|227.5 -213"/>
+                    <Edge strokeStyle="1" edges="!70 -213[#3D.AF -209.84375 53 -207.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!53 -207.5|-5.5 -11.5!-5.5 -11.5|-54.5 -207.5"/>
+                    <Edge strokeStyle="1" edges="!-54.5 -207.5[#FFFFC0.F5 #FFFF2E.25 -71.5 -213"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!53 -207.5[#1B.B5 #FFFF37.74 -0.5 -200.5!-0.5 -200.5[#FFFFE2.FE #FFFF37.74 -54.5 -207.5"/>
+                    <Edge fillStyle0="1" edges="!-137 -213|-250 -213"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-250 -213|-398 -10!-398 -10|-137 -213"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

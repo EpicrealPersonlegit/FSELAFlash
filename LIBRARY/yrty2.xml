@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="yrty2" itemID="507634af-0000f068" sourceFlashFilepath="../../../../5-9.fla" sourceLibraryItemHRef="yrty2" sourceLastModified="1357007646" symbolType="graphic" lastModified="1357007646" sourceItemID="507634af-0000f068">
+  <timeline>
+    <DOMTimeline name="yrty2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.668228149414063" b="0.1790771484375" c="-0.1790771484375" d="0.668289184570313" tx="-38.2" ty="48.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Ruby Body">
+                  <matrix>
+                    <Matrix a="0.697052001953125" d="0.691879272460938" tx="-6.4" ty="32.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-48.05" y="8.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.695159912109375" d="0.691879272460938" tx="-18.5" ty="38.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.45" y="3.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.683807373046875" b="-0.097412109375" c="0.097412109375" d="0.683807373046875" tx="28.45" ty="40.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Cheek Left">
+                  <matrix>
+                    <Matrix a="0.691879272460938" d="0.691879272460938" tx="-4.15" ty="20.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.45" y="-7.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Cheek Left">
+                  <matrix>
+                    <Matrix a="0.691879272460938" d="0.691879272460938" tx="-33.4" ty="19.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.45" y="-7.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Walk Cycle" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.691879272460938" d="0.691879272460938" tx="-21.35" ty="63.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Walk Cycle" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.691879272460938" d="0.691879272460938" tx="5.9" ty="65.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

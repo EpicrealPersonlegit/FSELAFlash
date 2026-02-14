@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="metalBorder3" itemID="511e927b-00000169" lastModified="1360995320">
+  <timeline>
+    <DOMTimeline name="metalBorder3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.301960784313725"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#FFFFFF" alpha="0.2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!0 40|0 0!0 0|600 0!600 0|600 40"/>
+                    <Edge fillStyle1="3" edges="!600 40|600 80"/>
+                    <Edge fillStyle1="1" edges="!600 80|600 120"/>
+                    <Edge fillStyle1="3" edges="!600 120|600 160!600 160|319.5 160!319.5 160|319.5 159.5!319.5 159.5|279.5 159.5!279.5 159.5|279.5 160!279.5 160|0 160!0 160|0 120"/>
+                    <Edge fillStyle1="1" edges="!0 120|0 80"/>
+                    <Edge fillStyle1="3" edges="!0 80|0 40"/>
+                    <Edge fillStyle1="1" edges="!279.5 199.5|319.5 199.5!319.5 199.5|319.5 239.5!319.5 239.5|279.5 239.5!279.5 239.5|279.5 199.5"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!600 120|0 120"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!600 40|0 40"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!0 80|600 80"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

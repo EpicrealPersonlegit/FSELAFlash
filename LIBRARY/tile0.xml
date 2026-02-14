@@ -1,0 +1,224 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tile0" itemID="5119a7ad-000032e5" linkageExportForAS="true" linkageIdentifier="tile0" lastModified="1361243826" lastUniqueIdentifier="79">
+  <timeline>
+    <DOMTimeline name="tile0" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="border" name="tileBorder">
+                  <transformationPoint>
+                    <Point x="15" y="15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.32156862745098"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600 300|300 600!300 600|200 600!200 600|600 200!600 200|600 300!600 100|100 600!100 600|0 600!0 600|600 0!600 0|600 100!300 0|0 300!0 300|0 200!0 200|200 0!200 0|300 0"/>
+                    <Edge fillStyle0="1" edges="!0 0|0 100!0 100|100 0!100 0|0 0"/>
+                    <Edge fillStyle1="1" edges="!400 0|500 0!500 0|0 500!0 500|0 400!0 400|400 0"/>
+                    <Edge fillStyle0="1" edges="!600 500|600 400!600 400|400 600!400 600|500 600!500 600|600 500"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="lights" name="light">
+                  <matrix>
+                    <Matrix tx="-30" ty="-80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="2.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.32156862745098"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!600 200|400 0!400 0|300 0!300 0|600 300!600 300|600 200"/>
+                    <Edge fillStyle1="1" edges="!600 100|500 0!500 0|600 0!600 0|600 100"/>
+                    <Edge fillStyle0="1" edges="!0 100|500 600!500 600|600 600!600 600|0 0!0 0|0 100!100 0|600 500!600 500|600 400!600 400|200 0!200 0|100 0!0 300|300 600!300 600|400 600!400 600|0 200!0 200|0 300"/>
+                    <Edge fillStyle1="1" edges="!100 600|0 500!0 500|0 400!0 400|200 600!200 600|100 600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D81C12"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|600 0!600 0|600 600!600 600|0 600!0 600|0 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="spikes2">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="spikes2">
+                  <matrix>
+                    <Matrix tx="15" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="spikes" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="spikes">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="30" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="thing bg" name="bg" selected="true">
+                  <matrix>
+                    <Matrix tx="-30" ty="-90"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="60"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tree1">
+                  <matrix>
+                    <Matrix tx="5.45" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-107"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#721F1F"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 600|600 600!600 600|600 0!600 0|0 0!0 0|0 600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="swinging e">
+                  <matrix>
+                    <Matrix tx="-35.25" ty="-94.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="49.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

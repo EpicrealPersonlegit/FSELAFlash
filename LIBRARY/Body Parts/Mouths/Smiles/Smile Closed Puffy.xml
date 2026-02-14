@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Mouths/Smiles/Smile Closed Puffy" itemID="4b0ec971-00000f37" sourceFlashFilepath="\\MIKE-DESKY\LetsShare\BFDIA\5\5 rc.fla" sourceLibraryItemHRef="Body Parts/Mouths/Smiles/Smile Closed Puffy" sourceLastModified="1259260372" lastModified="1361147694" sourceItemID="4b0ec971-00000f37">
+  <timeline>
+    <DOMTimeline name="Smile Closed Puffy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-549 -334[#FFFE5B.E9 #FFFEC1.E9 -324 -222!-324 -222[-209 -107 -209 55!-209 55[-209 #5D.1F -215.5 128.5!-215.5 128.5[#FFFFBA.89 #130.8F 142.5 160!142.5 160[#8D.FD #96.85 142 141!142 141[#8D.D7 #B.BC 233.5 -80!233.5 -80[#13A.48 #FFFF5F.49
+ 424 -170.5!-215.5 128.5[#FFFF13.F1 #F4.0F -324 332!-324 332[#FFFE5B.E9 #1AC.17 -549 444!424 452.5[#13A.48 #1BA.B7 233.5 362!233.5 362[#94.97 #115.05 142.5 160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,328 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tile4" itemID="5119a806-000032ee" linkageExportForAS="true" linkageIdentifier="tile4" lastModified="1360965789">
+  <timeline>
+    <DOMTimeline name="tile4" currentFrame="9">
+      <layers>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!599.5 -0.5|599.5 599.5!599.5 599.5|539.5 599.5!539.5 599.5|539.5 -0.5!539.5 -0.5|599.5 -0.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="flickering">
+                  <matrix>
+                    <Matrix tx="15" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#101010"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!0 48S2|0 0!0 0|600 0!600 0|600 48"/>
+                    <Edge fillStyle1="1" edges="!600 48S2|600 146!600 146|510 189!510 189|416 91!416 91|283 260!283 260|164 150!164 150|72 200!72 200|0 148!0 148|0 48"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!600 48S3|0 48"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600.5 -0.5|600.5 599.5!600.5 599.5|400.5 599.5!400.5 599.5|400.5 -0.5!400.5 -0.5|600.5 -0.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#505050"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!573.5 533.5|531.5 575!531.5 575|119 163!119 163|161 121!161 121|573.5 533.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#505050"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!64.5 575|477 163!477 163|435 121!435 121|22.5 533.5!22.5 533.5|64.5 575"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#61413F"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#505050"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#655B3A"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#181818"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!560 194S1|522 115!522 115|538 88!538 88|475 51.5!475 51.5|448 108!448 108|501 161!501 161|417 187!417 187|560 194"/>
+                    <Edge fillStyle0="2" edges="!253 69S1|210 158!210 158|117.5 127!117.5 127|76 192!76 192|155 201!155 201|172 257!172 257|297 163!297 163|253 69"/>
+                    <Edge fillStyle0="3" edges="!389.5 383S1|302 415!302 415|302 480!302 480|389.5 383"/>
+                    <Edge fillStyle0="4" edges="!28 559S1|100 579!100 579|47.5 508!47.5 508|28 559"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="square" joints="miter">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!509.5 158.5S3|549.5 158.5!549.5 158.5|549.5 198.5!549.5 198.5|509.5 198.5!509.5 198.5|509.5 158.5!88.5 198.5|48.5 198.5!48.5 198.5|48.5 158.5!48.5 158.5|88.5 158.5!88.5 158.5|88.5 198.5!48.5 549.5|48.5 509.5!48.5 509.5|88.5 509.5!88.5
+ 509.5|88.5 549.5!88.5 549.5|48.5 549.5!509.5 509.5|549.5 509.5!549.5 509.5|549.5 549.5!549.5 549.5|509.5 549.5!509.5 549.5|509.5 509.5"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!10 120S5|10 590.5!10 590.5|590 590.5!590 590.5|590 120!590 120|10 120"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#303030"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!600 0S2|600 600!600 600|0 600!0 600|0 0!0 0|600 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#282828"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#303030"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!600 208S2|600 438"/>
+                    <Edge fillStyle1="2" edges="
+!600 438S2|600 600!600 600|0 600!0 600|0 438"/>
+                    <Edge fillStyle1="1" edges="
+!0 438S2|0 208"/>
+                    <Edge fillStyle1="2" edges="
+!0 208S2|0 0!0 0|600 0!600 0|600 208"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!600 438S3|0 438!0 208|600 208"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="spikes3">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="30" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="spikes3">
+                  <matrix>
+                    <Matrix a="-1" tx="14.9" ty="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="spikes3">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="-0.2" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="spikes3">
+                  <matrix>
+                    <Matrix tx="14.9" ty="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#505050"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!0 -0.5|43 195!43 195|121 276.5!121 276.5|198 253!198 253|267 416.5!267 416.5|386 451!386 451|429 593!429 593|467 541.5!467 541.5|600 599!600 599|600 -0.5!600 -0.5|0 -0.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#303030"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!600 0S2|600 600!600 600|0 600!0 600|0 0!0 0|600 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="button2" name="button">
+                  <matrix>
+                    <Matrix tx="15" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-7.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="button3" name="button">
+                  <matrix>
+                    <Matrix tx="15" ty="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-7.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

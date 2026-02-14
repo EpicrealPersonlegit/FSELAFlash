@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="steammove" itemID="507ae9af-00000f33" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="steammove" sourceLastModified="1360960305" symbolType="graphic" lastModified="1360960305" sourceItemID="507ae9af-00000f33">
+  <timeline>
+    <DOMTimeline name="steammove">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="49" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="steam">
+                  <matrix>
+                    <Matrix a="-0.099945068359375" b="0.099945068359375" c="-0.17529296875" d="-0.17529296875" tx="2" ty="1.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="steam">
+                  <matrix>
+                    <Matrix a="-0.099945068359375" b="0.099945068359375" c="-0.17529296875" d="-0.17529296875" tx="128.1" ty="127.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

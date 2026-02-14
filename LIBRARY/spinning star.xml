@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="spinning star" itemID="5117f74d-00000126" lastModified="1360525612" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="spinning star">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="star" selected="true">
+                  <transformationPoint>
+                    <Point y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="star">
+                  <matrix>
+                    <Matrix a="0.55889892578125" b="-0.826400756835938" c="0.826400756835938" d="0.55889892578125" tx="2.5" ty="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-3.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

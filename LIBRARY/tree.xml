@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tree" itemID="5119a3d6-000032d4" lastModified="1360634838" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="tree">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="redwood tree" selected="true">
+                  <matrix>
+                    <Matrix a="-0.149810791015625" d="0.149810791015625" ty="-34.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="220.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

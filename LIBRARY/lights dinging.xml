@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lights dinging" itemID="507ae419-00000a97" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="lights dinging" sourceLastModified="1350231065" symbolType="graphic" lastModified="1350231065" sourceItemID="507ae419-00000a97">
+  <timeline>
+    <DOMTimeline name="lights dinging">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="1.55" ty="27.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!517 -494|-1 -494!-1 -494|-1 -590!-1 -590|517 -590!517 -590|517 -494!-580 -590|-62 -590!-62 -590|-62 -494!-62 -494|-580 -494!-580 -494|-580 -590"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

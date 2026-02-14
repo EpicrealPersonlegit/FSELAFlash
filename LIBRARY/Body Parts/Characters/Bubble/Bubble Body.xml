@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Characters/Bubble/Bubble Body" itemID="48e43507-00000034" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="Body Parts/Characters/Bubble/Bubble Body" sourceLastModified="1321130090" lastModified="1321130090" sourceItemID="48e43507-00000034">
+  <timeline>
+    <DOMTimeline name="Bubble Body">
+      <layers>
+        <DOMLayer name="Layer 5" color="#000000" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1428 -1104[1527 -936 1562 -777!1562 -777[1599 -606 1549 -495!1549 -495[1494 -371 1336 -348!1336 -348[1198 -327 1102 -410!1102 -410[1028 -473 952 -630!952 -630[908 -722 814 -930!814 -930[722 -1115 616 -1228!616 -1228[521 -1330 378 -1426
+!378 -1426[361 -1438 165 -1559!165 -1559[67 -1619 53 -1651!53 -1651[35 -1692 120 -1728!120 -1728[324 -1815 619 -1726!619 -1726[928 -1633 1204 -1384!1204 -1384[1330 -1270 1428 -1104"/>
+                    <Edge cubics="!1204 -1384(;1539,-1081 1779,-414 1336,-348q1204 -1384Q1330 -1270q1428 -1104Q1527 -936q1562 -777Q1599 -606q1549 -495Q1494 -371q1336 -348);"/>
+                    <Edge cubics="!120 -1728(;384,-1840 826,-1726 1204,-1384q120 -1728Q324 -1815q619 -1726Q928 -1633q1204 -1384)1204,-1384;"/>
+                    <Edge cubics="!616 -1228(616,-1228;318,-1547 -124,-1624 120,-1728q616 -1228Q521 -1330q378 -1426Q361 -1438q165 -1559Q67 -1619q53 -1651Q35 -1692q120 -1728);"/>
+                    <Edge cubics="!1336 -348(1336,-348;936,-288 952,-868 616,-1228q1336 -348Q1198 -327q1102 -410Q1028 -473q952 -630Q908 -722q814 -930Q722 -1115q616 -1228);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#64A9E1" alpha="0.752941176470588"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient focalPointRatio="0.564705882352941">
+                        <matrix>
+                          <Matrix a="0" b="0.117294311523438" c="-0.118301391601563" d="0" tx="-1" ty="2.15"/>
+                        </matrix>
+                        <GradientEntry color="#EAF2FF" alpha="0.752941176470588" ratio="0"/>
+                        <GradientEntry color="#A8D8FF" alpha="0.752941176470588" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!20 -1974[#FFFCE2.02 #FFF84A.07 -1376.5 -1396.5!-1376.5 -1396.5[#FFF85E.07 #FFFCCE.02 -1954 0!-1954 0[#FFF85E.16 #332.15 -1376.5 1395.5!-1376.5 1395.5[#FFFCE2.01 1974 20 1974!20 1974[#346.11 #7B6.11 1405 1392!1405 1392[#7B3.EA #329.EB
+ 1954 -40!1954 -40[#790.13 #FFFC86.13 1387 -1432!1387 -1432[#345.F3 #FFF849.F1 20 -1974"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!-1866 5[#FFF8C5.17 #305.52 -1314.5 1305!-1314.5 1305[#FFFD05.E5 #73C.E3 19 1853!19 1853[#320.6A #73D.1C 1342 1302!1342 1302[#75B.4 #2EF.0E 1866 -53.5!1866 -53.5[#738.DF #FFFCA5.7F 1324.5 -1372!1324.5 -1372[#320.25 #FFF8A2.D6 19 -1885
+!19 -1885[#FFFD05.E6 #FFF8A3.1D -1314.5 -1338!-1314.5 -1338[#FFF8B6.05 #FFFCE9.9E -1866 5"/>
+                    <Edge edges="
+!-1866 5|-1866 -16"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mouth talk happy loop" itemID="50fca4f1-00000ee9" symbolType="graphic" lastModified="1358734580">
+  <timeline>
+    <DOMTimeline name="mouth talk happy loop">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smile Open 1">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smile Open 2" selected="true">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smile Open 3" selected="true">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smile Open 2">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Smile Open 1" selected="true">
+                  <matrix>
+                    <Matrix a="-0.400299072265625" d="0.400299072265625" tx="-1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

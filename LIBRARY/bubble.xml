@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bubble" itemID="50fb416b-00000f93" lastModified="1358645543">
+  <timeline>
+    <DOMTimeline name="bubble">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!233 -347[#AE.3B #FFFEE0.62 100 -264.5!100 -264.5[#58.65 #FFFEFA.D4 76.5 -258.5!76.5 -258.5[#4B.4C -258.21875 74 -258!74 -258[#48.4C #FFFEFE.85 70.5 -257!70.5 -257|0 0!0 0|-70.5 -257!-70.5 -257[-72.296875 #FFFEFE.85 -74 -258!-74 -258
+[#FFFFB4.B5 -258.21875 -76.5 -258.5!-76.5 -258.5[#FFFFA7.9E -261.15625 -100 -264.5!-100 -264.5[#FFFF51.73 #FFFEE0.73 -234 -347!-234 -347[-330 -443 -330 -580!-330 -580[-330 -717 -234 -814!-234 -814[-137 -910 0 -910!0 -910[137 -910 233
+ -814!233 -814[330 -717 330 -580!330 -580[330 -443 233 -347"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

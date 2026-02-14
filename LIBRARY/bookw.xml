@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bookw" itemID="50c56aea-00054e62" sourceFlashFilepath="../../../../5-9.fla" sourceLibraryItemHRef="bookw" sourceLastModified="1355115326" symbolType="graphic" lastModified="1355115326" sourceItemID="50c56aea-00054e62">
+  <timeline>
+    <DOMTimeline name="bookw">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boohk" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.77081298828125" d="0.77081298828125" ty="-2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boohk" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="0.77081298828125" d="0.77081298828125" ty="2.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boohk" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="0.77081298828125" d="0.77081298828125" ty="-2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boohk" symbolType="graphic" firstFrame="10" loop="loop">
+                  <matrix>
+                    <Matrix a="0.77081298828125" d="0.77081298828125" ty="2.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boohk" symbolType="graphic" firstFrame="13" loop="loop">
+                  <matrix>
+                    <Matrix a="0.77081298828125" d="0.77081298828125" ty="-2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-12.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

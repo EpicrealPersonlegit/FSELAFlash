@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pense!" itemID="50fa0e43-00001a8f" lastModified="1358564952">
+  <timeline>
+    <DOMTimeline name="pense!">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pencil Body">
+                  <matrix>
+                    <Matrix a="0.333160400390625" b="-0.035125732421875" c="0.035125732421875" d="0.333160400390625" tx="-2.5" ty="-38.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.333160400390625" b="0.035125732421875" c="0.035125732421875" d="0.333160400390625" tx="-7.1" ty="-34.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.193283081054688" b="0.0203857421875" c="0.034515380859375" d="0.327423095703125" tx="-3.85" ty="-25.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.6" y="3.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

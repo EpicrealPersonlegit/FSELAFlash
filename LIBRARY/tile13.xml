@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tile13" itemID="51227541-000001a3" linkageExportForAS="true" linkageIdentifier="tile13" lastModified="1361771648" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="tile13" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#2B6FD5" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600 0S2|600 600!600 600|0 600!0 600|0 0!0 0|600 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="border" name="tileBorder">
+                  <transformationPoint>
+                    <Point x="15" y="15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.32156862745098"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!600 -0.5|600 39!600 39|478 39!478 39|478 99!478 99|600 99!600 99|600 139!600 139|578 139!578 139|578 199!578 199|600 199!600 199|600 239!600 239|478 239!478 239|478 299!478 299|600 299!600 299|600 339!600 339|578 339!578 339|578 399
+!578 399|600 399!600 399|600 439!600 439|478 439!478 439|478 499!478 499|600 499!600 499|600 539!600 539|578 539!578 539|578 599!578 599|600 599!600 599|600 599.5!600 599.5|0 599.5!0 599.5|0 599!0 599|39 599!39 599|39.5 598!39.5 598|39.5
+ 599!39.5 599|138.5 599!138.5 599|138.5 539!138.5 539|0 539!0 539|0 499!0 499|38.5 499!38.5 499|38.5 439!38.5 439|0 439!0 439|0 399!0 399|138.5 399!138.5 399|138.5 339!138.5 339|39.5 339!39.5 339|39.5 340!39.5 340|39 339!39 339|0 339
+!0 339|0 299!0 299|38.5 299!38.5 299|38.5 239!38.5 239|0 239!0 239|0 199!0 199|138.5 199!138.5 199|138.5 139!138.5 139|39.5 139!39.5 139|39.5 140!39.5 140|39 139!39 139|0 139!0 139|0 99!0 99|38.5 99!38.5 99|38.5 39!38.5 39|0 39!0 39|0
+ -0.5!0 -0.5|600 -0.5"/>
+                    <Edge fillStyle0="1" edges="
+!438.5 99|278 99!278 99|278 39!278 39|438.5 39!438.5 39|438.5 99!538.5 199|378 199!378 199|378 139!378 139|538.5 139!538.5 139|538.5 199!538.5 399|378 399!378 399|378 339!378 339|538.5 339!538.5 339|538.5 399!438.5 299|278 299!278 299
+|278 239!278 239|438.5 239!438.5 239|438.5 299!238.5 99|78.5 99!78.5 99|78.5 39!78.5 39|238.5 39!238.5 39|238.5 99!338.5 199|178.5 199!178.5 199|178.5 139!178.5 139|338.5 139!338.5 139|338.5 199!178.5 339|338.5 339!338.5 339|338.5 399
+!338.5 399|178.5 399!178.5 399|178.5 339!238.5 439|238.5 499!238.5 499|78.5 499!78.5 499|78.5 439!78.5 439|238.5 439!238.5 299|78.5 299!78.5 299|78.5 239!78.5 239|238.5 239!238.5 239|238.5 299!338.5 599|178.5 599!178.5 599|178.5 539!178.5
+ 539|338.5 539!338.5 539|338.5 599!378 539|538.5 539!538.5 539|538.5 599!538.5 599|378 599!378 599|378 539!278 439|438.5 439!438.5 439|438.5 499!438.5 499|278 499!278 499|278 439"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#EBD554"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!0 600|0 0!0 0|600 0!600 0|600 600!600 600|0 600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="8" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" left="-652.1" width="170.15" height="223.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="479.1" ty="-224.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hi people.  I've been really busy lately, so I've only been able to create three levels.  :(&#xD;&#xD;More levels coming soon. I'll upload them as soon as I create them, so some could be out tomorrow, or in a week.  &#xD;I'm really sorry!!! I hope we can all understand.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" size="15" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bubble 2" itemID="50fb4945-00001027" lastModified="1358645593">
+  <timeline>
+    <DOMTimeline name="bubble 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!232.5 -351.5[#87.C1 #FFFF02.12 -2 -254!-2 -254[#FFFF74.7F #FFFF02.12 -236 -351.5!-236 -351.5[#FFFEB3.2B #FFFE3F.C1 -333 -586!-333 -586[#FFFEB3.2B -722.53125 -236 -820!-236 -820[#FFFF74.7F #FFFC6B.2B -2 -917!-2 -917[#87.C1 #FFFC6B.2B
+ 232.5 -820!232.5 -820[#14A.11 #FFFD2D.7B 330 -585!330 -585[#14A.11 #FFFE3F.C4 232.5 -351.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

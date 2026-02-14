@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sign" itemID="507b8096-0001fa35" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="sign" sourceLastModified="1350271140" lastModified="1350271140" sourceItemID="507b8096-0001fa35">
+  <timeline>
+    <DOMTimeline name="sign">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="square" weight="1.4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!46 -286[5 -329 -44 -329!-44 -329[-62 -329 -92 -299!-92 -299[-147 -252 -259 -56!-259 -56[-362 125 -362 194!-362 194[-362 273 -107 312!-107 312[-19 326 68 329!68 329[148 333 148 326!148 326|111 326!111 326[179 318 288 328!288 328[363 326
+ 363 254!363 254[363 179 248 3!248 3[129 -167 118 -184!118 -184[70 -261 46 -286"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-96 -194[-96 -238 -54 -238!-54 -238[36 -238 37 -116!37 -116[16 141 -17 141!-17 141[-41 141 -71 -26!-71 -26[-96 -193 -96 -194!-37 162[11 162 12 209!12 209[12 222 -1 237!-1 237[-18 256 -44 256!-44 256[-70 256 -76 235!-76 235[-76 213 -76
+ 211!-76 211|-76 181!-76 181[-70 162 -37 162"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

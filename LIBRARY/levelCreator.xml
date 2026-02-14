@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="levelCreator" itemID="50fda572-00001267" linkageExportForAS="true" linkageIdentifier="levelCreator" lastModified="1358828591" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="levelCreator">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="side bar" name="sideBar" selected="true">
+                  <matrix>
+                    <Matrix tx="660"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="270"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13199.5 -0.5|13199.5 9599.5!13199.5 9599.5|0 9599.5!0 9599.5|0 -0.5!0 -0.5|13199.5 -0.5"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="tiletool" name="tools">
+                  <matrix>
+                    <Matrix a="0.999908447265625" d="1.00051879882813" tx="35" ty="490"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="130.15" y="61.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#AEAEAE"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13200 10800|0 10800!0 10800|0 9600!0 9600|13200 9600!13200 9600|13200 10800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

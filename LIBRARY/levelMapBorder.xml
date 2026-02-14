@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="levelMapBorder" itemID="50fd8266-00000303" linkageExportForAS="true" linkageIdentifier="levelMapBorder" lastModified="1361153240" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="levelMapBorder">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <BitmapFill bitmapPath="BrushedMetal.png" bitmapIsClipped="false">
+                        <matrix>
+                          <Matrix a="15" d="10.546875"/>
+                        </matrix>
+                      </BitmapFill>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!18425 400|775 400!775 400[#19C.4A #19C.47 400 775!400 775|400 10025!400 10025[#19C.4A #2893.B9 775 10400!775 10400|18425 10400!18425 10400[#4963.B9 #2893.B4 18800 10025!18800 10025|18800 775!18800 775[#4963.B9 #19C.4C 18425 400"/>
+                    <Edge fillStyle1="1" edges="!19200 10800|0 10800!0 10800|0 0!0 0|19200 0!19200 0|19200 10800"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="backbutton" name="goBack" symbolType="button">
+                  <matrix>
+                    <Matrix tx="823" ty="469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mute button" name="muteButton2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="705" ty="469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="qual" name="qualButton" symbolType="button">
+                  <matrix>
+                    <Matrix tx="587" ty="469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="qualmovie" name="qualMovie" selected="true">
+                  <matrix>
+                    <Matrix a="0.45831298828125" d="0.45831298828125" tx="639.25" ty="426.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="82.15" y="39.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

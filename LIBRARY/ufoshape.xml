@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ufoshape" itemID="51218857-000054e8" sourceFlashFilepath="../../../../Downloads/FSELA.fla" sourceLibraryItemHRef="ufoshape" sourceLastModified="1361152087" lastModified="1361152087" sourceItemID="51218857-000054e8">
+  <timeline>
+    <DOMTimeline name="ufoshape">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-300.55" ty="-270.55"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8062.5 5411[#212A.61 #1523.33 8793 5620.5!8793 5620.5[#2386.C1 #16C5.B7 9095 6126!9095 6126|9095 6126.5!9095 6126.5[#240F.BA 6190.25 9367.5 6278.5!9367.5 6278.5[#2636.6A #1994.2B 10188.5 7048!10188.5 7048[#2723.01 #1BC2.14 9850 7155
+!9850 7155[#25B4.29 #1C2B.D1 9455 7256!9455 7256[#24BA.7A #1C63.A8 9350 7278.5!9350 7278.5[#243A.F4 #1C7E.03 9200 7307.5!9200 7307.5[#22AA.0F #1CC6.FF 8550 7391!8550 7391[#203E.38 #1CF4.ED 7960 7405.5!7960 7405.5[#1E3E.12 #1CE7.E1 7525
+ 7378!7525 7378[#1D14.F1 #1CCA.13 7365 7360!7365 7360[#1C9C.7C #1CBA.BD 7284 7349!7284 7349[#1C5B.7F #1CB1.87 7235 7342!7235 7342[#1B7F.A7 #1C90.97 6845 7270!6845 7270[#1947.B6 #1C14.6F 6101 7058.5!6101 7058.5[#17A8.02 #1B82.A1 6011 7026
+!6011 7026[#192E.9C #1924.D6 7051 6153!7051 6153[#1B8A.5B #17F4.91 7051 6111.5!7051 6111.5[#1B94.5A #16AB.C3 7347.5 5607.5!7347.5 5607.5[#1DD2.AE #1523.18 8062.5 5411"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

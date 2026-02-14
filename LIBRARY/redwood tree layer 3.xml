@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="redwood tree layer 3" itemID="4fe93437-000058a4" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="redwood tree layer 3" sourceLastModified="1340683593" lastModified="1358793091" sourceItemID="4fe93437-000058a4">
+  <timeline>
+    <DOMTimeline name="redwood tree layer 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="redwood tree">
+                  <matrix>
+                    <Matrix a="0.422576904296875" b="-0.025726318359375" d="0.557586669921875" tx="73.3" ty="-54.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="220.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.54"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="redwood tree">
+                  <matrix>
+                    <Matrix a="0.5072021484375" b="-0.0331573486328125" c="0.0010833740234375" d="0.346298217773438" tx="48.05" ty="-6.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="219.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.6"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="redwood tree">
+                  <matrix>
+                    <Matrix a="-0.395217895507813" b="0.0240631103515625" d="0.448760986328125" tx="33.6" ty="-30.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="220.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.6"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="redwood tree">
+                  <matrix>
+                    <Matrix a="0.328628540039063" b="-0.0179443359375" c="-0.0016021728515625" d="0.369705200195313" tx="23.15" ty="-12.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="220.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.66"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

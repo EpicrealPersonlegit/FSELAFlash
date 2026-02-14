@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Ice Cube Side" itemID="4ecb3019-00001458" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Characters/Ice Cube/Ice Cube Side" sourceLastModified="1321986894" lastModified="1321986894" sourceItemID="4ecb3019-00001458">
+  <timeline>
+    <DOMTimeline name="Ice Cube Side">
+      <layers>
+        <DOMLayer name="Layer 9" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient focalPointRatio="0.811764705882353">
+                        <matrix>
+                          <Matrix a="0" b="0.0864715576171875" c="-0.117462158203125" d="0"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.8" ratio="0"/>
+                        <GradientEntry color="#CCD7FF" alpha="0.8" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#8CA9DD"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!802 -1368S6[#446.EE #FFFACC.1C 1216.5 -1208!1216.5 -1208[#539.A2 #FFFBC1.52 1371 -794!1371 -794[#571.26 #FFFDAD.29 1393 0!1393 0[#571.26 #25E.34 1371 807!1371 807[#539.A2 #44B.6 1216.5 1219!1216.5 1219[#448.53 #53A.AF 802 1372!802 1372
+[#25F.3 #570.F3 0 1393!0 1393[-601.90625 #570.F3 -797 1372!-797 1372[#FFFBBE.51 #53A.AF -1211 1219!-1211 1219[#FFFACA.9D #44B.6 -1368 807!-1368 807[#FFFA8E.F5 #257.3D -1393 0!-1393 0[#FFFA8E.D9 #FFFDA4.FD -1371 -802!-1371 -802[#FFFAC6.5D
+ #FFFBB7.AC -1216.5 -1216.5!-1216.5 -1216.5[#FFFBB7.AC #FFFAC6.5D -802 -1371!-802 -1371[#FFFDA4.FD #FFFA8E.D9 0 -1393!0 -1393[#24F.DD #FFFA8E.F5 802 -1368"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

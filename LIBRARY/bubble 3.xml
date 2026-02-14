@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bubble 3" itemID="50fb55cf-0000117e" lastModified="1358648863" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="bubble 3">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.701960784313725"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!70.5 -559.5|184 -559.5!184 -559.5|0.5 -326!0.5 -326|-182 -559.5!-182 -559.5|-71.5 -559.5!-71.5 -559.5|-71.5 -814!-71.5 -814|70.5 -814!70.5 -814|70.5 -559.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!100 -264.5[#58.65 #FFFEFA.D4 76.5 -258.5!76.5 -258.5[#4B.4C -258.21875 74 -258!74 -258[#48.4C #FFFEFE.85 70.5 -257!70.5 -257|0 0!0 0|-70.5 -257!-70.5 -257[-72.296875 #FFFEFE.85 -74 -258!-74 -258[#FFFFB4.B5 -258.21875 -76.5 -258.5!-76.5
+ -258.5[#FFFFA7.9E -261.15625 -100 -264.5!-100 -264.5[#FFFF51.73 #FFFEE0.73 -234 -347!-234 -347[-330 -443 -330 -580!-330 -580[-330 -717 -234 -814!-234 -814[-137 -910 0 -910!0 -910[137 -910 233 -814!233 -814[330 -717 330 -580!330 -580
+[330 -443 233 -347!233 -347[#AE.3B #FFFEE0.62 100 -264.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

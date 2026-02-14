@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bub dance" itemID="50de6ab6-00007487" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="bub dance" sourceLastModified="1357071059" symbolType="graphic" lastModified="1360617440" sourceItemID="50de6ab6-00007487">
+  <timeline>
+    <DOMTimeline name="bub dance">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib1" symbolType="graphic" firstFrame="2" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.995895385742188" d="0.879913330078125" tx="4.05" ty="-80.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="85.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib1" selected="true" symbolType="graphic" firstFrame="3" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.03610229492188" d="0.840499877929688" tx="4.05" ty="-80.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="85.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib1" selected="true" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.06022644042969" d="0.816848754882813" tx="4.05" ty="-73.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="85.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib1" selected="true" symbolType="graphic" firstFrame="5" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.06826782226563" d="0.8089599609375" tx="5.65" ty="-77.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="85.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib1" selected="true" symbolType="graphic" firstFrame="6" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.0501708984375" d="0.826705932617188" tx="2.45" ty="-74.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="85.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib1" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.995895385742188" d="0.879913330078125" tx="5.65" ty="-81.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="85.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib 2" symbolType="graphic" firstFrame="6" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.995895385742188" d="1.03498840332031" tx="2.45" ty="-106.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="84.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib 2" symbolType="graphic" firstFrame="9" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.955078125" d="1.09681701660156" tx="2.45" ty="-134.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="84.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="boib 2" symbolType="graphic" firstFrame="12" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.995895385742188" d="1.03498840332031" tx="2.45" ty="-114.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="84.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="caution" itemID="50fcdb48-00001bf4" lastModified="1358750076">
+  <timeline>
+    <DOMTimeline name="caution">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!919 193|1035 77"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1035 77[#409.A2 #16.CE 1024 14!1024 14[#3E9.8E #FFFFFC.6B 949 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!949 0|756 193"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!756 193|919 193"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!1035 77[#40D.7B #89.7A 1029 171!1029 171[#3EB.5 #C5.43 919 193!756 193|559 193"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!559 193|321 193"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!321 193|131 193"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!131 193[#38.AC #C4.DA 13 189!13 189[-0.3515625 #B3.E5 0 142"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!0 142[#FFFFFC.7B #2B.14 6.5 20.5!6.5 20.5[#10.83 -2.1875 142 0"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!142 0|324 0"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!324 0|514 0"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!514 0|752 0"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!752 0|949 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!559 193|752 0!131 193|324 0"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!0 142|142 0!321 193|514 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

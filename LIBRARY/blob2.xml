@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="blob2" itemID="511eb4bc-0000353e" lastModified="1361078725" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="blob2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.511627906976744"/>
+                  <Point x="0.65" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="blob1">
+                  <transformationPoint>
+                    <Point x="18.4" y="31.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.511627906976744"/>
+                  <Point x="0.65" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="blob1">
+                  <matrix>
+                    <Matrix a="1.189697265625" d="0.88818359375" tx="-3.5" ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.4" y="31.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="blob1">
+                  <transformationPoint>
+                    <Point x="18.4" y="31.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

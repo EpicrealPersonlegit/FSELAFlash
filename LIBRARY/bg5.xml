@@ -1,0 +1,189 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bg5" itemID="512186af-00004e7a" lastModified="1361238710" lastUniqueIdentifier="25">
+  <timeline>
+    <DOMTimeline name="bg5">
+      <layers>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-9.1552734375e-005" b="-0.13299560546875" c="0.163162231445313" d="-0.0001068115234375" tx="482.75" ty="414.95"/>
+                        </matrix>
+                        <GradientEntry color="#743D25" ratio="0"/>
+                        <GradientEntry color="#AC8181" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!19998 6601S2|19998 11959!19998 11959|-640 11959!-640 11959|-640 7207.5!-640 7207.5[#345.B #1D26.85 1940 7082.5!1940 7082.5[#BAF.01 #1A38.1F 4341 6815!4341 6815[#16A5.58 #1B10.4A 7019 7618!7019 7618[#2624.36 #2098.3E 12199 7136!12199
+ 7136[#387E.05 #17B7.44 16739 6896!16739 6896[#47FD.95 #1C52.2F 19998 6601"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#9D6F69"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!7235 6960|7235 8220!7235 8220|6845 8220!6845 8220|6845 6960!6845 6960|7235 6960!7525 7280|7525 7965!7525 7965|7365 7965!7365 7965|7365 7280!7365 7280|7525 7280!9350 6320|9350 8130!9350 8130|9200 8130!9200 8130|9200 6320!9200 6320|9350
+ 6320!8105 6030|8550 6030!8550 6030|8550 8405!8550 8405|8105 8405!8105 8405|8105 8150!8105 8150|7960 8150!7960 8150|7960 6860!7960 6860|8105 6860!8105 6860|8105 6030!8975 7720|8975 8220!8975 8220|8845 8220!8845 8220|8845 7720!8845 7720
+|8975 7720!10690 5865|10690 6570!10690 6570|10930 6570!10930 6570|10930 8185!10930 8185|10295 8185!10295 8185|10295 6570!10295 6570|10455 6570!10455 6570|10455 5865!10455 5865|10690 5865!11339 6890|11339 7840!11339 7840|11139 7840!11139
+ 7840|11139 6890!11139 6890|11339 6890!9850 7015|9850 8390!9850 8390|9455 8390!9455 8390|9455 7015!9455 7015|9850 7015"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mountain">
+                  <matrix>
+                    <Matrix a="0.5811767578125" b="0.0205841064453125" c="-0.019989013671875" d="0.564361572265625" tx="834.65" ty="309.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="119"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="0.79" tintColor="#A87D7D"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mountain">
+                  <matrix>
+                    <Matrix a="-0.600112915039063" b="-0.0212554931640625" c="-0.019989013671875" d="0.564361572265625" tx="87.4" ty="330.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="119"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="0.8" tintColor="#A87D7D"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="poops">
+                  <matrix>
+                    <Matrix tx="-4.15" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="448.7" y="203.45"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.83" tintColor="#562010"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-3.0517578125e-005" b="-0.355300903320313" c="0.67364501953125" d="-1.52587890625e-005" tx="234.8" ty="270"/>
+                        </matrix>
+                        <GradientEntry color="#BDBDBD" ratio="0"/>
+                        <GradientEntry color="#858585" ratio="0.6"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-1.52587890625e-005" b="-0.355300903320313" c="0.405410766601563" d="-1.52587890625e-005" tx="571.05" ty="270"/>
+                        </matrix>
+                        <GradientEntry color="#CEA8A8" ratio="0"/>
+                        <GradientEntry color="#9A6D6D" ratio="0.6"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!21355.5 -400|24335.5 -400!24335.5 -400|24335.5 11200!24335.5 11200|21356.5 11200"/>
+                    <Edge fillStyle1="2" edges="
+!21356.5 11200S2|-400.5 11200!-400.5 11200|-400.5 -400!-400.5 -400|21355.5 -400"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!21356.5 11200S1|21355.5 -400"/>
+                    <Edge cubics="!-400 11200(;-400,11200 -400,-400 -400,-400q-400 11200 -400 -400);"/>
+                    <Edge cubics="!21356 -400(;21356,-400 24336,-400 24336,-400q21356 -400 24336 -400);"/>
+                    <Edge cubics="!24336 11200(;24336,11200 21357,11200 21357,11200q24336 11200 21357 11200);"/>
+                    <Edge cubics="!24336 -400(;24336,-400 24336,11200 24336,11200q24336 -400 24336 11200);"/>
+                    <Edge cubics="!21357 11200(;21357,11200 21356,-400 21356,-400q21357 11200 21356 -400);"/>
+                    <Edge cubics="!21357 11200(;21357,11200 -400,11200 -400,11200q21357 11200 -400 11200);"/>
+                    <Edge cubics="!-400 -400(;-400,-400 21356,-400 21356,-400q-400 -400 21356 -400);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Moon 2">
+                  <matrix>
+                    <Matrix a="0.564773559570313" d="0.564773559570313" tx="731" ty="223.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.83" tintColor="#9A6D6D"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

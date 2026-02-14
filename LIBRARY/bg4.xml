@@ -1,0 +1,168 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bg4" itemID="5109fab6-00000408" lastModified="1359608873">
+  <timeline>
+    <DOMTimeline name="bg4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mountain 2">
+                  <matrix>
+                    <Matrix a="-2.61947631835938" b="-0.11517333984375" c="-0.11077880859375" d="2.52043151855469" tx="618.7" ty="497.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.2" y="67.6"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="119"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="0.33" tintColor="#8C8C8C"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tower">
+                  <matrix>
+                    <Matrix a="1.01176452636719" d="1.01176452636719" tx="586.5" ty="300.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="23.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tower">
+                  <matrix>
+                    <Matrix a="1.01176452636719" d="1.01176452636719" tx="632.25" ty="331"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.15" y="23.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tower">
+                  <matrix>
+                    <Matrix a="1.01176452636719" d="1.01176452636719" tx="651.5" ty="345.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.1" y="23.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-7.62939453125e-005" b="-0.1033935546875" c="0.163162231445313" d="-0.0001068115234375" tx="482.7" ty="548.95"/>
+                        </matrix>
+                        <GradientEntry color="#9E7771" ratio="0"/>
+                        <GradientEntry color="#8E8E8E" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!19998 14518|-640 14518!-640 14518|-640 9766.5!-640 9766.5[#345.B #2725.85 1940 9641.5!1940 9641.5[#BAF.01 #2437.1F 4341 9374!4341 9374[#16A5.58 #250F.4A 7019 10177!7019 10177[#2AE3.B8 #2ED1.B5 12199 9695!12199 9695|16439 9695!16439 9695
+[#47FD.95 #2651.2F 19998 9160!19998 9160|19998 14518"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tower3">
+                  <matrix>
+                    <Matrix a="-1.30963134765625" d="1.30963134765625" tx="257.85" ty="-3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.45" y="200.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tower2">
+                  <matrix>
+                    <Matrix a="-1.30963134765625" d="1.30963134765625" tx="373.1" ty="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.45" y="200.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tower4">
+                  <matrix>
+                    <Matrix a="-1.30963134765625" d="1.30963134765625" tx="33.95" ty="3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.45" y="200.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp">
+                  <matrix>
+                    <Matrix tx="482.8" ty="223.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="234.7" y="36.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-1.52587890625e-005" b="-0.355300903320313" c="0.405410766601563" d="-1.52587890625e-005" tx="571.05" ty="270"/>
+                        </matrix>
+                        <GradientEntry color="#BDBDBD" ratio="0"/>
+                        <GradientEntry color="#858585" ratio="0.494117647058824"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!23240.5 -400|23240.5 11200!23240.5 11200|-400.5 11200!-400.5 11200|-400.5 -400!-400.5 -400|23240.5 -400"/>
+                    <Edge cubics="!-400 11200(;-400,11200 -400,-400 -400,-400q-400 11200 -400 -400);"/>
+                    <Edge cubics="!23241 -400(23241,-400;23241,-400 23241,11200 23241,11200q23241 -400 23241 11200)23241,11200;"/>
+                    <Edge cubics="!23241 11200(;23241,11200 -400,11200 -400,11200q23241 11200 -400 11200);"/>
+                    <Edge cubics="!-400 -400(;-400,-400 23241,-400 23241,-400q-400 -400 23241 -400);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Moon">
+                  <matrix>
+                    <Matrix a="1.43939208984375" d="1.43939208984375" tx="843" ty="118.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.64" tintColor="#505050"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

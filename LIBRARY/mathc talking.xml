@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mathc talking" itemID="50e0fb2b-000291ce" sourceFlashFilepath="../../../../5-12.fla" sourceLibraryItemHRef="mathc talking" sourceLastModified="1357067334" symbolType="graphic" lastModified="1357067334" sourceItemID="50e0fb2b-000291ce">
+  <timeline>
+    <DOMTimeline name="mathc talking">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Closed 2">
+                  <matrix>
+                    <Matrix a="-0.611724853515625" b="-0.0006103515625" c="-0.00103759765625" d="1.03627014160156" tx="25.6" ty="-32.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.8" y="3.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Left">
+                  <matrix>
+                    <Matrix a="1.054443359375" b="-0.001007080078125" c="0.001007080078125" d="1.054443359375" tx="17.8" ty="-63.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.35" y="0.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent">
+                  <matrix>
+                    <Matrix a="-0.24053955078125" b="-1.019775390625" c="-1.01980590820313" d="0.240570068359375" tx="12.7" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent">
+                  <matrix>
+                    <Matrix a="-0.718185424804688" b="-0.76287841796875" c="-0.762908935546875" d="0.718246459960938" tx="27.3" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="-1.02914428710938" b="-0.217864990234375" c="-0.217864990234375" d="1.02914428710938" tx="11.65" ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="1.054443359375" b="0.00103759765625" c="-0.00103759765625" d="1.054443359375" tx="30.55" ty="-70.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.05" y="1.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="-0.30157470703125" b="1.00343322753906" c="1.00346374511719" d="0.30157470703125" tx="48.2" ty="-14.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

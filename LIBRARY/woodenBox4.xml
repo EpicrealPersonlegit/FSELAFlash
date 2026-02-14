@@ -1,0 +1,155 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="woodenBox4" itemID="510b226d-000002b2" lastModified="1359684674">
+  <timeline>
+    <DOMTimeline name="woodenBox4">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF99FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!108 -494.5[#8F.11 #FFFE58.3B 76.5 -374.5!76.5 -374.5[#14.11 #FFFEB2.85 3 -281!3 -281[#FFFFFE.A9 #FFFEDC.FF -7 -300.5!-7 -300.5[#FFFFF5.49 #FFFECD.1E -15 -313!-15 -313[#FFFFDA.1A #FFFEA5.DE -77 -374.5!-77 -374.5[#FFFF70.AE #FFFE58.3B
+ -108 -494.5!-108 -494.5[#FFFFC6.B3 -547.71875 -15 -503!-15 -503[#FFFFF5.0B #FFFE0D.5C -7 -493.5!-7 -493.5[-3.9765625 #FFFE16.89 -1 -485!-1 -485|0.5 -485!0.5 -485[#30.85 #FFFDD3.54 108 -494.5"/>
+                    <Edge cubics="!-1487 -868(;-1520,-802 -1505,-746 -1443,-700q-1487 -868Q-1536 -769q-1443 -700);"/>
+                    <Edge cubics="!-1337 -855(;-1382,-922 -1432,-926 -1487,-868q-1337 -855Q-1404 -955q-1487 -868);"/>
+                    <Edge cubics="!-1185 -868(;-1152,-802 -1167,-746 -1229,-700q-1185 -868Q-1136 -769q-1229 -700);"/>
+                    <Edge cubics="!-1335 -855(;-1290,-922 -1240,-926 -1185,-868q-1335 -855Q-1268 -955q-1185 -868);"/>
+                    <Edge cubics="!-1229 -700(;-1254,-682 -1307,-647 -1332,-570q-1229 -700Q-1263 -675q-1280 -657Q-1316 -620q-1332 -570);"/>
+                    <Edge cubics="!-1332 -570(;-1365,-647 -1418,-682 -1443,-700q-1332 -570Q-1353 -620q-1390 -657Q-1408 -675q-1443 -700);"/>
+                    <Edge cubics="!-1335 -855(;-1335,-855 -1337,-855 -1337,-855q-1335 -855 -1337 -855);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!138.5 -291[#50.C2 #FFFF17.AC -1 -232.5!-1 -232.5[-4.015625 #FFFF17.82 -7 -232.5!-7 -232.5[#FFFFF4.F9 #FFFF17.4C -15 -233!-15 -233[#FFFFA8.3B #FFFF12.95 -141.5 -291!-141.5 -291[#FFFF38.EC #FFFEA3.82 -199 -430!-199 -430[#FFFF38.EC #FFFE00.56
+ -141.5 -570.5!-141.5 -570.5[#FFFFA8.3B #FFFD90.EC -15 -627.5!-15 -627.5[#FFFFF4.F9 #FFFD8C.35 -7 -628!-7 -628[-4.015625 #FFFD8B.FF -1 -628!-1 -628[#50.C2 #FFFD8B.ED 138.5 -570.5!138.5 -570.5[#C5.6C #FFFE00.56 197.5 -430!197.5 -430[#C5.6C
+ #FFFEA3.82 138.5 -291"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!458 -574.5|290 -574.5!290 -574.5[#10A.F9 #FFFD93.F9 228 -659!228 -659[#BC.D1 #FFFD45.D1 143 -721!143 -721|143 -889.5!143 -889.5|458 -889.5!458 -889.5|458 -574.5!0 -754[#FFFFFC.7D -754 -7 -754!-7 -754[#FFFFF4.FB #FFFD0E.3B -15 -753.5
+!-15 -753.5[-53.40625 #FFFD0F.DE -88.5 -742.5!-88.5 -742.5|-88.5 -854.5!-88.5 -854.5|86.5 -854.5!86.5 -854.5|86.5 -743!86.5 -743[45.5 -754 0 -754!87.5 -6.5|-87.5 -6.5!-87.5 -6.5|-87.5 -118!-87.5 -118[#FFFFCB.25 #FFFF93.4C -15 -107.5!-15
+ -107.5[-11.015625 #FFFF94.C9 -7 -107!-7 -107[-4.0078125 -107 -1 -107!-1 -107[#2D.9C -107 87.5 -118.5!87.5 -118.5|87.5 -6.5!323 -430[323 #FFFE23.64 311.5 -518.5!311.5 -518.5|423.5 -518.5!423.5 -518.5|423.5 -343.5!423.5 -343.5|312 -343.5
+!312 -343.5[323 -384.5 323 -430!290 -287|458.5 -287!458.5 -287|458.5 28!458.5 28|143.5 28!143.5 28|143.5 -140!143.5 -140[#BD.07 #FFFF5C.F9 228 -202!228 -202[#10B.2F #FFFF0E.D1 290 -287"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-229 -659[#FFFF41.F9 #FFFD46.07 -144.5 -721!-144.5 -721|-144.5 -889!-144.5 -889|-459.5 -889!-459.5 -889|-459.5 -574!-459.5 -574|-291 -574!-291 -574[#FFFEF3.D1 #FFFD94.2F -229 -659"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-229 -202[#FFFF42.2F #FFFF5D.2F -144 -140!-144 -140|-144 28.5!-144 28.5|-459 28.5!-459 28.5|-459 -286.5!-459 -286.5|-291 -286.5!-291 -286.5[#FFFEF4.07 #FFFF0F.07 -229 -202!-312.5 -342.5|-424.5 -342.5!-424.5 -342.5|-424.5 -517.5!-424.5
+ -517.5|-313 -517.5!-313 -517.5[-324 -476.5 -324 -431!-324 -431[-324 #FFFE7F.9C -312.5 -342.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!355 -427|-5 -427!-5 -427|-5 -65!-355 -427|-5 -427!-5 -427|-5 -777"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B0B0B0"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!399.5 -30.5|-400.5 -30.5!-400.5 -30.5|-400 -830!-400 -830|399.5 -830.5!399.5 -830.5|399.5 -30.5"/>
+                    <Edge cubics="!400 -800(;400,-800 400,0 400,0p400 -800q400 0);"/>
+                    <Edge cubics="!-400 -800(;-400,-800 -400,0 -400,0p-400 -800q-400 0);"/>
+                    <Edge cubics="!400 0(;400,0 -400,0 -400,0p400 0q-400 0);"/>
+                    <Edge cubics="!400 -800(;400,-800 -400,-800 -400,-800p400 -800q-400 -800);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

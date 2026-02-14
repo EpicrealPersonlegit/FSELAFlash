@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="awesome mouth" itemID="511978db-000024f9" lastModified="1360623835">
+  <timeline>
+    <DOMTimeline name="awesome mouth">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="2.4" ty="-20.6"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#8C0003"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F47171"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!534 887.5[#2B5.9D #2B8.DD 654.5 428!654.5 428[#28D.3E #1A3.F7 652 412!652 412|-661 412!-661 412[#FFFD6C.3E #1A3.F7 -658.5 428!-658.5 428[#FFFD95.12 700 -399 892!-399 892[#FFFEFA.B7 #3F4.C9 -103 1058"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-103 1058[#FFFFAB.5B #3B4.6C -2 865!-2 865[105 759 256 759!256 759[407 759 513 865!513 865[#20B.F2 #36C.0C 534 887.5"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-103 1058[-8.125 1085 94 1085!94 1085[#16E.0D 1085 530 892!530 892[#213.E5 #379.C9 534 887.5"/>
+                    <Edge strokeStyle="1" edges="!-759 412|-661 412"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

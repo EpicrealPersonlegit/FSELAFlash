@@ -1,0 +1,83 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="woodenBox2" itemID="50fcdb02-00001bf2" lastModified="1359247746" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="woodenBox2">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="caution">
+                  <matrix>
+                    <Matrix tx="-25.95" ty="-29.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.85" y="4.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="caution">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-4.9" ty="1.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.85" y="4.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!239 -754[228 -765 228 -781!228 -781[228 -797 239 -808!239 -808[250 -819 266 -819!266 -819[282 -819 293 -808!293 -808[304 -797 304 -781!304 -781[304 -765 293 -754!293 -754[282 -743 266 -743!266 -743[250 -743 239 -754!304 -226[304 -210
+ 293 -199!293 -199[282 -188 266 -188!266 -188[250 -188 239 -199!239 -199[228 -210 228 -226!228 -226[228 -242 239 -253!239 -253[250 -264 266 -264!266 -264[282 -264 293 -253!293 -253[304 -242 304 -226!-279 -738[-295 -738 -306 -749!-306
+ -749[-317 -760 -317 -776!-317 -776[-317 -792 -306 -803!-306 -803[-295 -814 -279 -814!-279 -814[-263 -814 -252 -803!-252 -803[-241 -792 -241 -776!-241 -776[-241 -760 -252 -749!-252 -749[-263 -738 -279 -738!-252 -199[-263 -188 -279 -188
+!-279 -188[-295 -188 -306 -199!-306 -199[-317 -210 -317 -226!-317 -226[-317 -242 -306 -253!-306 -253[-295 -264 -279 -264!-279 -264[-263 -264 -252 -253!-252 -253[-241 -242 -241 -226!-241 -226[-241 -210 -252 -199"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!365.5 -134.5|-365.5 -134.5!-365.5 -134.5|-365.5 -866!-365.5 -866|365.5 -866!365.5 -866|365.5 -134.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!500 -0.5|-500 -0.5!-500 -0.5|-500 -1000.5!-500 -1000.5|500 -1000.5!500 -1000.5|500 -0.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

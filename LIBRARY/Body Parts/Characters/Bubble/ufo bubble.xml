@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Characters/Bubble/ufo bubble" itemID="4e2a3653-000006c3" sourceFlashFilepath="D:\BFDI\20-4.fla" sourceLibraryItemHRef="Body Parts/Characters/Bubble/ufo bubble" sourceLastModified="1311389298" lastModified="1311389298" sourceItemID="4e2a3653-000006c3">
+  <timeline>
+    <DOMTimeline name="ufo bubble">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!438.5 -1506.5[#1F5.A3 #FFF9BE.2C 594 -1597.5!594 -1597.5[#2AE.A3 #FFF9C7.26 759 -1572.5!759 -1572.5[#4D5.B4 -1397.125 1370 -1173!1370 -1173[#5DE.3B #FFFC4B.1E 1478.5 -804!1478.5 -804[#5AE.FC #FFFD6C.CD 1343.5 -579.5!1343.5 -579.5[#4CF.C2
+ #FFFE0C.67 1131 -599.5!1131 -599.5[#406.35 #FFFD44.75 962 -907!962 -907[#37D.E4 #FFFBA5.7C 634.5 -1263!634.5 -1263[#177.0C #FFFA7C.92 438.5 -1506.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient focalPointRatio="0.564705882352941">
+                        <matrix>
+                          <Matrix a="0" b="0.118301391601563" c="-0.118301391601563" d="0" tx="-1" ty="3"/>
+                        </matrix>
+                        <GradientEntry color="#EDF4F8" alpha="0.752941176470588" ratio="0"/>
+                        <GradientEntry color="#BADAE7" alpha="0.752941176470588" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#86A8BD" alpha="0.752941176470588"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="
+!20 -1974[#FFFCE2.02 #FFF84A.07 -1376.5 -1396.5!-1376.5 -1396.5[#FFF85E.07 #FFFCCE.02 -1954 0!-1954 0[#FFF85E.04 #332.03 -1376.5 1395.5!-1376.5 1395.5[#FFFCE2.01 1974 20 1974!20 1974[#346.11 #7B6.11 1405 1392!1405 1392[#7B3.EA #329.EB
+ 1954 -40!1954 -40[#790.13 #FFFC86.13 1387 -1432!1387 -1432[#345.F3 #FFF849.F1 20 -1974"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1394 -1313[#73D.21 #FFFCD6.8B 1853.5 -46.5!1853.5 -46.5[#73D.FF #2CC.72 1317 1265!1317 1265[780 #715.73 20 1814!20 1814[#FFFD1B.F3 #716.71 -1277 1287!-1277 1287[#FFF8EA.1B #2F7.D2 -1833 0!-1833 0[#FFF8C3.AC #FFFD08.4A -1294 -1319!-1294
+ -1319[-735.65625 #FFF8A9.A5 99.5 -1847.5!99.5 -1847.5[#3A6.BD #FFF8E7.6A 1394 -1313"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

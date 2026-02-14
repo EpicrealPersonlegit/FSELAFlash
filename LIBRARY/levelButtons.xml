@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="levelButtons" itemID="50fd9207-00000bf2" linkageExportForAS="true" linkageIdentifier="levelButtons" lastModified="1360650291">
+  <timeline>
+    <DOMTimeline name="levelButtons">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="levelMapButton" name="levelMapButton" symbolType="button">
+                  <matrix>
+                    <Matrix tx="837.5" ty="486.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="textie" selected="true" fontRenderingMode="device" width="516.3" height="35.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="14.85" ty="491.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" bold="true" lineSpacing="-5" size="32" bitmapSize="640" face="_sans" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

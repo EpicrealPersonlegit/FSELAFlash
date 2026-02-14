@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="steam" itemID="4e7653d3-000073d9" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="steam" sourceLastModified="1350270977" lastModified="1350270977" lastUniqueIdentifier="6" sourceItemID="4e7653d3-000073d9">
+  <timeline>
+    <DOMTimeline name="steam">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="wispgggg">
+                  <matrix>
+                    <Matrix d="0.888626098632813" tx="-1.45" ty="16.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wispgggg">
+                  <matrix>
+                    <Matrix a="0.971267700195313" d="-0.86309814453125" tx="19.05" ty="16.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wispgggg">
+                  <matrix>
+                    <Matrix a="-0.532867431640625" b="-0.0541229248046875" c="-0.048095703125" d="0.4735107421875" tx="-7.3" ty="-56.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wispgggg">
+                  <matrix>
+                    <Matrix a="0.788909912109375" b="0.153060913085938" c="-0.0747528076171875" d="0.304244995117188" tx="5.5" ty="59.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wispgggg">
+                  <matrix>
+                    <Matrix a="0.260574340820313" b="1.4595947265625" c="0.06787109375" d="-0.009552001953125" tx="2.5" ty="-38.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="-0.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

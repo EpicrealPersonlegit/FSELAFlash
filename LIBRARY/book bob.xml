@@ -1,0 +1,184 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="book bob" itemID="50fa0ae6-000012c4" lastModified="1358734943" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="book bob">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="12" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.527777777777778"/>
+                  <Point x="0.613953488372093" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent Curled">
+                  <matrix>
+                    <Matrix a="0.169174194335938" b="-0.334335327148438" c="-0.32513427734375" d="-0.164520263671875" tx="17.95" ty="-17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="-1.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.547619047619048"/>
+                  <Point x="0.630232558139535" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent Curled">
+                  <matrix>
+                    <Matrix a="-0.37518310546875" b="-1.52587890625e-005" c="-1.52587890625e-005" d="0.3648681640625" tx="18.9" ty="-17.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="-1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent Curled">
+                  <matrix>
+                    <Matrix a="0.169174194335938" b="-0.334335327148438" c="-0.32513427734375" d="-0.164520263671875" tx="17.95" ty="-17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="-1.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="book!!!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="7" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="book!!!">
+                  <matrix>
+                    <Matrix ty="3.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="6" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="book!!!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="6" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="book!!!">
+                  <matrix>
+                    <Matrix ty="3.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="book!!!">
+                  <matrix>
+                    <Matrix ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-20.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.547619047619048"/>
+                  <Point x="0.630232558139535" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent Curled">
+                  <matrix>
+                    <Matrix a="-0.37518310546875" b="-1.52587890625e-005" c="-1.52587890625e-005" d="0.3648681640625" tx="-22.1" ty="-17.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="-1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="12" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.547619047619048"/>
+                  <Point x="0.630232558139535" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent Curled">
+                  <matrix>
+                    <Matrix a="0.169174194335938" b="-0.334335327148438" c="-0.32513427734375" d="-0.164520263671875" tx="-21.05" ty="-17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="-1.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent Curled">
+                  <matrix>
+                    <Matrix a="-0.37518310546875" b="-1.52587890625e-005" c="-1.52587890625e-005" d="0.3648681640625" tx="-22.1" ty="-17.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="-1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

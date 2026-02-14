@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="wisp" itemID="50fcb664-00001417" lastModified="1358739044">
+  <timeline>
+    <DOMTimeline name="wisp">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-425.85" ty="-57.4"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.101960784313725"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17906 2230[17209 2789 15319 2539!15319 2539[13924 2355 12343 1825!12343 1825[11516 1648 10648 1749!10648 1749[10248 1796 9695 1911!9695 1911[9315 1991 8517 2180!8517 2180[10307 1060 11887 1155!11887 1155[12177 1172 13012 1416!13012 1416
+[13255 1486 13797 1649!13797 1649[14307 1800 14664 1897!14664 1897[15711 2183 16432 2277!16432 2277[17362 2398 17906 2230"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

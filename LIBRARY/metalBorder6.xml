@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="metalBorder6" itemID="511e93a1-00000511" lastModified="1360995341">
+  <timeline>
+    <DOMTimeline name="metalBorder6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.301960784313725"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#FFFFFF" alpha="0.2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!480 120|120 120!120 120|120 479.5!120 479.5|480 479.5!480 479.5|480 120"/>
+                    <Edge fillStyle1="3" edges="!440 160|319.5 160!319.5 160|319.5 159.5!319.5 159.5|280.5 159.5!280.5 159.5|280.5 160!280.5 160|160 160!160 160|160 279.5!160 279.5|159.5 279.5!159.5 279.5|159.5 319.5!159.5 319.5|160 319.5!160 319.5|160 439.5!160 439.5|280.5 439.5!280.5
+ 439.5|280.5 440!280.5 440|319.5 440!319.5 440|319.5 439.5!319.5 439.5|440 439.5!440 439.5|440 319.5!440 319.5|440.5 319.5!440.5 319.5|440.5 279.5!440.5 279.5|440 279.5!440 279.5|440 160"/>
+                    <Edge fillStyle1="1" edges="
+!279.5 279.5|319.5 279.5!319.5 279.5|319.5 319.5!319.5 319.5|279.5 319.5!279.5 319.5|279.5 279.5"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!560 560|560 40!560 40|40 40!40 40|40 560!40 560|560 560"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!80 520|80 80!80 80|520 80!520 80|520 520!520 520|80 520"/>
+                    <Edge fillStyle1="2" edges="
+!0 600|0 0!0 0|600 0!600 0|600 600!600 600|0 600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

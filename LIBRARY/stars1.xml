@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stars1" itemID="5117f97f-0000012f" lastModified="1360525695">
+  <timeline>
+    <DOMTimeline name="stars1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-15.5" ty="-16"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!580 199.5|580 159.5!580 159.5|620 159.5!620 159.5|620 199.5!620 199.5|580 199.5!460 459.5|460 419.5!460 419.5|500 419.5!500 419.5|500 459.5!500 459.5|460 459.5!320 99.5|320 59.5!320 59.5|360 59.5!360 59.5|360 99.5!360 99.5|320 99.5!80
+ 40.5|80 80.5!80 80.5|40 80.5!40 80.5|40 40.5!40 40.5|80 40.5!160 239.5|120 239.5!120 239.5|120 199.5!120 199.5|160 199.5!160 199.5|160 239.5!200 359.5|240 359.5!240 359.5|240 399.5!240 399.5|200 399.5!200 399.5|200 359.5!0 499.5|40 499.5
+!40 499.5|40 539.5!40 539.5|0 539.5!0 539.5|0 499.5!340 559.5|380 559.5!380 559.5|380 599.5!380 599.5|340 599.5!340 599.5|340 559.5!540 539.5|580 539.5!580 539.5|580 579.5!580 579.5|540 579.5!540 579.5|540 539.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

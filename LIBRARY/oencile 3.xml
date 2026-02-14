@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="oencile 3" itemID="50e24b2f-00093367" sourceFlashFilepath="../../../../5-9.fla" sourceLibraryItemHRef="oencile 3" sourceLastModified="1357007669" symbolType="graphic" lastModified="1357007669" sourceItemID="50e24b2f-00093367">
+  <timeline>
+    <DOMTimeline name="oencile 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="152" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="-1.85865783691406" b="0.0635986328125" c="0.0539093017578125" d="1.57568359375" tx="30.95" ty="-148"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Walk Cycle" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="1.57908630371094" c="0.2681884765625" d="1.85940551757813" tx="13.85" ty="-59.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Walk Cycle" symbolType="graphic" firstFrame="8" loop="loop">
+                  <matrix>
+                    <Matrix a="1.57908630371094" d="1.74412536621094" tx="-20.35" ty="-56.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Pencil Body">
+                  <matrix>
+                    <Matrix a="-1.577880859375" b="0.0337371826171875" c="0.0337371826171875" d="1.577880859375" tx="-4.1" ty="-229.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1" y="1.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Bent">
+                  <matrix>
+                    <Matrix a="1.57298278808594" b="0.117279052734375" c="-0.117279052734375" d="1.57298278808594" tx="-32.05" ty="-145.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

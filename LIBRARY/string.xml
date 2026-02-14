@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="string" itemID="50fcd6cf-00001b5f" lastModified="1358747343">
+  <timeline>
+    <DOMTimeline name="string">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="43.6" ty="94.5"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#181818"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#181818"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-940 -1890[-885 -1287 -885 -1220!-885 -1220[#FFFCAB.F1 #FFFCEC.F1 -850 -739.5"/>
+                    <Edge strokeStyle="2" edges="!-850 -739.5[#FFFCC5.3B #FFFD22.FA -819 -700!-819 -700[-806 -646 -805 -645!-805 -645|-805 -595!-805 -595|-835 -595!-835 -595[-840 -599 -850 -601!-850 -601[-859 -606 -865 -620"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ball" itemID="502b081d-00000224" sourceFlashFilepath="../../../../3-7.fla" sourceLibraryItemHRef="ball" sourceLastModified="1344997406" lastModified="1344997406" sourceItemID="502b081d-00000224">
+  <timeline>
+    <DOMTimeline name="ball">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="176.4" ty="-67.7"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0D0B0D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#181818"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-2667 841.5[#FFF556.5C #2E2.5C -2821 647!-2821 647[-3114 354 -3528 354!-3528 354[-3942 354 -4235 647!-4235 647[-4528 940 -4528 1354!-4528 1354[-4528 #6DD.D3 -4249 2046.5"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!-4249 2046.5[-4388 #71A.E9 -4388 1534!-4388 1534[-4388 1120 -4095 827!-4095 827[-3802 534 -3388 534!-3388 534[-2974 534 -2681 827!-2681 827[#FFF58E.35 #342.35 -2667 841.5"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-2929 803[#FFF4DF.F4 #376.CE -2848 1004!-2848 1004[#FFF4DF.FB #464.0B -2933 1209!-2933 1209[#FFF436.0B #50D.FC -3138 1294!-3138 1294[#FFF345.F4 #50D.FC -3343 1209!-3343 1209[#FFF2D6.95 #49E.75 -3387.5 1152.5!-3387.5 1152.5[#FFF29C.18
+ #43E.8F -3428 1004!-3428 1004[#FFF29C.04 #373.F4 -3343 799!-3343 799[#FFF345.F4 #2CA.04 -3138 714!-3138 714[#FFF436.0B #2CA.04 -2933 799!-2933 799[#FFF48D.0F #320.FC -2929 803"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-2667 841.5[-2528 #42D.17 -2528 1354!-2528 1354[-2528 1768 -2821 2061!-2821 2061[-3114 2354 -3528 2354!-3528 2354[-3942 2354 -4235 2061!-4235 2061[#FFEF6D.CC #805.CC -4249 2046.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

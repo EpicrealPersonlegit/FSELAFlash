@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Two Legs" itemID="4b143949-00001f51" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Limbs/Legs/Two Legs" sourceLastModified="1259616585" lastModified="1259616585" sourceItemID="4b143949-00001f51">
+  <timeline>
+    <DOMTimeline name="Two Legs">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight" selected="true" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix d="1.10452270507813" tx="2.6" ty="-15.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight" selected="true" symbolType="graphic" firstFrame="5" loop="play once">
+                  <matrix>
+                    <Matrix d="1.10452270507813" tx="-19.05" ty="-13.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

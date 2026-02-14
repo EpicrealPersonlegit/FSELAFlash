@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="tower5 6" itemID="5108ac71-00000a63" lastModified="1359522965">
+  <timeline>
+    <DOMTimeline name="tower5 6">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.168627450980392"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor alpha="0.180392156862745"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!0 3978|-58 3978!-58 3978|-58 3881!-58 3881|-2.5 3881!-2.5 3881|68 3437!68 3437|138 3881!138 3881|196 3881!196 3881|196 3978!196 3978|140 3978"/>
+                    <Edge fillStyle1="1" edges="!140 3978|140 8039!140 8039|0 8039!0 8039|0 3978"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!140 3978|0 3978"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="blacony 2">
+                  <matrix>
+                    <Matrix tx="3.5" ty="270.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-10.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="blacony 2">
+                  <matrix>
+                    <Matrix tx="3.5" ty="334.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-10.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="blacony 2">
+                  <matrix>
+                    <Matrix tx="3.5" ty="233.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-10.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

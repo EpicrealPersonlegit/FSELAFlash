@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Burst" itemID="4ba6cb84-000062f0" sourceFlashFilepath="../../../../1-4.fla" sourceLibraryItemHRef="Effects/Burst" sourceLastModified="1340249348" lastModified="1358723025" sourceItemID="4ba6cb84-000062f0">
+  <timeline>
+    <DOMTimeline name="Burst">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1665 -629|2941 -608!2941 -608|1778 -83!1778 -83|2985 330!2985 330|1717 470!1717 470|2737 1236!2737 1236|1488 978!1488 978|2222 2022!2222 2022|1113 1389!1113 1389|1488 2609!1488 2609|630 1665!630 1665|609 2941!609 2941|84 1778!84 1778
+|-329 2985!-329 2985|-469 1717!-469 1717|-1235 2737!-1235 2737|-977 1488!-977 1488|-2020 2222!-2020 2222|-1388 1113!-1388 1113|-2608 1488!-2608 1488|-1664 630!-1664 630|-2940 609!-2940 609|-1777 84!-1777 84|-2984 -329!-2984 -329|-1716
+ -469!-1716 -469|-2736 -1235!-2736 -1235|-1487 -977!-1487 -977|-2220 -2020!-2220 -2020|-1112 -1388!-1112 -1388|-1487 -2608!-1487 -2608|-629 -1664!-629 -1664|-608 -2940!-608 -2940|-83 -1777!-83 -1777|330 -2984!330 -2984|470 -1716!470 -1716
+|1236 -2736!1236 -2736|978 -1487!978 -1487|2021 -2220!2021 -2220|1389 -1112!1389 -1112|2609 -1487!2609 -1487|1665 -629"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

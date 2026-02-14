@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="book 2!!" itemID="50fcdc26-00001d09" lastModified="1358748739">
+  <timeline>
+    <DOMTimeline name="book 2!!">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Dictionary's Body">
+                  <matrix>
+                    <Matrix a="-0.283843994140625" b="0.013671875" c="0.0098114013671875" d="0.283966064453125" tx="-0.85" ty="-25.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.375244140625" b="0.0051116943359375" d="0.375244140625" tx="-9.05" ty="-29.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.8" y="4.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Neutral/Neutral Closed">
+                  <matrix>
+                    <Matrix a="-0.318145751953125" b="0.0123748779296875" c="0.01629638671875" d="0.310256958007813" tx="-2.5" ty="-16.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.75" y="4.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Right">
+                  <matrix>
+                    <Matrix a="-0.375244140625" b="0.0051116943359375" d="0.375244140625" tx="4.2" ty="-29.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.8" y="4.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

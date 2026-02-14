@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Dictionary's Body" itemID="4d9bde32-00003340" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Dictionary's Body" sourceLastModified="1302998240" lastModified="1302998240" sourceItemID="4d9bde32-00003340">
+  <timeline>
+    <DOMTimeline name="Dictionary's Body">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#24B814"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#2DE418"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#1E9A10"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#139CB9"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#11580A"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#094E59"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="!310.5 -1570|284.5 -1490"/>
+                    <Edge fillStyle0="7" fillStyle1="5" edges="!284.5 -1490|1314 -1490!1314 -1490|1314 1701!1314 1701|-746 1701"/>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="!-746 1701|-772 1781"/>
+                    <Edge fillStyle0="7" edges="!-772 1781|1394 1781!1394 1781|1394 1570"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="!1394 1570|1394 -1570!1394 -1570|310.5 -1570"/>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="!379 -1781|353 -1701"/>
+                    <Edge fillStyle0="7" fillStyle1="5" edges="!353 -1701|1527 -1701!1527 -1701|1527 1490!1527 1490|1454 1490!1454 1490|1447.5 1498.5"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="!1447.5 1498.5|1394 1570"/>
+                    <Edge fillStyle0="7" edges="!1394 1570[#574.72 #622.04 1399 1570!1399 1570|1607 1570!1607 1570|1607 -1781!1607 -1781|379 -1781"/>
+                    <Edge fillStyle0="2" fillStyle1="5" edges="!343 -1670|353 -1701"/>
+                    <Edge fillStyle0="2" fillStyle1="6" edges="!353 -1701|-956 -1701!-956 -1701[#FFFBC6.06 #FFF98C.77 -1177.5 -1701!-1177.5 -1701|-1412 -1570!-1412 -1570[#FFFAAA.84 #FFF9D2.06 -1313 -1585"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!-1313 -1585|-1147.5 -1671.5!-1147.5 -1671.5|343 -1670"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="!1447.5 1498.5|1489 1442!1489 1442|1489 -1669!1489 -1669|343 -1670"/>
+                    <Edge fillStyle1="6" edges="!-772 1781|-1220 1781!-1220 1781[#FFFAF8.3A #6C4.43 -1390.5 1731!-1390.5 1731[#FFFA2A.F6 #6C1.F8 -1606 1781!-1606 1781|-1606 -1542!-1606 -1542|-1198.5 -1781!-1198.5 -1781[#FFFBC4.E4 #FFF95E.FA -956 -1781!-956 -1781|379 -1781"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="!-1411.5 -1518[#FFFA42.89 #FFFA17.CF -1526 -1490!-1526 -1490|-1526 1701!-1526 1701[#FFFA44.3 #687.6E -1411 1667.5"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!-1411 1667.5|-1411.5 -1518"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="!-1313 -1585[#FFFB0E.1F #FFF9D0.8E -1211 -1570!-1211 -1570|310.5 -1570"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="!-1411.5 -1518[#FFFADE.9B #FFFA08.91 -1211 -1490"/>
+                    <Edge fillStyle0="6" fillStyle1="2" edges="!-1211 -1490|284.5 -1490"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="!-1211 1701[#FFFAC7.2D #67E.61 -1411 1667.5"/>
+                    <Edge fillStyle0="6" fillStyle1="2" edges="!-746 1701|-1211 1701"/>
+                    <Edge fillStyle0="5" fillStyle1="2" edges="!284.5 -1490[#15C.2D #FFFDA7.D1 -182.5 -43.5!-182.5 -43.5[#FFFD16.2D #2EC.8B -746 1701"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!-1211 -1490|-1211 1701"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bar2" itemID="50fda691-000013b9" lastModified="1360473236">
+  <timeline>
+    <DOMTimeline name="bar2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#626262"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.01220703125" c="0.18310546875" d="0" tx="156.95" ty="48.75"/>
+                        </matrix>
+                        <GradientEntry color="#CCCCCC" ratio="0"/>
+                        <GradientEntry color="#999999" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!5999.5 800|6000 800!6000 800|6000 6800!6000 6800|0 6800!0 6800|0 800"/>
+                    <Edge fillStyle1="1" edges="!0 800|-0.5 800!-0.5 800|-0.5 0!-0.5 0|5999.5 0!5999.5 0|5999.5 800"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!0 800|5999.5 800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

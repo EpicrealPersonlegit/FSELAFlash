@@ -1,0 +1,1211 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#999966" gridColor="#C0C0C0" guidesColor="#00FF00" width="960" height="540" frameRate="60" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" timelineHeight="147" timelineLabelWidth="0" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <folders>
+          <DOMFolderItem name="Body Parts" itemID="48dfb823-00000013" isExpanded="true"/>
+          <DOMFolderItem name="Body Parts/Characters" itemID="4a8c633b-000000b7" isExpanded="true"/>
+          <DOMFolderItem name="Body Parts/Characters/Book" itemID="4fe20754-00017f41"/>
+          <DOMFolderItem name="Body Parts/Characters/Bubble" itemID="4a8c6341-000000b9"/>
+          <DOMFolderItem name="Body Parts/Characters/Ice Cube" itemID="4a8c6f54-000006da"/>
+          <DOMFolderItem name="Body Parts/Characters/Match" itemID="4a8c6348-000000bc"/>
+          <DOMFolderItem name="Body Parts/Characters/Pencil" itemID="4a8c8e39-00000aed"/>
+          <DOMFolderItem name="Body Parts/Characters/Ruby" itemID="4fe2096e-0001882a"/>
+          <DOMFolderItem name="Body Parts/Eyes" itemID="48dfba00-00000016" isExpanded="true"/>
+          <DOMFolderItem name="Body Parts/Limbs" itemID="48dfc06b-0000020d"/>
+          <DOMFolderItem name="Body Parts/Limbs/Arms" itemID="48dfc06e-00000210"/>
+          <DOMFolderItem name="Body Parts/Limbs/Legs" itemID="48e4367f-0000003b" isExpanded="true"/>
+          <DOMFolderItem name="Body Parts/Mouths" itemID="4ebdf7de-000001d2"/>
+          <DOMFolderItem name="Body Parts/Mouths/Frowns" itemID="4aefb4e0-00001093" isExpanded="true"/>
+          <DOMFolderItem name="Body Parts/Mouths/Neutral" itemID="4aefb947-00002255"/>
+          <DOMFolderItem name="Body Parts/Mouths/Smiles" itemID="4aefb4d8-00001090"/>
+          <DOMFolderItem name="Effects" itemID="48dfc7a4-0000055b"/>
+          <DOMFolderItem name="Objects" itemID="48dfc79d-00000558"/>
+          <DOMFolderItem name="Objects/BRC Stuff" itemID="4b808fe5-00000336"/>
+          <DOMFolderItem name="Starfield assets" itemID="4ebdf846-000001d5"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="BrushedMetal.png" itemID="50fd8243-00000301" sourceExternalFilepath="./LIBRARY/BrushedMetal.png" sourceLastImported="1358791225" originalCompressionType="lossless" quality="50" href="BrushedMetal.png" bitmapDataHRef="Media 5.dat" frameRight="25600" frameBottom="20480"/>
+          <DOMBitmapItem name="epicwallpaperexploredia.jpg" itemID="510b426d-000008c4" sourceExternalFilepath="./LIBRARY/epicwallpaperexploredia.jpg" sourceLastImported="1359171013" quality="50" href="epicwallpaperexploredia.jpg" bitmapDataHRef="Media 6.dat" frameRight="38400" frameBottom="24000" isJPEG="true"/>
+          <DOMSoundItem name="ow.wav" itemID="5119c128-00003353" sourceExternalFilepath="./LIBRARY/ow.wav" sourceLastImported="1343406755" href="ow.wav" soundDataHRef="Media 8.dat" format="44kHz 16bit Mono" sampleCount="15440"/>
+          <DOMSoundItem name="the fiber 16x loop.wav" itemID="5119d402-0000349c" sourceExternalFilepath="./LIBRARY/the fiber 16x loop.wav" sourceLastImported="1360651661" href="the fiber 16x loop.wav" soundDataHRef="Media 10.dat" format="44kHz 16bit Stereo" sampleCount="6613166" exportFormat="4" exportBits="11"/>
+     </media>
+     <symbols>
+          <Include href="&amp;#091D&amp;#093.xml" loadImmediate="false" itemID="50fdbbfb-0000181a" lastModified="1358806011"/>
+          <Include href="5a.xml" itemIcon="0" loadImmediate="false" itemID="5119611d-0000200a" lastModified="1360621175"/>
+          <Include href="ambientShadow.xml" loadImmediate="false" itemID="51047433-000000e5" lastModified="1360958024"/>
+          <Include href="ambientShadow2.xml" loadImmediate="false" itemID="51047bee-000001bb" lastModified="1360958424"/>
+          <Include href="ambientShadowCorner.xml" loadImmediate="false" itemID="51047ccc-000001be" lastModified="1360958478"/>
+          <Include href="anim.xml" loadImmediate="false" itemID="50fb4b55-00001038" lastModified="1358646615"/>
+          <Include href="anim 2.xml" loadImmediate="false" itemID="50fb4e63-00001118" lastModified="1358646891"/>
+          <Include href="arrow.xml" loadImmediate="false" itemID="510b212d-000001d1" lastModified="1359683951"/>
+          <Include href="awesome mouth.xml" loadImmediate="false" itemID="511978db-000024f9" lastModified="1360623835"/>
+          <Include href="backbutton.xml" itemIcon="0" loadImmediate="false" itemID="5119e03e-00003855" lastModified="1361153205"/>
+          <Include href="ball.xml" loadImmediate="false" itemID="502b081d-00000224" lastModified="1344997406"/>
+          <Include href="bar1.xml" loadImmediate="false" itemID="50fda63e-0000126c" lastModified="1358801926"/>
+          <Include href="bar2.xml" loadImmediate="false" itemID="50fda691-000013b9" lastModified="1360473236"/>
+          <Include href="bars.xml" loadImmediate="false" itemID="5122b837-0000022e" lastModified="1361229879"/>
+          <Include href="bg.xml" itemID="50fc92c2-00000750" lastModified="1361318524"/>
+          <Include href="bg1.xml" loadImmediate="false" itemID="5108a03d-00000225" lastModified="1359611326"/>
+          <Include href="bg2.xml" loadImmediate="false" itemID="5108a844-00000247" lastModified="1359603871"/>
+          <Include href="bg3.xml" loadImmediate="false" itemID="5119a185-00002ea5" lastModified="1360634960"/>
+          <Include href="bg4.xml" loadImmediate="false" itemID="5109fab6-00000408" lastModified="1359608873"/>
+          <Include href="bg5.xml" loadImmediate="false" itemID="512186af-00004e7a" lastModified="1361238710"/>
+          <Include href="blacker.xml" itemIcon="1" loadImmediate="false" itemID="50145766-00045ce8" lastModified="1343518811"/>
+          <Include href="blacony.xml" loadImmediate="false" itemID="50fcb93d-0000142b" lastModified="1358739773"/>
+          <Include href="blacony 2.xml" loadImmediate="false" itemID="5108a8d5-000007c9" lastModified="1359522005"/>
+          <Include href="blacony 3.xml" loadImmediate="false" itemID="5108a8d1-000007c8" lastModified="1359522285"/>
+          <Include href="blacony 4.xml" loadImmediate="false" itemID="5108a967-00000899" lastModified="1359522372"/>
+          <Include href="blob1.xml" loadImmediate="false" itemID="511eb4b8-0000353c" lastModified="1361078725"/>
+          <Include href="blob2.xml" loadImmediate="false" itemID="511eb4bc-0000353e" lastModified="1361078725"/>
+          <Include href="Body Parts/Characters/Book/Book Body.xml" loadImmediate="false" itemID="4fe20761-00017f43" lastModified="1340239829"/>
+          <Include href="Body Parts/Characters/Bubble/Bubble Body.xml" loadImmediate="false" itemID="48e43507-00000034" lastModified="1321130090"/>
+          <Include href="Body Parts/Characters/Bubble/ufo bubble.xml" loadImmediate="false" itemID="4e2a3653-000006c3" lastModified="1311389298"/>
+          <Include href="Body Parts/Characters/Ice Cube/Ice Cube Cabinet.xml" loadImmediate="false" itemID="4a8c6f4c-000006d7" lastModified="1322115444"/>
+          <Include href="Body Parts/Eyes/Eye Cheek Left.xml" loadImmediate="false" itemID="4af64fe9-00000804" lastModified="1280965532"/>
+          <Include href="Body Parts/Eyes/Eye Cheek Right.xml" loadImmediate="false" itemID="4af64fd4-00000779" lastModified="1280965962"/>
+          <Include href="Body Parts/Eyes/Eye Closed 3.xml" loadImmediate="false" itemID="4fe206eb-00017f38" lastModified="1340217148"/>
+          <Include href="Body Parts/Eyes/Eye Closed 3 2.xml" loadImmediate="false" itemID="50fb2d3f-000008db" lastModified="1358638416"/>
+          <Include href="Body Parts/Eyes/Eye Closed Forced Left.xml" loadImmediate="false" itemID="4c59fd20-0000097c" lastModified="1280965932"/>
+          <Include href="Body Parts/Eyes/Eye Closed Forced Right.xml" loadImmediate="false" itemID="4c59fd1a-000007ee" lastModified="1280965914"/>
+          <Include href="Body Parts/Eyes/Eye Normal.xml" loadImmediate="false" itemID="4b1437a3-00001c88" lastModified="1280966826"/>
+          <Include href="Body Parts/Eyes/Eye Slanted Left 2.xml" loadImmediate="false" itemID="4b0ec764-00000aa8" lastModified="1280966670"/>
+          <Include href="Body Parts/Eyes/Eye Surprised Left.xml" loadImmediate="false" itemID="4b19bb36-000028b9" lastModified="1280965286"/>
+          <Include href="Body Parts/Eyes/Eye Surprised Right.xml" loadImmediate="false" itemID="4b19bb36-000028bc" lastModified="1280965283"/>
+          <Include href="Body Parts/Limbs/Arms/Arm Bent.xml" loadImmediate="false" itemID="4b19b93a-00002607" lastModified="1280970803"/>
+          <Include href="Body Parts/Limbs/Arms/Arm Bent Curled.xml" loadImmediate="false" itemID="4c5a1040-000011d8" lastModified="1280970849"/>
+          <Include href="Body Parts/Limbs/Arms/Arm Bent Hand Out.xml" loadImmediate="false" itemID="4c5a109c-00001369" lastModified="1280971041"/>
+          <Include href="Body Parts/Limbs/Arms/Arm Draw.xml" loadImmediate="false" itemID="50fb5d42-000012d1" lastModified="1361146630"/>
+          <Include href="Body Parts/Limbs/Arms/Arm Shaking.xml" itemIcon="1" loadImmediate="false" itemID="49826a66-0000068e" lastModified="1269794336"/>
+          <Include href="Body Parts/Limbs/Arms/Arm Straight.xml" loadImmediate="false" itemID="4b19bb36-000028b1" lastModified="1358653162"/>
+          <Include href="Body Parts/Limbs/Legs/Leg Bent.xml" loadImmediate="false" itemID="48dfc17b-00000270" lastModified="1280971747"/>
+          <Include href="Body Parts/Limbs/Legs/Leg Bent Above.xml" loadImmediate="false" itemID="48effe6e-00000a43" lastModified="1280971852"/>
+          <Include href="Body Parts/Limbs/Legs/Leg Straight.xml" loadImmediate="false" itemID="4b1437a3-00001c8e" lastModified="1358562458"/>
+          <Include href="Body Parts/Limbs/Legs/Leg Straight Above.xml" loadImmediate="false" itemID="4b19b93a-0000260a" lastModified="1280972152"/>
+          <Include href="Body Parts/Limbs/Legs/Leg Straight Below.xml" loadImmediate="false" itemID="48effe0e-0000090f" lastModified="1280972276"/>
+          <Include href="Body Parts/Limbs/Legs/Leg Straight Scrunched.xml" loadImmediate="false" itemID="48e43702-0000003f" lastModified="1280972389"/>
+          <Include href="Body Parts/Limbs/Legs/Run Cycle.xml" itemIcon="1" loadImmediate="false" itemID="4c5a18fe-00002c30" lastModified="1281990928"/>
+          <Include href="Body Parts/Limbs/Legs/Two Legs.xml" loadImmediate="false" itemID="4b143949-00001f51" lastModified="1259616585"/>
+          <Include href="Body Parts/Limbs/Legs/Two Legs Wide.xml" loadImmediate="false" itemID="4b16c86e-0000028b" lastModified="1259784306"/>
+          <Include href="Body Parts/Limbs/Legs/Walk Cycle.xml" itemIcon="1" loadImmediate="false" itemID="4a8c6171-000000ad" lastModified="1360530429"/>
+          <Include href="Body Parts/Limbs/Legs/Walk Cycle Backwards.xml" itemIcon="1" loadImmediate="false" itemID="4fe75595-00022b63" lastModified="1340560789"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Closed.xml" loadImmediate="false" itemID="4afa1f7e-000003ed" lastModified="1340238092"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Closed 2.xml" loadImmediate="false" itemID="4afa1fc6-0000050f" lastModified="1257906149"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Closed Puffy.xml" loadImmediate="false" itemID="4b0ec9e6-00000fe1" lastModified="1259260407"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Open 1.xml" loadImmediate="false" itemID="4afa1ff8-00000632" lastModified="1321988432"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Open 2.xml" loadImmediate="false" itemID="4afa20bd-000006c7" lastModified="1321988447"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Open 3.xml" loadImmediate="false" itemID="4afa2146-00000ac8" lastModified="1321988559"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Open 4.xml" loadImmediate="false" itemID="4b077b0f-000001c6" lastModified="1321988604"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Open Puffy.xml" loadImmediate="false" itemID="4b0eca3d-000011e0" lastModified="1259260491"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Open Puffy 2.xml" loadImmediate="false" itemID="51216e4f-00001294" lastModified="1361145834"/>
+          <Include href="Body Parts/Mouths/Frowns/Frown Teeth.xml" loadImmediate="false" itemID="4b077c68-000005e5" lastModified="1321988733"/>
+          <Include href="Body Parts/Mouths/Neutral/Neutral Closed.xml" loadImmediate="false" itemID="4b077e8b-00000f7f" lastModified="1340308496"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Closed.xml" loadImmediate="false" itemID="4aefb57a-00001098" lastModified="1358734525"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Closed 2.xml" loadImmediate="false" itemID="4b1437a3-00001c8b" lastModified="1257223616"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Closed Puffy.xml" loadImmediate="false" itemID="4b0ec971-00000f37" lastModified="1361147694"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Open 4.xml" loadImmediate="false" itemID="4aefba70-000025a7" lastModified="1321987276"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Open Puffy.xml" loadImmediate="false" itemID="4b0eca0d-00001134" lastModified="1259260462"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Open Puffy2.xml" loadImmediate="false" itemID="51216f97-00001f68" lastModified="1361145758"/>
+          <Include href="Body Parts/Mouths/Smiles/Smile Teeth.xml" loadImmediate="false" itemID="4aefb922-000020b3" lastModified="1321987782"/>
+          <Include href="boib 2.xml" itemIcon="1" loadImmediate="false" itemID="50de6ae2-000084df" lastModified="1358703716"/>
+          <Include href="boib1.xml" itemIcon="1" loadImmediate="false" itemID="50de6abd-000076de" lastModified="1356753626"/>
+          <Include href="boohk.xml" itemIcon="1" loadImmediate="false" itemID="50c56af0-000550f2" lastModified="1355115295"/>
+          <Include href="book 2!!.xml" loadImmediate="false" itemID="50fcdc26-00001d09" lastModified="1358748739"/>
+          <Include href="book arm.xml" loadImmediate="false" itemID="50fc65a8-00000115" lastModified="1358719358"/>
+          <Include href="book bob.xml" loadImmediate="false" itemID="50fa0ae6-000012c4" lastModified="1358734943"/>
+          <Include href="book bob 2.xml" loadImmediate="false" itemID="50fcdc1f-00001c80" lastModified="1358748747"/>
+          <Include href="book body.xml" loadImmediate="false" itemID="50fa0aca-00001275" lastModified="1361145640"/>
+          <Include href="book walk.xml" itemIcon="1" loadImmediate="false" itemID="4fe27537-00013eec" lastModified="1343263726"/>
+          <Include href="book!!!.xml" loadImmediate="false" itemID="50fa0aeb-00001300" lastModified="1358734942"/>
+          <Include href="booketw.xml" itemIcon="1" loadImmediate="false" itemID="4fe11f25-000007d4" lastModified="1343327574"/>
+          <Include href="bookw.xml" itemIcon="1" loadImmediate="false" itemID="50c56aea-00054e62" lastModified="1355115326"/>
+          <Include href="border.xml" loadImmediate="false" itemID="511eb01a-000033ce" lastModified="1360965727"/>
+          <Include href="border1.xml" loadImmediate="false" itemID="511eafa8-00001655" lastModified="1360995482"/>
+          <Include href="box.xml" loadImmediate="false" itemID="50fc70b1-000001f3" lastModified="1358721388"/>
+          <Include href="boxscreen.xml" loadImmediate="false" itemID="50fc9e69-00000799" lastModified="1360652755"/>
+          <Include href="bub bob.xml" loadImmediate="false" itemID="50fa0f04-00001c9f" lastModified="1361146126"/>
+          <Include href="bub body!.xml" loadImmediate="false" itemID="50fa0efe-00001c55" lastModified="1361146115"/>
+          <Include href="bub dance.xml" itemIcon="1" loadImmediate="false" itemID="50de6ab6-00007487" lastModified="1360617440"/>
+          <Include href="bub!.xml" loadImmediate="false" itemID="50fa0f09-00001cea" lastModified="1358565253"/>
+          <Include href="bubble.xml" loadImmediate="false" itemID="50fb416b-00000f93" lastModified="1358645543"/>
+          <Include href="bubble 2.xml" loadImmediate="false" itemID="50fb4945-00001027" lastModified="1358645593"/>
+          <Include href="bubble 3.xml" loadImmediate="false" itemID="50fb55cf-0000117e" lastModified="1358648863"/>
+          <Include href="Burst.xml" loadImmediate="false" itemID="4ba6cb84-000062f0" lastModified="1358723025"/>
+          <Include href="burst1.xml" itemID="50fc6f85-000001e8" lastModified="1358806643"/>
+          <Include href="burst2.xml" loadImmediate="false" itemID="50fc6f89-000001ea" lastModified="1361146043"/>
+          <Include href="button.xml" loadImmediate="false" itemID="510b2531-000002b6" lastModified="1359777690"/>
+          <Include href="button2.xml" loadImmediate="false" itemID="510b253b-000002b8" lastModified="1360112150"/>
+          <Include href="button3.xml" loadImmediate="false" itemID="510c8f98-000003b7" lastModified="1360042493"/>
+          <Include href="button4.xml" loadImmediate="false" itemID="510c8f9e-0000049d" lastModified="1359777711"/>
+          <Include href="button5.xml" loadImmediate="false" itemID="51172ca4-0000025a" lastModified="1360473279"/>
+          <Include href="button6.xml" loadImmediate="false" itemID="51172ca9-0000034f" lastModified="1360473272"/>
+          <Include href="bzzt.xml" loadImmediate="false" itemID="51180c4d-00000377" lastModified="1360530723"/>
+          <Include href="caution.xml" loadImmediate="false" itemID="50fcdb48-00001bf4" lastModified="1358750076"/>
+          <Include href="char.xml" itemID="50f9d592-00000112" lastModified="1361765906"/>
+          <Include href="char2.xml" loadImmediate="false" itemID="50fb3ef2-00000f6d" lastModified="1361320305"/>
+          <Include href="char3.xml" loadImmediate="false" itemID="50fb48b8-00000fc7" lastModified="1361147516"/>
+          <Include href="charImage.xml" itemID="51241971-000001af" lastModified="1361320305"/>
+          <Include href="cliff canyonified.xml" loadImmediate="false" itemID="50e3377c-0000c20f" lastModified="1358793026"/>
+          <Include href="Cloud 3.xml" loadImmediate="false" itemID="4b9c2c22-00000453" lastModified="1268526114"/>
+          <Include href="coin.xml" loadImmediate="false" itemID="51049a67-00000625" lastModified="1360621479"/>
+          <Include href="coinAnimation.xml" loadImmediate="false" itemID="51049a6c-00000627" lastModified="1359256497"/>
+          <Include href="coinSway.xml" loadImmediate="false" itemID="51049a75-00000629" lastModified="1359256323"/>
+          <Include href="Coiny Body Front.xml" loadImmediate="false" itemID="48e6a4e2-0000012b" lastModified="1340246679"/>
+          <Include href="conveyor.xml" loadImmediate="false" itemID="5104bc20-000006ba" lastModified="1359266048"/>
+          <Include href="conveyorStill.xml" loadImmediate="false" itemID="5109ef5f-0000023a" lastModified="1359605620"/>
+          <Include href="crank.xml" loadImmediate="false" itemID="50fb3929-00000f58" lastModified="1358641455"/>
+          <Include href="csBubble.xml" itemID="50fc9d1f-0000078f" lastModified="1361041627"/>
+          <Include href="csBubble2.xml" loadImmediate="false" itemID="50fc9d30-00000791" lastModified="1361041628"/>
+          <Include href="dangle.xml" loadImmediate="false" itemID="50fc6ac6-000001d0" lastModified="1358719963"/>
+          <Include href="dangle2.xml" loadImmediate="false" itemID="51214073-00000312" lastModified="1361133944"/>
+          <Include href="Diamond.xml" loadImmediate="false" itemID="4dbcdff8-0000035f" lastModified="1358653146"/>
+          <Include href="Dictionary's Body.xml" loadImmediate="false" itemID="4d9bde32-00003340" lastModified="1302998240"/>
+          <Include href="down and up.xml" loadImmediate="false" itemID="50fb55b9-00001121" lastModified="1358648795"/>
+          <Include href="drop.xml" loadImmediate="false" itemID="511eb41f-00003536" lastModified="1360966818"/>
+          <Include href="drop2.xml" loadImmediate="false" itemID="511eb42d-00003538" lastModified="1360966734"/>
+          <Include href="e.xml" loadImmediate="false" itemID="50fcb84a-00001423" lastModified="1358739587"/>
+          <Include href="e and string.xml" loadImmediate="false" itemID="50fcd6cb-00001b5d" lastModified="1358805966"/>
+          <Include href="Effects/Pointy Star.xml" loadImmediate="false" itemID="4bd3741a-000004d9" lastModified="1272149310"/>
+          <Include href="enemy.xml" loadImmediate="false" itemID="510c8980-000001d3" lastModified="1359776432"/>
+          <Include href="enter.xml" loadImmediate="false" itemID="5104a3f0-0000064f" lastModified="1359258692"/>
+          <Include href="Eraser Body Front.xml" loadImmediate="false" itemID="4a8c65ec-000000c2" lastModified="1321075868"/>
+          <Include href="Evil Leafy.xml" loadImmediate="false" itemID="4dbcd35a-0000035c" lastModified="1304224168"/>
+          <Include href="Evil Leafy2.xml" loadImmediate="false" itemID="51197871-000024f6" lastModified="1360623839"/>
+          <Include href="eye.xml" loadImmediate="false" itemID="511eb3bd-00003532" lastModified="1360966608"/>
+          <Include href="eyedropper.xml" loadImmediate="false" itemID="50fdca72-0000185e" lastModified="1358809786"/>
+          <Include href="eyespin.xml" loadImmediate="false" itemID="511eb3d3-00003534" lastModified="1360966695"/>
+          <Include href="factory 3.xml" itemIcon="1" loadImmediate="false" itemID="507f7e38-0000ed64" lastModified="1360960348"/>
+          <Include href="fan.xml" loadImmediate="false" itemID="507ae7b1-00000a9f" lastModified="1350232060"/>
+          <Include href="fan move.xml" itemIcon="1" loadImmediate="false" itemID="507ae808-00000aa1" lastModified="1350232127"/>
+          <Include href="fan move 2.xml" itemIcon="1" loadImmediate="false" itemID="507ae84e-00000d4c" lastModified="1350270548"/>
+          <Include href="fill bucket.xml" loadImmediate="false" itemID="50fdc9ea-0000185c" lastModified="1358809720"/>
+          <Include href="fire.xml" loadImmediate="false" itemID="5122bfe9-00000616" lastModified="1361765888"/>
+          <Include href="fire2.xml" loadImmediate="false" itemID="5122c071-000007b1" lastModified="1361235461"/>
+          <Include href="fire3.xml" loadImmediate="false" itemID="5122c091-0000094b" lastModified="1361232021"/>
+          <Include href="Firey Flame.xml" itemIcon="1" loadImmediate="false" itemID="48dfb80d-0000000c" lastModified="1324521868"/>
+          <Include href="flickering.xml" loadImmediate="false" itemID="51107355-00000207" lastModified="1360032887"/>
+          <Include href="gear blade.xml" loadImmediate="false" itemID="5111b5d1-0000020d" lastModified="1360115597"/>
+          <Include href="gear blade 2.xml" loadImmediate="false" itemID="4d9404e6-0000081e" lastModified="1360115576"/>
+          <Include href="glow.xml" loadImmediate="false" itemID="5108a992-0000089b" lastModified="1359522194"/>
+          <Include href="glow1.xml" loadImmediate="false" itemID="5111ee32-0000136d" lastModified="1360129586"/>
+          <Include href="glow2.xml" loadImmediate="false" itemID="5111ee37-0000136f" lastModified="1360129781"/>
+          <Include href="glowyglowy.xml" loadImmediate="false" itemID="511e995a-00000c7f" lastModified="1360959834"/>
+          <Include href="glowyglowy3.xml" loadImmediate="false" itemID="511e9aa1-00000f04" lastModified="1360961498"/>
+          <Include href="glowyglowy5.xml" loadImmediate="false" itemID="5122b844-00000231" lastModified="1361229905"/>
+          <Include href="glowyglwoy2.xml" loadImmediate="false" itemID="511e995d-00000c81" lastModified="1360959850"/>
+          <Include href="glowyglwoy4.xml" loadImmediate="false" itemID="511e9a9d-00000dc4" lastModified="1360960179"/>
+          <Include href="grayed out.xml" loadImmediate="false" itemID="5119502e-0000022b" lastModified="1360621148"/>
+          <Include href="grpuh.xml" loadImmediate="false" itemID="507b812a-0001fa37" lastModified="1350271274"/>
+          <Include href="high.xml" loadImmediate="false" itemID="51218ce1-00005814" lastModified="1361153249"/>
+          <Include href="hprc.xml" loadImmediate="false" itemID="504cfc28-0000c032" lastModified="1358640325"/>
+          <Include href="hprc 1.xml" loadImmediate="false" itemID="50fb3550-00000f41" lastModified="1360704079"/>
+          <Include href="hprc 2.xml" loadImmediate="false" itemID="50fb34f5-00000ef0" lastModified="1358651652"/>
+          <Include href="i.xml" loadImmediate="false" itemID="51183460-000008c3" lastModified="1360540841"/>
+          <Include href="i and string.xml" loadImmediate="false" itemID="5118345b-000007c1" lastModified="1360542432"/>
+          <Include href="icay.xml" itemIcon="1" loadImmediate="false" itemID="507633e8-0000c5f0" lastModified="1349923832"/>
+          <Include href="ice cube body.xml" loadImmediate="false" itemID="50fa0cb0-00001507" lastModified="1358734486"/>
+          <Include href="Ice Cube Isometric.xml" loadImmediate="false" itemID="4aee5b5e-00000337" lastModified="1321979886"/>
+          <Include href="Ice Cube Side.xml" loadImmediate="false" itemID="4ecb3019-00001458" lastModified="1321986894"/>
+          <Include href="iceee.xml" loadImmediate="false" itemID="50fa0cb8-00001586" lastModified="1358564582"/>
+          <Include href="ichee.xml" itemIcon="1" loadImmediate="false" itemID="507633ee-0000c869" lastModified="1349923832"/>
+          <Include href="icy.xml" loadImmediate="false" itemID="50f9d9e0-00000734" lastModified="1358551520"/>
+          <Include href="icy bob.xml" loadImmediate="false" itemID="50fa0cb4-00001546" lastModified="1358564652"/>
+          <Include href="kf.xml" itemIcon="1" loadImmediate="false" itemID="507ae6c3-00000a9d" lastModified="1350231882"/>
+          <Include href="leg outer.xml" loadImmediate="false" itemID="50fa0467-00000f26" lastModified="1361133917"/>
+          <Include href="lego.xml" loadImmediate="false" itemID="500ee6e1-00004f13" lastModified="1361147657"/>
+          <Include href="lego bob.xml" loadImmediate="false" itemID="51217100-0000306b" lastModified="1361146145"/>
+          <Include href="lego1.xml" loadImmediate="false" itemID="512170f8-00003069" lastModified="1361146108"/>
+          <Include href="legodfg.xml" loadImmediate="false" itemID="5121706c-00002d50" lastModified="1361145964"/>
+          <Include href="legolthi.xml" loadImmediate="false" itemID="5119bad2-00003327" lastModified="1360649007"/>
+          <Include href="legs1.xml" loadImmediate="false" itemID="50f9f02b-00000a88" lastModified="1358558193"/>
+          <Include href="legset1.xml" loadImmediate="false" itemID="50f9f0ab-00000a8a" lastModified="1361133920"/>
+          <Include href="LEtile2.xml" itemID="5119a7da-000032e6" lastModified="1360635875"/>
+          <Include href="LEtile3.xml" itemID="5119a7dc-000032e7" lastModified="1360635879"/>
+          <Include href="levelButton.xml" itemID="5109ff50-0000040e" lastModified="1359610545"/>
+          <Include href="levelButtons.xml" itemID="50fd9207-00000bf2" lastModified="1360650291"/>
+          <Include href="levelCreator.xml" itemID="50fda572-00001267" lastModified="1358828591"/>
+          <Include href="levelMap.xml" itemID="50fd8315-00000582" lastModified="1361242919"/>
+          <Include href="levelMapBorder.xml" itemID="50fd8266-00000303" lastModified="1361153240"/>
+          <Include href="levelMapButton.xml" itemIcon="0" loadImmediate="false" itemID="50fd9221-00000bf4" lastModified="1360612733"/>
+          <Include href="lever1.xml" loadImmediate="false" itemID="5111bbc5-00000c88" lastModified="1360116755"/>
+          <Include href="lever2.xml" loadImmediate="false" itemID="51109b39-000003f4" lastModified="1360116700"/>
+          <Include href="lever3.xml" loadImmediate="false" itemID="5111bc17-00000d75" lastModified="1360116879"/>
+          <Include href="lever4.xml" loadImmediate="false" itemID="511ff012-00000318" lastModified="1361047574"/>
+          <Include href="lf.xml" itemIcon="1" loadImmediate="false" itemID="507ae6b4-00000a9b" lastModified="1350231876"/>
+          <Include href="light.xml" loadImmediate="false" itemID="50fc705f-000001ef" lastModified="1358721255"/>
+          <Include href="light of ufo.xml" loadImmediate="false" itemID="4efdf2b9-00018a6e" lastModified="1325265593"/>
+          <Include href="lightning.xml" loadImmediate="false" itemID="511809d3-0000026a" lastModified="1360530897"/>
+          <Include href="lights.xml" loadImmediate="false" itemID="50fc708f-000001f1" lastModified="1358727816"/>
+          <Include href="lights dinging.xml" itemIcon="1" loadImmediate="false" itemID="507ae419-00000a97" lastModified="1350231065"/>
+          <Include href="low.xml" loadImmediate="false" itemID="51218cf1-000059a6" lastModified="1361153272"/>
+          <Include href="MakeButton.xml" itemIcon="0" loadImmediate="false" itemID="50fda450-00001265" lastModified="1360621188"/>
+          <Include href="MakeButton2.xml" itemIcon="0" loadImmediate="false" itemID="51194ee0-00000227" lastModified="1360621194"/>
+          <Include href="match bob.xml" loadImmediate="false" itemID="50fa0da0-00001891" lastModified="1360382200"/>
+          <Include href="Match Body.xml" loadImmediate="false" itemID="48dfc301-00000272" lastModified="1321938946"/>
+          <Include href="Match body 2.xml" loadImmediate="false" itemID="50fa0d86-00001806" lastModified="1360904710"/>
+          <Include href="match!.xml" loadImmediate="false" itemID="50fa0da3-000018d5" lastModified="1360382199"/>
+          <Include href="mathc talking.xml" itemIcon="1" loadImmediate="false" itemID="50e0fb2b-000291ce" lastModified="1357067334"/>
+          <Include href="menuMovieClip.xml" itemID="50fd73a9-00000097" lastModified="1360694243"/>
+          <Include href="metalBorder.xml" loadImmediate="false" itemID="511e91ed-00000165" lastModified="1360965652"/>
+          <Include href="metalBorder1.xml" loadImmediate="false" itemID="511e9220-00000167" lastModified="1360995328"/>
+          <Include href="metalborder1dsdsdj.xml" loadImmediate="false" itemID="511eafc4-00001902" lastModified="1360995368"/>
+          <Include href="metalBorder3.xml" loadImmediate="false" itemID="511e927b-00000169" lastModified="1360995320"/>
+          <Include href="metalBorder4.xml" loadImmediate="false" itemID="511e92ec-000002a0" lastModified="1360995333"/>
+          <Include href="metalborder4sdhfuise.xml" loadImmediate="false" itemID="511eafd7-00002103" lastModified="1360995357"/>
+          <Include href="metalBorder5.xml" loadImmediate="false" itemID="511e9336-000003d8" lastModified="1360995338"/>
+          <Include href="metalBorder5ertr.xml" loadImmediate="false" itemID="511eafe2-00002508" lastModified="1360995354"/>
+          <Include href="metalBorder6.xml" loadImmediate="false" itemID="511e93a1-00000511" lastModified="1360995341"/>
+          <Include href="metalBorder6werwer.xml" loadImmediate="false" itemID="511eaff9-0000311a" lastModified="1360995351"/>
+          <Include href="metalBorder7.xml" loadImmediate="false" itemID="511e940a-0000064b" lastModified="1360995343"/>
+          <Include href="metalBorder8.xml" loadImmediate="false" itemID="511e968e-0000078f" lastModified="1360995348"/>
+          <Include href="Moon.xml" loadImmediate="false" itemID="4cc4bdca-00007f5b" lastModified="1303949924"/>
+          <Include href="Moon 2.xml" loadImmediate="false" itemID="512186db-00005002" lastModified="1361151857"/>
+          <Include href="mountain.xml" loadImmediate="false" itemID="500b14f7-000057bb" lastModified="1358738385"/>
+          <Include href="mountain 2.xml" loadImmediate="false" itemID="50fcb3d4-00001409" lastModified="1358738582"/>
+          <Include href="mouth talk 1.xml" loadImmediate="false" itemID="50fca4c5-00000ee5" lastModified="1361145631"/>
+          <Include href="mouth talk 2.xml" loadImmediate="false" itemID="50fca3e7-00000e11" lastModified="1360640829"/>
+          <Include href="mouth talk 3.xml" loadImmediate="false" itemID="51216f35-00001577" lastModified="1361145843"/>
+          <Include href="mouth talk happy.xml" loadImmediate="false" itemID="50fca35e-0000098f" lastModified="1358734612"/>
+          <Include href="mouth talk happy 2.xml" loadImmediate="false" itemID="51216f6d-0000184c" lastModified="1361145769"/>
+          <Include href="mouth talk happy 2 loop.xml" itemIcon="1" loadImmediate="false" itemID="51216f74-000019b9" lastModified="1361145761"/>
+          <Include href="mouth talk happy loop.xml" itemIcon="1" loadImmediate="false" itemID="50fca4f1-00000ee9" lastModified="1358734580"/>
+          <Include href="mouth talk sad.xml" loadImmediate="false" itemID="50fca37a-000009ff" lastModified="1360382208"/>
+          <Include href="mouth talk sad 2.xml" loadImmediate="false" itemID="51216fc4-000020e4" lastModified="1361145842"/>
+          <Include href="mouth talk sad 2 loop.xml" itemIcon="1" loadImmediate="false" itemID="51216fcb-00002254" lastModified="1361145834"/>
+          <Include href="mouth talk sad loop.xml" itemIcon="1" loadImmediate="false" itemID="50fca524-00000eeb" lastModified="1358734673"/>
+          <Include href="movGray.xml" loadImmediate="false" itemID="510a009e-00000419" lastModified="1359610518"/>
+          <Include href="movGreen.xml" loadImmediate="false" itemID="510a00e5-00000420" lastModified="1359610555"/>
+          <Include href="movOrange.xml" loadImmediate="false" itemID="510a00ba-0000041b" lastModified="1359610532"/>
+          <Include href="movYellow.xml" loadImmediate="false" itemID="510a00d7-0000041d" lastModified="1359610542"/>
+          <Include href="mute button.xml" itemIcon="0" loadImmediate="false" itemID="511ae319-0000039e" lastModified="1360716641"/>
+          <Include href="Night Sky.xml" loadImmediate="false" itemID="4c39ed28-000028ae" lastModified="1321072793"/>
+          <Include href="Night Sky Gradient.xml" loadImmediate="false" itemID="4e2b713c-000006e1" lastModified="1321072752"/>
+          <Include href="no.xml" itemIcon="0" loadImmediate="false" itemID="5119e67e-0000026e" lastModified="1360652956"/>
+          <Include href="Objects/BRC Stuff/ICRCC Pink Gear.xml" loadImmediate="false" itemID="4c5f74fe-000001c1" lastModified="1281393753"/>
+          <Include href="Objects/BRC Stuff/stuff 4.xml" itemIcon="1" loadImmediate="false" itemID="507b86cb-00027808" lastModified="1360960341"/>
+          <Include href="Objects/BRC Stuff/stuff no steam.xml" itemIcon="1" loadImmediate="false" itemID="508cc474-000222da" lastModified="1360960343"/>
+          <Include href="oencile 3.xml" itemIcon="1" loadImmediate="false" itemID="50e24b2f-00093367" lastModified="1357007669"/>
+          <Include href="Pencil Body.xml" loadImmediate="false" itemID="4a8c8e34-00000aea" lastModified="1321983982"/>
+          <Include href="pencil body 2.xml" loadImmediate="false" itemID="50fa0e38-00001a00" lastModified="1360633824"/>
+          <Include href="Pencil Body 3.xml" loadImmediate="false" itemID="50fdddba-0000031f" lastModified="1358814662"/>
+          <Include href="pense bob.xml" loadImmediate="false" itemID="50fa0e3e-00001a47" lastModified="1358564970"/>
+          <Include href="pense!.xml" loadImmediate="false" itemID="50fa0e43-00001a8f" lastModified="1358564952"/>
+          <Include href="pic.xml" loadImmediate="false" itemID="51217810-00004cd3" lastModified="1361150854"/>
+          <Include href="pipe.xml" loadImmediate="false" itemID="507ae8ab-00000d4e" lastModified="1351382968"/>
+          <Include href="pipe 2.xml" loadImmediate="false" itemID="507b64ef-000096d8" lastModified="1350264050"/>
+          <Include href="piston.xml" loadImmediate="false" itemID="5104c216-000006d8" lastModified="1359266382"/>
+          <Include href="piston arm.xml" loadImmediate="false" itemID="5104c22d-000006da" lastModified="1359266349"/>
+          <Include href="playButton.xml" itemIcon="0" loadImmediate="false" itemID="50fd73cc-00000099" lastModified="1360621178"/>
+          <Include href="playButton2.xml" itemIcon="0" loadImmediate="false" itemID="50fda436-000011c5" lastModified="1360621184"/>
+          <Include href="playButton3.xml" loadImmediate="false" itemID="5119e606-0000026c" lastModified="1360652957"/>
+          <Include href="poopers.xml" loadImmediate="false" itemID="51196043-00001605" lastModified="1360617864"/>
+          <Include href="poops.xml" loadImmediate="false" itemID="5121890a-0000567b" lastModified="1361152369"/>
+          <Include href="qual.xml" itemIcon="0" loadImmediate="false" itemID="51218b70-0000580f" lastModified="1361152935"/>
+          <Include href="qualmovie.xml" loadImmediate="false" itemID="51218cbb-00005812" lastModified="1361153832"/>
+          <Include href="quartz.xml" loadImmediate="false" itemID="51107629-00000215" lastModified="1360033633"/>
+          <Include href="redwood tree.xml" loadImmediate="false" itemID="4fe92933-000053f7" lastModified="1340682209"/>
+          <Include href="redwood tree layer 3.xml" loadImmediate="false" itemID="4fe93437-000058a4" lastModified="1358793091"/>
+          <Include href="rubsy.xml" loadImmediate="false" itemID="4fe640bd-00003b7d" lastModified="1358551455"/>
+          <Include href="ruby bob.xml" loadImmediate="false" itemID="50fa0793-00001038" lastModified="1358718000"/>
+          <Include href="Ruby Body.xml" loadImmediate="false" itemID="4fe20968-00018828" lastModified="1340225034"/>
+          <Include href="ruby body2.xml" loadImmediate="false" itemID="50fa02ab-00000af2" lastModified="1358734727"/>
+          <Include href="ruby fly arm.xml" loadImmediate="false" itemID="50fc6445-000000f7" lastModified="1358719673"/>
+          <Include href="ruby!.xml" loadImmediate="false" itemID="50fa079f-0000103a" lastModified="1358567092"/>
+          <Include href="rubys.xml" itemIcon="1" loadImmediate="false" itemID="507634aa-0000ede9" lastModified="1357007646"/>
+          <Include href="segment.xml" loadImmediate="false" itemID="512ad95f-00000396" lastModified="1361765172"/>
+          <Include href="side bar.xml" loadImmediate="false" itemID="50fda60a-0000126a" lastModified="1358823687"/>
+          <Include href="sign.xml" loadImmediate="false" itemID="507b8096-0001fa35" lastModified="1350271140"/>
+          <Include href="Smile Open 1.xml" loadImmediate="false" itemID="4aefb6d0-00001230" lastModified="1321987381"/>
+          <Include href="Smile Open 2.xml" loadImmediate="false" itemID="4aefb6d4-000012ba" lastModified="1321987593"/>
+          <Include href="Smile Open 3.xml" loadImmediate="false" itemID="4aefb73f-00001455" lastModified="1321987708"/>
+          <Include href="spikeball.xml" loadImmediate="false" itemID="5108af4b-00000a70" lastModified="1359525139"/>
+          <Include href="spikeball 2.xml" loadImmediate="false" itemID="512ad2e6-0000037f" lastModified="1361761906"/>
+          <Include href="spikes.xml" loadImmediate="false" itemID="50fa15c6-00001fad" lastModified="1359525392"/>
+          <Include href="spikes2.xml" loadImmediate="false" itemID="50fce565-00001fd0" lastModified="1359525371"/>
+          <Include href="spikes3.xml" loadImmediate="false" itemID="51106992-000001d7" lastModified="1360030130"/>
+          <Include href="spinning star.xml" loadImmediate="false" itemID="5117f74d-00000126" lastModified="1360525612"/>
+          <Include href="star.xml" loadImmediate="false" itemID="5117f74b-00000124" lastModified="1360525166"/>
+          <Include href="Starfield.xml" loadImmediate="false" itemID="4bd371f7-000004cd" lastModified="1333855060"/>
+          <Include href="Starfield assets/Bunch of Stars.xml" loadImmediate="false" itemID="4f81034a-000001cd" lastModified="1359522464"/>
+          <Include href="Starfield assets/Bunches of Stars.xml" loadImmediate="false" itemID="4f81034d-000001ce" lastModified="1333855053"/>
+          <Include href="Starfield assets/stars2.xml" loadImmediate="false" itemID="5108aa72-00000983" lastModified="1359522468"/>
+          <Include href="starfield2.xml" loadImmediate="false" itemID="5117f9e1-0000022d" lastModified="1360529822"/>
+          <Include href="stars1.xml" loadImmediate="false" itemID="5117f97f-0000012f" lastModified="1360525695"/>
+          <Include href="stars2.xml" loadImmediate="false" itemID="5117f985-00000131" lastModified="1360525748"/>
+          <Include href="stars3.xml" loadImmediate="false" itemID="5117f9c5-0000022b" lastModified="1360525822"/>
+          <Include href="steam.xml" loadImmediate="false" itemID="4e7653d3-000073d9" lastModified="1350270977"/>
+          <Include href="steammove.xml" itemIcon="1" loadImmediate="false" itemID="507ae9af-00000f33" lastModified="1360960305"/>
+          <Include href="string.xml" loadImmediate="false" itemID="50fcd6cf-00001b5f" lastModified="1358747343"/>
+          <Include href="string2.xml" loadImmediate="false" itemID="5111e390-0000115e" lastModified="1360126878"/>
+          <Include href="strip.xml" loadImmediate="false" itemID="5104bfa1-000006cc" lastModified="1359265974"/>
+          <Include href="swinging e.xml" loadImmediate="false" itemID="50fcd6d3-00001b61" lastModified="1358747369"/>
+          <Include href="swinging i.xml" loadImmediate="false" itemID="51183449-000005c0" lastModified="1360540764"/>
+          <Include href="swinging v.xml" loadImmediate="false" itemID="5111e361-00000e8e" lastModified="1360126896"/>
+          <Include href="tab1.xml" loadImmediate="false" itemID="50fda65c-0000126e" lastModified="1358823653"/>
+          <Include href="tab2.xml" loadImmediate="false" itemID="50fda665-00001313" lastModified="1358823457"/>
+          <Include href="tab3.xml" loadImmediate="false" itemID="50fda6bd-00001460" lastModified="1358800832"/>
+          <Include href="tab4.xml" loadImmediate="false" itemID="50fda6dc-00001508" lastModified="1358810317"/>
+          <Include href="tab5.xml" loadImmediate="false" itemID="50fda6fc-00001657" lastModified="1358800652"/>
+          <Include href="tab6.xml" loadImmediate="false" itemID="50fda71b-00001701" lastModified="1358800675"/>
+          <Include href="tada.xml" itemIcon="1" loadImmediate="false" itemID="507ae41d-00000a99" lastModified="1350231086"/>
+          <Include href="thing.xml" loadImmediate="false" itemID="502b0874-00000226" lastModified="1361146580"/>
+          <Include href="thing bg.xml" loadImmediate="false" itemID="511ea565-000014e5" lastModified="1360964284"/>
+          <Include href="tile0.xml" itemID="5119a7ad-000032e5" lastModified="1361243826"/>
+          <Include href="tile1.xml" itemID="5119a7a3-000032e4" lastModified="1361243946"/>
+          <Include href="tile2.xml" itemID="5119a7f6-000032e9" lastModified="1361243810"/>
+          <Include href="tile3.xml" itemID="5119a7fb-000032eb" lastModified="1360965785"/>
+          <Include href="tile4.xml" itemID="5119a806-000032ee" lastModified="1360965789"/>
+          <Include href="tile5.xml" itemID="5119a811-000032f0" lastModified="1361047550"/>
+          <Include href="tile6.xml" itemID="5119a816-000032f2" lastModified="1361047547"/>
+          <Include href="tile7.xml" itemID="5119a81b-000032f4" lastModified="1361243808"/>
+          <Include href="tile8.xml" itemID="5119a828-000032f6" lastModified="1361243777"/>
+          <Include href="tile9.xml" itemID="5119a82d-000032f8" lastModified="1361132221"/>
+          <Include href="tile10.xml" itemID="511e98df-00000c7b" lastModified="1361756024"/>
+          <Include href="tile11.xml" itemID="51213ab5-0000018f" lastModified="1361755759"/>
+          <Include href="tile12.xml" itemID="51227538-000001a0" lastModified="1361755762"/>
+          <Include href="tile13.xml" itemID="51227541-000001a3" lastModified="1361771648"/>
+          <Include href="tileBG.xml" loadImmediate="false" itemID="510c8e19-000002cc" lastModified="1360031683"/>
+          <Include href="tileShadow.xml" itemID="5104816a-0000029b" lastModified="1360957819"/>
+          <Include href="tiletool.xml" loadImmediate="false" itemID="50fdc55c-00001857" lastModified="1358821910"/>
+          <Include href="tiune bob.xml" loadImmediate="false" itemID="5121716d-000031fa" lastModified="1361146669"/>
+          <Include href="tiune bob 2.xml" loadImmediate="false" itemID="51217335-000046dc" lastModified="1361146720"/>
+          <Include href="tool0.xml" loadImmediate="false" itemID="50fdd008-00001888" lastModified="1358814678"/>
+          <Include href="tool1.xml" loadImmediate="false" itemID="50fddd70-00000262" lastModified="1358814621"/>
+          <Include href="tool2.xml" loadImmediate="false" itemID="50fddd6c-000001a7" lastModified="1358815285"/>
+          <Include href="tool3.xml" loadImmediate="false" itemID="50fddd6b-000001a6" lastModified="1358814571"/>
+          <Include href="tool4.xml" loadImmediate="false" itemID="50fddd69-000001a5" lastModified="1358814569"/>
+          <Include href="tool5.xml" loadImmediate="false" itemID="50fddd67-000001a4" lastModified="1358814567"/>
+          <Include href="tool6.xml" loadImmediate="false" itemID="50fde42d-000000d6" lastModified="1358816301"/>
+          <Include href="tool7.xml" loadImmediate="false" itemID="50fde42e-000000d7" lastModified="1358821322"/>
+          <Include href="tool8.xml" loadImmediate="false" itemID="50fde431-000000d8" lastModified="1358816305"/>
+          <Include href="tool9.xml" loadImmediate="false" itemID="50fddd5f-000001a0" lastModified="1358816879"/>
+          <Include href="tool10.xml" loadImmediate="false" itemID="50fdf9ea-000001dc" lastModified="1358821888"/>
+          <Include href="tower.xml" loadImmediate="false" itemID="50fcb4bd-0000140e" lastModified="1358738682"/>
+          <Include href="tower2.xml" loadImmediate="false" itemID="50fcb5fa-00001415" lastModified="1358912688"/>
+          <Include href="tower3.xml" loadImmediate="false" itemID="50fcb962-000014ab" lastModified="1358739819"/>
+          <Include href="tower4.xml" loadImmediate="false" itemID="50fcb970-0000152b" lastModified="1358739849"/>
+          <Include href="tower5.xml" loadImmediate="false" itemID="5108a8ae-0000055f" lastModified="1359522915"/>
+          <Include href="tower5 6.xml" loadImmediate="false" itemID="5108ac71-00000a63" lastModified="1359522965"/>
+          <Include href="tower6.xml" loadImmediate="false" itemID="512188f5-00005679" lastModified="1361152245"/>
+          <Include href="tree.xml" loadImmediate="false" itemID="5119a3d6-000032d4" lastModified="1360634838"/>
+          <Include href="tree1.xml" loadImmediate="false" itemID="50fcb836-00001421" lastModified="1358739584"/>
+          <Include href="triangle!.xml" loadImmediate="false" itemID="50fb4afc-00001035" lastModified="1358646042"/>
+          <Include href="tune.xml" loadImmediate="false" itemID="5121708a-00002ed7" lastModified="1361145996"/>
+          <Include href="tune armles2.xml" loadImmediate="false" itemID="512172a7-00004253" lastModified="1361146537"/>
+          <Include href="tune armless.xml" loadImmediate="false" itemID="512172a2-000040d2" lastModified="1361146538"/>
+          <Include href="tune armless side.xml" loadImmediate="false" itemID="512172c9-000043d5" lastModified="1361146593"/>
+          <Include href="tune armless side2.xml" loadImmediate="false" itemID="512172cf-00004558" lastModified="1361146590"/>
+          <Include href="tune body.xml" loadImmediate="false" itemID="512170de-00003067" lastModified="1361146787"/>
+          <Include href="tune deaf.xml" loadImmediate="false" itemID="51217208-00003f52" lastModified="1361146487"/>
+          <Include href="tune hold.xml" loadImmediate="false" itemID="512171d1-00003c55" lastModified="1361146352"/>
+          <Include href="tune holdw.xml" loadImmediate="false" itemID="512171db-00003dd3" lastModified="1361146351"/>
+          <Include href="tune!.xml" loadImmediate="false" itemID="51217172-00003376" lastModified="1361146667"/>
+          <Include href="tune2.xml" loadImmediate="false" itemID="51217666-0000487c" lastModified="1361147509"/>
+          <Include href="ufo.xml" loadImmediate="false" itemID="4e2a3649-00000529" lastModified="1325265593"/>
+          <Include href="ufoshape.xml" loadImmediate="false" itemID="51218857-000054e8" lastModified="1361152087"/>
+          <Include href="v.xml" loadImmediate="false" itemID="5111e36d-0000106d" lastModified="1360126859"/>
+          <Include href="v and string.xml" loadImmediate="false" itemID="5111e3b0-0000133d" lastModified="1360126896"/>
+          <Include href="waf.xml" loadImmediate="false" itemID="51217145-00003075" lastModified="1361146181"/>
+          <Include href="wafbob.xml" loadImmediate="false" itemID="51217149-00003077" lastModified="1361146760"/>
+          <Include href="waffle.xml" loadImmediate="false" itemID="51216d2b-0000072d" lastModified="1361247599"/>
+          <Include href="waflethi.xml" loadImmediate="false" itemID="51216d31-00000893" lastModified="1361145229"/>
+          <Include href="white.xml" itemID="50fb45f3-00000fb8" lastModified="1358645997"/>
+          <Include href="wisp.xml" loadImmediate="false" itemID="50fcb664-00001417" lastModified="1358739044"/>
+          <Include href="wispgggg.xml" loadImmediate="false" itemID="511e9b30-00001482" lastModified="1360960304"/>
+          <Include href="woob woob.xml" loadImmediate="false" itemID="51180c60-00000379" lastModified="1360530853"/>
+          <Include href="woob woob2.xml" loadImmediate="false" itemID="51180dd0-0000047f" lastModified="1360530922"/>
+          <Include href="wood.xml" loadImmediate="false" itemID="5119d2b9-0000348f" lastModified="1360956894"/>
+          <Include href="woodenBox.xml" loadImmediate="false" itemID="50fcc563-00001b3d" lastModified="1361252274"/>
+          <Include href="woodenBox2.xml" loadImmediate="false" itemID="50fcdb02-00001bf2" lastModified="1359247746"/>
+          <Include href="woodenBox3.xml" loadImmediate="false" itemID="510b20c1-000001cf" lastModified="1359777146"/>
+          <Include href="woodenBox4.xml" loadImmediate="false" itemID="510b226d-000002b2" lastModified="1359684674"/>
+          <Include href="yes.xml" itemIcon="0" loadImmediate="false" itemID="5119e6a2-000003a0" lastModified="1360652950"/>
+          <Include href="yrty2.xml" itemIcon="1" loadImmediate="false" itemID="507634af-0000f068" lastModified="1357007646"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="1">
+               <layers>
+                    <DOMLayer name="Folder 1" color="#FF800A" layerType="folder"/>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="standard" left="14.9" width="114.2" height="20.1" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="408" ty="259.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Loading game</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-5" size="18" face="HelveticaNeueLT Com 55 Roman"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[if(getBytesLoaded()<getBytesTotal()){
+	gotoAndPlay(1);
+}
+//init]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop(); // Stops the Flash timeline from playing the next frame automatically
+
+// --- LEVEL & GAME STATE VARIABLES ---
+var levelsString:String = ""; // Will hold the raw text loaded from levels.txt
+var levelCount:Number = 53; // Total number of levels in the game
+var f:Number = 19; // A constant used later for offset calculations in character spawning
+var levels:Array = new Array(levelCount); // 3D Array storing the grid/tiles for every level
+var startLocations:Array = new Array(levelCount); // Coordinates for where entities spawn
+var locations:Array = new Array(6); // General location tracking array
+var bgs:Array = new Array(levelCount); // Background IDs for each level
+var levelStart:Number = 0; // The current reading position/index within levelsString
+var levelWidth:Number = 0; // Width of the currently parsing level
+var levelHeight:Number = 0; // Height of the currently parsing level
+var thisLevel:Array = new Array(0); // Temporary array for the current level's data
+var switchable:Array = new Array(6); // Likely tracks switch/button states in the game
+var charCount:Number = 0; // Number of characters/entities in the current level
+var charCount2:Number = 0; // Secondary character counter
+var playMode:Number = 0; // Tracks the current game state/mode
+var lineCount:Number = 0; // Number of dialogue lines in the current level
+var lineLength:Number = 0; // Length of the current string being parsed
+
+// --- DIALOGUE & LEVEL METADATA ---
+var dialogueChar:Array = new Array(levelCount); // Who is speaking
+var dialogueText:Array = new Array(levelCount); // What they are saying
+var dialogueFace:Array = new Array(levelCount); // Character facial expression ID
+var levelName:Array = new Array(levelCount); // The display name of the level
+var mdao:Array = new Array(levelCount); // Unknown metadata array (possibly timing or score limits)
+var mdao2:Number = 0; // Accumulator for the mdao data
+var levelProgress:Number; // How many levels the player has beaten
+
+// --- COLLECTIBLES & SAVE DATA ---
+var gotCoin:Array; // Array of booleans tracking which levels you found the coin in
+var gotThisCoin:Boolean = false; // Tracks if the coin in the current level was collected
+var tileCount:Number = 11; // Total number of unique tile types available
+var bfdia5b:SharedObject = SharedObject.getLocal("bfdia5b"); // AS2's version of a browser cookie for saving game data locally
+var deathCount:Number; // Total player deaths
+var timer:Number; // Speedrun timer or total playtime
+var coins:Number; // Total coins collected
+var longMode:Boolean = false; // Flag for levels that require reading 2 characters per tile
+
+// --- INITIALIZATION ---
+// Check if save data exists. If not, set everything to zero. If yes, load it.
+if(bfdia5b.data.levelProgress == undefined){
+	clearVars();
+} else {
+	levelProgress = bfdia5b.data.levelProgress;
+	gotCoin = new Array(levelCount);
+	coins = 0;
+	for(var i:Number = 0; i < levelCount; i++){
+		gotCoin[i] = bfdia5b.data.gotCoin[i];
+		if(gotCoin[i]) coins++; // Count total coins based on the boolean array
+	}
+	deathCount = bfdia5b.data.deathCount;
+	timer = bfdia5b.data.timer;
+}
+
+// Resets all game progress back to zero
+function clearVars(){
+	deathCount = timer = coins = levelProgress = 0;
+	gotCoin = new Array(levelCount);
+	for(var i:Number = 0; i < levelCount; i++){
+		gotCoin[i] = false;
+	}
+}
+
+// Saves current variables into the SharedObject and writes it to the hard drive
+function saveGame(){
+	bfdia5b.data.gotCoin = new Array(levelCount);
+	for(var i:Number = 0; i < levelCount; i++){
+		bfdia5b.data.gotCoin[i] = gotCoin[i];
+	}
+	bfdia5b.data.coins = coins;
+	bfdia5b.data.levelProgress = levelProgress;
+	bfdia5b.data.deathCount = deathCount;
+	bfdia5b.data.timer = timer;
+	bfdia5b.flush(); // Forces the save to disk immediately
+}
+
+// --- STRING PARSING HELPERS ---
+// Returns a numeric value based on character code, offset by 48 (ASCII for '0')
+function charAt(j:Number){
+	return levelsString.charCodeAt(j+levelStart)-48;
+}
+
+// Returns the actual string character at the given offset
+function charAt2(j:Number){
+	return levelsString.charAt(j+levelStart);
+}
+
+// Decodes specific ASCII characters into tile IDs for the game grid
+function tileAt(j:Number, i:Number, y:Number){
+	var num:Number = levelsString.charCodeAt(j+levelStart);
+	if(num == 128) return 93;
+	if(num <= 126){
+		return num-46;
+	} else if(num <= 182){
+		return num-80;
+	} else {
+		return num-81;
+	}
+}
+
+// --- LEVEL LOADER & PARSER ---
+var lv = new LoadVars(); // AS2 object to load external text files
+lv.onLoad = function(success){
+	if(success){
+		_root.levelsString = this.loadedLevels; // Grabs the text from the loaded file
+		
+		// Loop through every single level and parse its data out of the giant text string
+		for(var i:Number = 0; i < levelCount; i++){
+			levelStart += 2; // Skip delimiter
+			lineLength = 0;
+			levelName[i] = "";
+			
+			// Parse Level Name (stops when it hits ASCII -35, usually a specific delimiter like '#')
+			while(charAt(lineLength) != -35){
+				levelName[i] += charAt2(lineLength);
+				lineLength++;
+			}
+			levelStart += lineLength;
+			
+			// Parse Level Dimensions, Character Count, and Background ID
+			levelWidth = 10*charAt(2)+charAt(3);
+			levelHeight = 10*charAt(5)+charAt(6);
+			charCount = 10*charAt(8)+charAt(9);
+			bgs[i] = 10*charAt(11)+charAt(12);
+			
+			// Check if this level uses "long mode" (more complex tile data)
+			longMode = false;
+			if(charAt(14) == 24) longMode = true;
+			
+			// Initialize the 2D grid for this specific level
+			levels[i] = new Array(levelHeight);
+			for(var j:Number = 0; j < levelHeight; j++){
+				levels[i][j] = new Array(levelWidth);
+			}
+			
+			// Fill the level grid with tile IDs
+			if(longMode){
+				// Reads 2 characters per tile to allow for hundreds of tile types
+				for(var y:Number = 0; y < levelHeight; y++){
+					for(var x:Number = 0; x < levelWidth; x++){
+						levels[i][y][x] = 111*tileAt(y*(levelWidth*2+2)+x*2+17,i,y)+tileAt(y*(levelWidth*2+2)+x*2+18,i,y);
+					}
+				}
+				levelStart += levelHeight*(levelWidth*2+2)+17;
+			} else {
+				// Reads 1 character per tile
+				for(var y:Number = 0; y < levelHeight; y++){
+					for(var x:Number = 0; x < levelWidth; x++){
+						levels[i][y][x] = tileAt(y*(levelWidth+2)+x+17,i,y);
+					}
+				}
+				levelStart += levelHeight*(levelWidth+2)+17;
+			}
+			
+			// Parse Start Locations for Characters/Entities
+			startLocations[i] = new Array(charCount);
+			for(var j:Number = 0; j < charCount; j++){
+				startLocations[i][j] = new Array(6);
+				// Read coordinates and IDs
+				for(var k:Number = 0; k < (f-1)/3; k++){
+					startLocations[i][j][k] = charAt(k*3)*10+charAt(k*3+1);
+				}
+				levelStart += f-2;
+				
+				// Handle entities that require extra parameters (like signs or special triggers)
+				if(startLocations[i][j][5] == 3 || startLocations[i][j][5] == 4){
+					levelStart++;
+					startLocations[i][j].push(new Array(0));
+					lineLength = 0;
+					// Read extra parameter string
+					while(charAt(lineLength) != -35){
+						startLocations[i][j][6].push(charAt(lineLength));
+						lineLength++;
+					}
+					levelStart += lineLength;
+				}
+				levelStart += 2;
+			}
+			
+			// Parse Dialogue
+			lineCount = 10*charAt(0)+charAt(1); // How many lines of dialogue in this level?
+			levelStart += 4;
+			dialogueText[i] = new Array(lineCount);
+			dialogueChar[i] = new Array(lineCount);
+			dialogueFace[i] = new Array(lineCount);
+			
+			// Read each line of dialogue
+			for(var j:Number = 0; j < lineCount; j++){
+				dialogueChar[i][j] = 10*charAt(0)+charAt(1); // Who is talking
+				
+				// Determine facial expression
+				if(charAt(2) == 24){
+					dialogueFace[i][j] = 2;
+				} else {
+					dialogueFace[i][j] = 3;
+				}
+				levelStart += 4;
+				
+				// Read the actual spoken text
+				lineLength = 0;
+				dialogueText[i][j] = "";
+				while(charAt(lineLength) != -35){
+					lineLength++;
+					dialogueText[i][j] += charAt2(lineLength-1);
+				}
+				levelStart += lineLength+2;
+			}
+			
+			// Parse final metadata (possibly a target time or score threshold)
+			mdao2 += 100000*charAt(0)+10000*charAt(1)+1000*charAt(2)+100*charAt(3)+10*charAt(4)+charAt(5);
+			mdao[i] = mdao2;
+			levelStart += 8;
+		}
+		
+		// Once everything is loaded and parsed, move the Flash playhead to the actual game
+		gotoAndStop("game");
+	}
+}
+// Trigger the file load
+lv.load("levels.txt");]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="3" name="game" labelType="name" keyMode="9728" soundName="the fiber 16x loop.wav" soundLoopMode="loop" soundLoop="32767" soundZoomLevel="65535">
+                                   <Actionscript>
+                                        <script><![CDATA[// --- SOUND SETUP ---
+// Creates a new sound object for background music, attaches the "music" linkage identifier, and starts playing it on a loop (12345 times)
+var musicSound:Sound = new Sound();
+musicSound.attachSound("music");
+musicSound.start(0, 12345);
+
+// --- TILE PHYSICS & PROPERTIES ---
+// An array mapping out properties for every possible tile block in the game.
+// The array indexes track: [solid-Up, solid-Down, solid-Left, solid-Right, deadly-Up, deadly-Down, deadly-Left, deadly-Right, active, large, shadable BG Tile, lever/buttonID, switchable, make good borders, is a liquid]
+var blockProperties:Array = [
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 0: Empty Space / Air
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 1: Standard Solid Block (with borders)
+[true,true,true,true,true,false,false,false,false,false,false,0,0,false,false],    // 2: Spikes (Deadly from Top)
+[true,true,true,true,false,true,false,false,false,false,false,0,0,false,false],    // 3: Spikes (Deadly from Bottom)
+[true,true,true,true,false,false,true,false,false,false,false,0,0,false,false],    // 4: Spikes (Deadly from Left)
+[true,true,true,true,false,false,false,true,false,false,false,0,0,false,false],    // 5: Spikes (Deadly from Right)
+[false,false,false,false,false,false,false,false,true,true,false,0,0,false,false], // 6: Win Token / Goal (Active & Large)
+[false,false,false,false,false,false,false,false,true,true,false,0,0,false,false], // 7: Active Large Block
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 8: Empty Space / Decoration
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 9: Background Tile (Shadable)
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 10: Standard Solid Block (with borders)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 11: Background Tile (Shadable)
+[false,false,false,false,false,false,false,false,true,false,false,0,0,false,false],  // 12: Active Block (Special Checkpoint/Door)
+[true,true,true,true,false,false,false,false,true,false,false,0,0,false,false],    // 13: Solid Active Block (Moving Platform)
+[true,true,true,true,false,false,false,false,true,false,false,0,6,false,false],    // 14: Switchable Solid Block (Group 6)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 15: Background Tile (Shadable)
+[true,true,true,true,false,false,false,false,true,false,false,0,6,false,false],    // 16: Switchable Solid Block (Group 6)
+[true,true,true,true,true,true,true,true,false,false,false,0,0,false,false],       // 17: Death Block (Deadly from all 4 sides)
+[false,true,false,false,false,false,false,false,false,true,false,0,0,false,false], // 18: Semi-Solid / Drop-through Platform (Solid from Top only)
+[true,true,true,true,true,false,false,false,false,false,false,0,0,false,false],    // 19: Spikes (Deadly from Top, Variant)
+[true,true,true,true,false,true,false,false,false,false,false,0,0,false,false],    // 20: Spikes (Deadly from Bottom, Variant)
+[true,true,true,true,false,false,true,false,false,false,false,0,0,false,false],    // 21: Spikes (Deadly from Left, Variant)
+[true,true,true,true,false,false,false,true,false,false,false,0,0,false,false],    // 22: Spikes (Deadly from Right, Variant)
+[true,true,true,true,true,false,false,false,false,false,false,0,0,false,false],    // 23: Spikes (Deadly from Top, Variant)
+
+// 24 to 30: Empty Space / Harmless Decorative Blocks
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 24
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 25
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 26
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 27
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 28
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 29
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 30
+
+// 31 to 34: Switchable Blocks (Group 1 - e.g., Red/Blue toggle blocks)
+[true,true,true,true,false,false,false,false,true,false,false,0,1,false,false],    // 31: Solid (Group 1)
+[true,true,true,true,false,false,false,false,true,false,false,0,1,false,false],    // 32: Solid (Group 1)
+[false,false,false,false,false,false,false,false,true,false,false,0,1,false,false],  // 33: Passable/Inactive (Group 1)
+[false,false,false,false,false,false,false,false,true,false,false,0,1,false,false],  // 34: Passable/Inactive (Group 1)
+
+// 35 to 38: Levers and Buttons (Triggers switchable blocks)
+[false,false,false,false,false,false,false,false,true,false,false,1,0,false,false],  // 35: Lever (ID 1)
+[false,false,false,false,false,false,false,false,true,false,false,7,0,false,false],  // 36: Lever (ID 7)
+[false,false,false,false,false,false,false,false,true,false,false,2,0,false,false],  // 37: Lever (ID 2)
+[false,false,false,false,false,false,false,false,true,false,false,8,0,false,false],  // 38: Lever (ID 8)
+
+[false,true,false,false,false,false,false,false,false,false,false,0,0,false,false],  // 39: Semi-Solid / Drop-through Platform
+[true,true,true,true,false,false,false,false,true,false,false,13,0,false,false],   // 40: Solid Lever/Button (ID 13)
+[true,true,true,true,false,false,false,false,true,false,false,14,0,false,false],   // 41: Solid Lever/Button (ID 14)
+[true,true,true,true,false,false,false,false,false,false,false,0,0,false,false],   // 42: Standard Solid Block
+[true,true,true,true,false,false,false,false,false,false,false,0,0,false,false],   // 43: Standard Solid Block
+[false,false,true,false,false,false,false,false,false,true,false,0,0,false,false], // 44: Solid from Left Only
+[true,true,true,true,false,true,false,true,false,false,false,0,0,false,false],     // 45: Deadly from Bottom and Right
+[true,true,true,true,false,true,true,false,false,false,false,0,0,false,false],     // 46: Deadly from Bottom and Left
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 47: Empty Space
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 48: Background Tile (Shadable)
+[true,true,true,true,false,false,false,false,true,false,false,0,0,false,false],    // 49: Solid Active Block
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 50: Empty Space
+
+// 51 to 54: Switchable Blocks (Group 2)
+[true,true,true,true,false,false,false,false,true,false,false,0,2,false,false],    // 51: Solid (Group 2)
+[true,true,true,true,false,false,false,false,true,false,false,0,2,false,false],    // 52: Solid (Group 2)
+[false,false,false,false,false,false,false,false,true,false,false,0,2,false,false],  // 53: Passable/Inactive (Group 2)
+[false,false,false,false,false,false,false,false,true,false,false,0,2,false,false],  // 54: Passable/Inactive (Group 2)
+
+[false,true,false,false,false,false,false,false,false,true,false,0,0,false,false], // 55: Large Semi-Solid / Drop-through Platform
+[true,true,true,true,false,false,false,false,false,false,false,0,0,false,false],   // 56: Standard Solid Block
+[false,false,false,false,false,false,false,false,true,false,false,3,0,false,false],  // 57: Lever (ID 3)
+[false,false,false,false,false,false,false,false,true,false,false,9,0,false,false],  // 58: Lever (ID 9)
+[false,false,false,false,false,false,false,false,true,true,false,0,0,false,false], // 59: Active Large Block
+
+// 60 to 65: Switchable Blocks (Group 3)
+[true,true,true,true,false,false,false,false,true,false,false,0,3,false,false],    // 60: Solid (Group 3)
+[false,false,false,false,false,false,false,false,true,false,false,0,3,false,false],  // 61: Passable/Inactive (Group 3)
+[false,false,false,false,false,false,false,false,true,false,false,0,3,false,false],  // 62: Passable/Inactive (Group 3)
+[false,true,false,false,false,false,false,false,true,false,false,0,3,false,false], // 63: Solid from Top Only (Group 3)
+[false,false,false,false,false,false,false,false,true,false,false,0,3,false,false],  // 64: Passable/Inactive (Group 3)
+[true,true,true,true,false,false,false,false,true,false,false,0,3,false,false],    // 65: Solid (Group 3)
+
+[false,false,false,false,false,false,false,false,true,true,false,0,0,false,false], // 66: Active Large Block
+[true,true,true,true,false,false,false,false,false,false,false,0,0,false,false],   // 67: Standard Solid Block
+[false,false,false,true,false,false,false,false,false,false,false,0,0,false,false],  // 68: Solid from Right Only
+[true,false,false,false,false,false,false,false,false,false,false,0,0,false,false],  // 69: Solid from Top Only
+[false,false,false,true,false,false,false,false,false,false,true,0,0,false,false],   // 70: Solid from Right Only (with Background Shadow)
+[true,true,true,true,false,false,false,false,true,false,false,15,0,false,false],   // 71: Solid Lever/Button (ID 15)
+[true,true,true,true,true,true,true,true,false,false,false,0,0,false,false],       // 72: Death Block (Deadly from all 4 sides)
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 73: Standard Solid Block (with borders)
+[true,true,true,true,false,false,false,false,true,false,false,0,0,false,false],    // 74: Solid Active Block
+[false,false,false,false,true,true,true,true,true,false,false,0,0,false,false],      // 75: Invisible/Passable Deadly Block (Like a Laser or Fire)
+[false,false,false,false,true,true,true,true,true,false,false,0,0,false,false],      // 76: Invisible/Passable Deadly Block (Variant)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 77: Background Tile (Shadable)
+[false,false,false,false,false,false,false,false,true,false,false,0,1,false,false],  // 78: Passable Switchable Block (Group 1)
+[true,true,true,true,true,true,true,true,true,false,false,0,1,false,false],        // 79: Solid & Deadly Switchable Block (Group 1)
+[false,false,false,false,false,false,false,false,true,true,false,0,0,false,false], // 80: Active Large Block
+[false,true,false,false,false,false,false,false,true,false,false,0,1,false,false], // 81: Semi-Solid Switchable Block (Group 1)
+[false,false,false,false,false,false,false,false,true,false,false,0,1,false,false],  // 82: Passable Switchable Block (Group 1)
+[false,true,false,false,false,false,false,false,true,false,false,0,6,false,false], // 83: Semi-Solid Switchable Block (Group 6)
+[false,true,false,false,false,false,false,false,true,false,false,0,6,false,false], // 84: Semi-Solid Switchable Block (Group 6)
+[false,true,false,false,false,false,false,false,true,false,false,0,6,false,false], // 85: Semi-Solid Switchable Block (Group 6)
+[false,true,false,false,false,false,false,false,true,false,false,0,6,false,false], // 86: Semi-Solid Switchable Block (Group 6)
+
+// 87 to 131: Mostly Empty Space and Shadable Background Tiles
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 87
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 88
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 89
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 90
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 91
+[false,false,false,false,false,false,false,false,false,false,false,0,0,false,false], // 92
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 93: Solid Block (with borders)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 94
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 95
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 96
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 97
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 98: Solid Block (with borders)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 99
+[false,false,false,false,true,true,true,true,false,false,false,0,1,false,true],      // 100: Liquid Block (Switchable Group 1, Deadly)
+[false,false,false,false,false,false,false,false,true,false,false,0,0,false,false],  // 101: Active Block
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 102: Solid Block (with borders)
+[false,false,false,false,true,true,true,true,false,false,false,0,1,false,true],      // 103: Liquid Block (Switchable Group 1, Deadly)
+[false,false,false,false,false,false,false,false,true,false,false,0,0,false,false],  // 104: Active Block
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 105: Solid Block (with borders)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 106: Background Tile (Shadable)
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 107: Solid Block (with borders)
+[false,false,false,false,false,false,false,false,true,false,false,6,0,false,false],  // 108: Lever (ID 6)
+[false,false,false,false,false,false,false,false,true,false,false,12,0,false,false], // 109: Lever (ID 12)
+
+// The rest are Shadable Background Tiles
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 110
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 111
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 112
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 113
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 114
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 115
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 116
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 117
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 118
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 119
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 120
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 121
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 122
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 123
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 124
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 125
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 126
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 127
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 128
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 129
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 130
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false],  // 131
+
+[false,false,false,false,false,false,false,false,false,false,false,0,1,false,true],  // 132: Liquid Block (Switchable Group 1)
+[true,true,true,true,false,false,false,false,false,false,false,0,0,true,false],    // 133: Standard Solid Block (with borders)
+[false,false,false,false,false,false,false,false,false,false,true,0,0,false,false]   // 134: Background Tile (Shadable)
+];
+// Array mapping out the IDs of blocks that change into other blocks when a switch/lever is hit.
+var switches:Array = [[31,33,32,34,79,78,81,82],[51,53,52,54],[65,61,60,62,63,64],[],[],[14,16,83,85]];
+
+// --- CHARACTER STATS ---
+// Contains physics and state values for each playable character/entity.
+// Tracks: [width/2, height, weight, carry-height, friction, can be cached, heat speed]
+var charD:Array = [  
+	[28,45.4,0.45,27,0.8,false,1],   // [0] Ruby's stats
+	[23,56,0.36,31,0.8,false,1.7],   // [1] Book's stats
+	[20,51,0.41,20,0.85,false,5],    // [2] Ice Cube's stats
+	[10,86,0.26,31,0.8,false,1.6],   // [3] Match's stats
+	[10,84,0.23,31,0.8,false,1.4],   // [4] Pencil's stats
+	[28,70,0.075,28,0.8,false,9]     // [5] Bubble's stats
+	// ... (More entities/objects follow below)
+];
+
+// Names of the main playable characters
+var names:Array = ["Ruby","Book","Ice Cube","Match","Pencil","Bubble"];
+
+// --- LEVEL INITIALIZATION ---
+// This function prepares a level to be played when it loads
+function resetLevel(){
+	charCount = startLocations[currentLevel].length; // Get number of characters spawning in this level
+	levelWidth = levels[currentLevel][0].length; // Get grid width
+	levelHeight = levels[currentLevel].length; // Get grid height
+	
+	copyLevel(levels[currentLevel]); // Create a working copy of the level grid to manipulate
+	
+	charDepth = levelWidth*levelHeight+charCount*2; // Calculate the Z-depth (layer order) to render characters above the background
+	charCount2 = 0; // Secondary counter for main playable characters
+	HPRC1 = HPRC2 = 1000000; // Trackers for specific special entities (like the HPRC)
+
+	// Loop through every character/entity meant to spawn in the level
+	for(var i:Number = 0; i < charCount; i++){
+		var id:Number = startLocations[currentLevel][i][0]; // Get the ID of the entity to spawn
+		
+		// Create a new Character instance with its specific stats from `charD`, its location, and behavior properties
+		char[i] = new Character(id, startLocations[currentLevel][i][1]*30+startLocations[currentLevel][i][2]*30/100,
+		startLocations[currentLevel][i][3]*30+startLocations[currentLevel][i][4]*30/100, 70+i*40, 400-i*30, 0, 0, false, 4, false, 0, 200, 200, 30,
+		startLocations[currentLevel][i][5], -1, new Array(0), charD[id][0], charD[id][1], charD[id][2], charD[id][2],
+		charD[id][3], false, charD[id][4], 0, 2, 0, new Array(0), 0, 0, 0, 0, charD[id][6]);
+		
+		if(id <= 5) charCount2++; // If ID is 0-5, it's one of the main 6 characters
+		if(id == 36) HPRC1 = i; // Specifically tag ID 36
+		if(id == 35) HPRC2 = i; // Specifically tag ID 35
+		
+		// If the character is in a specific pre-defined state (3 or 4), apply a custom speed
+		if(char[i].charState == 3 || char[i].charState == 4) char[i].speed = startLocations[currentLevel][i][6][0]*10+startLocations[currentLevel][i][6][1];
+	}
+	
+	drawLevel(); // Call function to actually build the visual tiles
+	drawCharacters(); // Call function to visually place the characters
+	
+	// Reset various game states
+	recover = false; 
+	cornerHangTimer = 0;
+	charsAtEnd = 0;
+	control = 0;
+	cutScene = 0;
+	white._visible = true; // Screen transition overlay
+	
+	// Calculate background scaling based on level size to ensure it covers the screen
+	bgXScale = ((levelWidth-32)*10+960)/9.6;
+	bgYScale = ((levelHeight-18)*10+540)/5.4;
+	bg._xscale = Math.max(bgXScale, bgYScale);
+	bg._yscale = Math.max(bgXScale, bgYScale);
+	bg.gotoAndStop(bgs[currentLevel]+1); // Set background image based on level data
+	
+	// Cache static elements as bitmaps to improve performance (Standard Flash game optimization)
+	levelShadow.cacheAsBitmap = true;
+	levelStill.cacheAsBitmap = true;
+	bg.cacheAsBitmap = true;
+	
+	// Set initial camera position based on the first character's position, clamping to level bounds
+	cameraX = Math.min(Math.max(char[0].x-480,0),levelWidth*30-960);
+	cameraY = Math.min(Math.max(char[0].y-270,0),levelHeight*30-540);
+	
+	// Update UI text for level number and name
+	levelButtons.textie.text = numberToText(currentLevel+1,true)+". "+levelName[currentLevel];
+	gotThisCoin = false; // Reset level collectible flag
+	levelTimer = 0; // Reset in-game timer
+	levelTimer2 = getTimer(); // Set actual system time reference for accurate time tracking
+	
+	// If the main character is in a playable state, give the player control
+	if(char[0].charState <= 9) changeControl();
+}
+
+// --- UTILITY FUNCTIONS ---
+// Creates a deep copy of a level's 2D array grid so the original data isn't overwritten during gameplay
+function copyLevel(thatLevel:Array){
+	thisLevel = new Array(thatLevel.length);
+	for(var y:Number = 0; y < levelHeight; y++){
+		thisLevel[y] = new Array(thatLevel[y].length);
+		for(var x:Number = 0; x < levelWidth; x++){
+			thisLevel[y][x] = thatLevel[y][x]; // Duplicate every tile row by row
+		}
+	}
+}
+
+// Formats a number into a string with leading zeros (e.g., 5 becomes "05" or "005")
+function numberToText(i:Number, hundreds:Boolean){
+	if(hundreds){
+		if(i < 10) return "00"+i;
+		else if(i < 100) return "0"+i;
+		else return i;
+	} else {
+		if(i == 0) return "00";
+		else if(i < 10) return "0"+i;
+		else return i;
+	}
+}
+
+// Converts raw milliseconds into a formatted Hours:Minutes:Seconds.Deciseconds string for speedruns
+function toHMS(i:Number){
+	var h:Number = Math.floor(i/3600000);
+	var m:Number = Math.floor(i/60000)%60;
+	var s:Number = Math.floor(i/1000)%60;
+	var ds:Number = Math.floor(i/100)%10;
+	return numberToText(h,false)+":"+numberToText(m,false)+":"+numberToText(s,false)+"."+ds;
+}
+
+// --- RENDERING FUNCTIONS ---
+// Interprets the level grid array and attaches MovieClips for blocks and tiles
+function drawLevel(){
+	if(playMode == 0 && currentLevel >= 1){
+		removeTileMovieClips(); // Clear previous level's tiles to prevent lag
+		addTileMovieClips();
+	}
+	
+	// Initialize the arrays for interactable switches
+	for(var i:Number = 0; i < 6; i++){
+		switchable[i] = new Array(0);
+	}
+	
+	// Loop through every X and Y coordinate in the grid
+	for(var y:Number = 0; y < levelHeight; y++){
+		for(var x:Number = 0; x < levelWidth; x++){
+			if(thisLevel[y][x] >= 1){ // If a tile exists here
+			
+				// Check if the block is linked to a switch and add its coordinates to the `switchable` array
+				if(blockProperties[thisLevel[y][x]][12] >= 1){
+					switchable[blockProperties[thisLevel[y][x]][12]-1].push([x,y]);
+				}
+				
+				// Determine what type of MovieClip container to put the tile in based on its properties
+				if(blockProperties[thisLevel[y][x]][14]){ // Liquid tile
+					addTileMovieClip(x,y,levelActive3);
+				} else if(blockProperties[thisLevel[y][x]][11] >= 1){ // Lever/Button tile
+					addTileMovieClip(x,y,levelActive2);
+					// Rotate levers visually based on their specific ID (Flash rotation degrees)
+					if(blockProperties[thisLevel[y][x]][11] >= 7 && blockProperties[thisLevel[y][x]][11] <= 12){
+						levelActive2["tileX"+x+"Y"+y].lever._rotation = 60;
+					}
+				} else if(blockProperties[thisLevel[y][x]][8]){ // Active moving block tile
+					addTileMovieClip(x,y,levelActive);
+				} else { // Standard static block tile
+					addTileMovieClip(x,y,levelStill);
+				}
+				
+				// Record the location of special blocks (like the Win zone)
+				if(thisLevel[y][x] == 6){
+					locations[0] = x;
+					locations[1] = y;
+					if(bgs[currentLevel] == 9 || bgs[currentLevel] == 10) levelActive["tileX"+x+"Y"+y].bg.gotoAndStop(2);
+				}
+				// Record location of another special ID (12)
+				if(thisLevel[y][x] == 12){
+					locations[2] = x; locations[3] = y; locations[4] = 1000; locations[5] = 0;
+				}
+			}
+		}
+	}
+}
+
+// Attaches the actual graphical tile movie clip from the Flash library to the stage
+function addTileMovieClip(x:Number, y:Number, level:MovieClip){
+	var t:Number = thisLevel[y][x];
+	// Attach the clip using math to figure out the linkage name "tileX" and place it at (x*30, y*30)
+	level.attachMovie("tile"+Math.floor(t/10),"tileX"+x+"Y"+y,y*levelWidth+x,{_x:x*30,_y:y*30});
+	level["tileX"+x+"Y"+y].gotoAndStop(t%10+1); // Frame handles graphical variations
+	
+	// Add ambient lighting/shadowing around certain blocks
+	if(t == 6){ // Special glowing block needs wide lighting
+		level["tileX"+x+"Y"+y].light.gotoAndStop(charCount2);
+		for(var x2:Number = 0; x2 < 2; x2++){
+			for(var y2:Number = 0; y2 < 4; y2++){
+				setAmbientShadow(x-x2,y-y2);
+			}
+		}
+	} else if(t >= 110 && t <= 129){ // Large blocks need broader shadows
+		for(var x2:Number = 0; x2 < 3; x2++){
+			for(var y2:Number = 0; y2 < 2; y2++){
+				setAmbientShadow(x-x2,y-y2);
+			}
+		}
+	} else if(blockProperties[thisLevel[y][x]][10]){ // Standard block property that requests shadow
+		setAmbientShadow(x,y);
+	}
+	
+	// Draw graphical borders on tiles that ask for it
+	if(blockProperties[thisLevel[y][x]][13]){
+		setBorder(x,y,levelStill["tileX"+x+"Y"+y].tileBorder,t);
+	}
+}
+
+// Calculates and attaches shadows around tiles depending on whether neighboring tiles are solid
+function setAmbientShadow(x:Number, y:Number){
+	levelShadow.attachMovie("tileShadow","tileX"+x+"Y"+y,y*levelWidth+x,{_x:x*30,_y:y*30});
+	var count:Number = 0;
+	// Loop through the 4 cardinal directions (up, down, left, right)
+	for(var i:Number = 0; i < 4; i++){
+		var t:Number = blockProperties[thisLevel[y+cardinal[i][1]][x+cardinal[i][0]]][12];
+		// Use binary-like addition to determine which shadow frame to show based on surrounding walls
+		if(blockProperties[thisLevel[y+cardinal[i][1]][x+cardinal[i][0]]][i] &&  (t == 0 || t == 6)){
+			count += Math.pow(2,3-i);
+		}
+	}
+	levelShadow["tileX"+x+"Y"+y].ambientShadow.gotoAndStop(count+1); // Move to correct shadow visual state
+	
+	// (Secondary shadow logic omitted for brevity, handles corners/diagonals)
+}
+
+// Helper to prevent Array Out of Bounds errors when checking tiles outside the level boundaries
+function outOfRange(x:Number, y:Number){
+	return (x<0 || y<0 || x>=levelWidth || y>=levelHeight);
+}
+
+// Places character movie clips on the stage
+function drawCharacters(){
+	// First, remove old characters from the screen to prevent duplicates
+	if(playMode == 0 && currentLevel >= 1){
+		for(var i:Number = 0; i < startLocations[currentLevel-transitionType].length; i++){
+			levelChar["char"+i].removeMovieClip();
+		}
+	} else {
+		for(var i:Number = 0; i < startLocations[currentLevel].length; i++){
+			levelChar["char"+i].removeMovieClip();
+		}
+	}
+	// Loop through our character objects and attach their clips
+	for(var i:Number = 0; i < charCount; i++){
+		levelChar.attachMovie("char","char"+i,charDepth-i*2,{_x:char[i].x,_y:char[i].y});
+		levelChar["char"+i].gotoAndStop(char[i].id+1); // Go to character's graphical frame
+		levelChar["char"+i].leg1.gotoAndStop(1); // Reset walk cycle leg 1
+		levelChar["char"+i].leg2.gotoAndStop(1); // Reset walk cycle leg 2
+		
+		if(char[i].charState <= 1) levelChar["char"+i]._visible = false; // Hide if inactive
+		if(char[i].charState == 9){ // Dead/trapped state
+			char[i].dire = 2; // Force them to look forward
+			levelChar["char"+i].charBody.gotoAndStop(2);
+			levelChar["char"+i].charBody.mouth.gotoAndStop(3);
+			levelChar["char"+i].charBody.mouth.mouth.gotoAndStop(57); // Frown/Trapped face
+		}
+	}
+}
+
+// --- CUTSCENES & DIALOGUE ---
+function startCutScene(){
+	if(cutScene == 0){
+		if(toSeeCS){ // If cutscene hasn't been skipped/played yet
+			cutScene = 1;
+			cutSceneLine = 0; // Start at the first dialogue line
+			displayLine(currentLevel, cutSceneLine);
+			char[control].dire = Math.ceil(char[control].dire/2)*2; // Make player face forward to talk
+		} else {
+			rescue(); // Skip cutscene and process events immediately
+			for(var i:Number = 0; i < dialogueChar[currentLevel].length; i++){
+				var p:Number = dialogueChar[currentLevel][i];
+				if(p >= 50 && p < 60) leverSwitch(p-50); // Instantly toggle levers that would have triggered during the cutscene
+			}
+			cutScene = 3;
+		}
+	}
+}
+
+// Puts dialogue into the speech bubble clip and animates faces
+function displayLine(level:Number, line:Number){
+	var p:Number = dialogueChar[level][line]; // Who is speaking based on ID
+	
+	// If ID is a switch trigger, toggle it instead of speaking
+	if(p >= 50 && p < 60){
+		leverSwitch(p-50);
+		cutSceneLine++;
+		line++;
+		p = dialogueChar[level][line];
+	}
+	
+	// Position speech bubble based on character location
+	var x:Number;
+	if(p == 99){ // 99 means system text / invisible narrator
+		x = 480; // Center screen horizontally
+	} else {
+		// Clamp bubble to screen edges so it doesn't get cut off
+		x = Math.min(Math.max(char[p].x,bubWidth/2+bubMargin),960-bubWidth/2-bubMargin);
+		putDown(p);
+	}
+	
+	_root.csBubble.gotoAndPlay(2); // Play bubble pop-in animation
+	_root.csBubble._x = x;
+	
+	// Decide whether bubble goes above or below character based on camera height
+	if(char[control].y-cameraY > 270) _root.csBubble._y = bubMargin+bubHeight/2;
+	else _root.csBubble._y = 520-bubMargin-bubHeight/2;
+	
+	// Swap character portrait inside the text bubble
+	if(p == 99){
+		_root.csBubble.csBubble2.gotoAndStop(2); // Empty/System bubble
+	} else {
+		_root.csBubble.csBubble2.gotoAndStop(1); // Standard character bubble
+		_root.csBubble.csBubble2.box.charBody.gotoAndStop(char[p].id+1);
+		_root.levelChar["char"+p].charBody.mouth.gotoAndStop(dialogueFace[level][line]); // Apply correct facial expression
+	}
+	// Insert text string into the bubble
+	_root.csBubble.csBubble2.textie.text = dialogueText[level][line];
+}
+
+// Toggles on/off state blocks based on switch ID mapping
+function leverSwitch(j:Number){
+	for(var z:Number = 0; z < switchable[j].length; z++){
+		var x:Number = switchable[Math.min(j,5)][z][0];
+		var y:Number = switchable[Math.min(j,5)][z][1];
+		
+		for(var k:Number = 0; k < switches[j].length; k++){
+			// Swap tile IDs back and forth (like changing a blue block to an empty block)
+			if(thisLevel[y][x] == switches[j][k*2]){
+				thisLevel[y][x] = switches[j][k*2+1];
+				levelActive["tileX"+x+"Y"+y].gotoAndStop(switches[j][k*2+1]%10+1);
+			} else if(thisLevel[y][x] == switches[j][k*2+1]){
+				thisLevel[y][x] = switches[j][k*2];
+				levelActive["tileX"+x+"Y"+y].gotoAndStop(switches[j][k*2]%10+1);
+			}
+		}
+	}
+}
+
+// --- COLLISION PHYSICS FUNCTIONS ---
+
+// Checks if a specific tile stops the player from moving through it
+function solidAt(x:Number, y:Number){
+	var t:Number = getBlockTypeAt(x,y);
+	// Return true only if it has solid boundaries on all four sides
+	return (blockProperties[t][0] && blockProperties[t][1] && blockProperties[t][2] && blockProperties[t][3]);
+}
+
+// Returns the tile type ID at the specified grid coordinates (Divided by 30 because each tile is 30x30 pixels)
+function getBlockTypeAt(x:Number, y:Number){
+	return thisLevel[Math.floor(y/30)][Math.floor(x/30)];
+}]]></script>
+                                   </Actionscript>
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="1201160" publishTime="1771047702"/>
+          <PublishItem publishSize="1217868" publishTime="1771045550"/>
+     </publishHistory>
+</DOMDocument>

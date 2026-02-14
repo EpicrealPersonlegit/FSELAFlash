@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="thing" itemID="502b0874-00000226" sourceFlashFilepath="../../../../3-7.fla" sourceLibraryItemHRef="thing" sourceLastModified="1344997492" lastModified="1361146580" sourceItemID="502b0874-00000226">
+  <timeline>
+    <DOMTimeline name="thing">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#990000"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!211 -370[#12A.89 #FFFF27.94 298.5 0!298.5 0[#12A.89 #D8.2E 211 369!211 369[#7B.87 #20A.81 0 522.5!0 522.5[-123.53125 #20A.81 -211 369!-211 369[#FFFED5.37 #D8.2E -299 0!-299 0[#FFFED5.37 #FFFF27.94 -211 -370!-211 -370[-123.53125 #FFFDF5.01
+ 0 -523!0 -523[#7B.87 #FFFDF5.01 211 -370"/>
+                    <Edge fillStyle0="3" fillStyle1="1" strokeStyle="1" edges="
+!432.5 -0.5[#1B0.63 #138.9D 305.5 534!305.5 534[#B2.D9 #2F4.5E 0 756.5!0 756.5[#FFFF4C.E5 #2F4.5E -306 534!-306 534[#FFFE4F.1C #138.9D -433 -0.5!-433 -0.5[#FFFE4F.1C #FFFEC6.42 -306 -536!-306 -536[#FFFF4C.E5 #FFFD0A.81 0 -757.5!0 -757.5
+[#B2.D9 #FFFD0A.81 305.5 -536!305.5 -536[#1B0.63 #FFFEC6.42 432.5 -0.5"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="
+!410 -718[580 -420 580 0!580 0[580 420 410 717!410 717[240 1015 0 1015!0 1015[-240 1015 -410 717!-410 717[-580 420 -580 0!-580 0[-580 -420 -410 -718!-410 -718[-240 -1015 0 -1015!0 -1015[240 -1015 410 -718"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

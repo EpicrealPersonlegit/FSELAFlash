@@ -1,0 +1,219 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="factory 3" itemID="507f7e38-0000ed64" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="factory 3" sourceLastModified="1360960295" symbolType="graphic" lastModified="1360960348" sourceItemID="507f7e38-0000ed64">
+  <timeline>
+    <DOMTimeline name="factory 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tada" symbolType="graphic" firstFrame="8" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1.4093017578125" c="1.4093017578125" d="0" tx="-212.5" ty="61.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#00FFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tada" symbolType="graphic" firstFrame="10" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1.4093017578125" c="1.4093017578125" d="0" tx="-201.2" ty="61.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#00FFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tada" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1.4093017578125" c="1.4093017578125" d="0" tx="-236.15" ty="61.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#00FFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tada" symbolType="graphic" firstFrame="6" loop="loop">
+                  <matrix>
+                    <Matrix a="0" b="1.4093017578125" c="1.4093017578125" d="0" tx="-224.85" ty="61.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#00FFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="grpuh">
+                  <matrix>
+                    <Matrix tx="-288.1" ty="-90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!7566 2670.5|4593 2670.5!4593 2670.5|4593 230.5!4593 230.5|7566 230.5!7566 230.5|7566 2670.5"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="74.55" height="50.3" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="240.1" ty="52.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>warning!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-1" size="15" face="Stencil" fillColor="#990000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-1" size="8" face="Stencil" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Beware of warning signs</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="-1" size="10" face="Stencil" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="sign">
+                  <matrix>
+                    <Matrix tx="256.2" ty="34.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48046875"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="sign">
+                  <matrix>
+                    <Matrix tx="298.5" ty="34.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48046875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Objects/BRC Stuff/stuff no steam" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-3.24343872070313" d="3.24290466308594" tx="51.65" ty="238.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-68.7" y="-5.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Objects/BRC Stuff/stuff 4" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="3.24343872070313" d="3.24290466308594" tx="185.2" ty="-2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-68.7" y="-5.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#505050"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-6760 6812|-9082 6812!-9082 6812|-9082 -3999.5!-9082 -3999.5|-6760 -3999.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-6760 -3999.5|6902.5 -3999.5"/>
+                    <Edge fillStyle1="1" edges="!6902.5 -3999.5|8270.5 -3999.5!8270.5 -3999.5|8270.5 6812!8270.5 6812|6902.5 6812"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!6902.5 6812|-6760 6812"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

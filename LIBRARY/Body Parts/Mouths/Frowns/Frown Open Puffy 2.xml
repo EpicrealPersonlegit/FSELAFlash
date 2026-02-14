@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Mouths/Frowns/Frown Open Puffy 2" itemID="51216e4f-00001294" lastModified="1361145834">
+  <timeline>
+    <DOMTimeline name="Frown Open Puffy 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#8C0003"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!160 33[#B6.D7 -29.296875 233.5 -80!233.5 -80[#13A.48 #FFFF5F.49 424 -170.5!424 452.5[#13A.48 #1BA.B7 233.5 362!233.5 362[#94.97 #115.05 147 271"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!147 271[#FFFFD9.F3 #AF.05 -210 198"/>
+                    <Edge strokeStyle="1" edges="!-210 198[#FFFF13.F1 #F4.0F -324 332!-324 332[#FFFE5B.E9 #1AC.17 -549 444"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!147 271[#8D.FD #96.85 142 141!142 141[#8D.EE #53.2E 160 33"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="!160 33[#FFFFE5.73 #FFFF1D.FE -211.5 8.5"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-211.5 8.5[#FFFF2D.5A #10.33 -210 24!-210 24[#FFFF2E.64 #1D.FC -209.5 36!-209.5 36[#FFFF4C.44 #9C.55 -210 198"/>
+                    <Edge strokeStyle="1" edges="!-549 -334[#FFFE5B.E9 #FFFEC1.E9 -324 -222!-324 -222[#FFFF1E.11 #FFFF84.11 -211.5 8.5!-210 24|-210.5 31.5!-210.5 31.5[#FFFF2E.14 #21.CA -209.5 36!-209.5 36[-209 #2D.6F -209 55!-209 55|-210.5 31.5!-210.5 31.5|-217 -23"/>
+                    <Edge strokeStyle="2" edges="!-217 -23|-211.5 8.5"/>
+                    <Edge strokeStyle="1" edges="!-217 -23[#FFFF2D.11 #10.26 -210 24"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

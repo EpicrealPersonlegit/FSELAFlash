@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="light of ufo" itemID="4efdf2b9-00018a6e" sourceFlashFilepath="D:\BFDI\20-4.fla" sourceLibraryItemHRef="light of ufo" sourceLastModified="1325265593" lastModified="1325265593" sourceItemID="4efdf2b9-00018a6e">
+  <timeline>
+    <DOMTimeline name="light of ufo">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00CC00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#00BA00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#009900"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!163 -260[#B6.16 #FFFF2A.F4 182 -158.5!182 -158.5[#B6.27 #FFFFCE.C9 104.5 28.5!104.5 28.5[#1A.89 #6A.67 -83 106.5!-83 106.5[#FFFF63.71 #6A.7A -216 71.5"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-216 71.5[#FFFF3B.CE #76.16 -157 157!-157 157[#FFFFB0.B6 #EA.E7 30 235!30 235[#8B.49 #EA.E7 217 157!217 157[#126.E7 #4F.49 295 -30!295 -30[#126.E7 #FFFF74.B6 217 -217!217 -217[#BF.9A #FFFF0D.77 163 -260"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!163 -260[#67.8F #FFFED9.05 30 -295!30 -295[#FFFFB0.B6 -294.90625 -157 -217!-157 -217[-234.90625 #FFFF74.B6 -235 -30!-235 -30[#FFFF14.EA #18.8A -216 71.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

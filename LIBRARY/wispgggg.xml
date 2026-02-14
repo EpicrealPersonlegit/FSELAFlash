@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="wispgggg" itemID="511e9b30-00001482" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="wispgggg" sourceLastModified="1360960304" lastModified="1360960304" sourceItemID="511e9b30-00001482">
+  <timeline>
+    <DOMTimeline name="wispgggg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="7.45" ty="-6.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-355 -139[#FFFD3C.F3 #1A6.92 -305 967!-305 967[#FFFFF3.49 #5AB.E -355 1922!-355 1922[-615.9375 #8D1.C -274.5 2593.5!-274.5 2593.5[#FFFE43.32 #8BD.9 -135 1891!-135 1891[#72.15 #657.D8 -115 971!-115 971[-151.46875 #241.E8 -23 86.5!-23
+ 86.5[#FFFFE9.E2 #52.3C -21 78!-21 78[#BF.45 #FFFE98.0E 219.5 -1134.5!219.5 -1134.5[#BA.97 #FFF8A3.0B -430.5 -2349.5!-430.5 -2349.5[#FFFEFE.34 #FFF78A.86 -163 -1684.5!-163 -1684.5[#FFFF9B.86 #FFFCA0.59 -355 -139"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

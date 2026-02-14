@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="metalBorder7" itemID="511e940a-0000064b" lastModified="1360995343" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="metalBorder7">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder8" name="a1">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="15" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="metalBorder8" name="a0">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="15" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="metalBorder8" name="a3">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="15" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="metalBorder8" name="a2">
+                  <matrix>
+                    <Matrix tx="15" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

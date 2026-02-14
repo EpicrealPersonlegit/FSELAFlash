@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="conveyorStill" itemID="5109ef5f-0000023a" lastModified="1359605620">
+  <timeline>
+    <DOMTimeline name="conveyorStill">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="15872">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!800 189S1|800 111"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!800 111S3|748 150!748 150|800 189"/>
+                    <Edge fillStyle0="1" edges="!800 111S1|800 0!800 0|748 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!748 0S3|548 150!548 150|748 300"/>
+                    <Edge fillStyle0="1" edges="!748 300S1|800 300!800 300|800 189"/>
+                    <Edge fillStyle1="2" edges="!548 0S2|748 0!748 300|548 300"/>
+                    <Edge fillStyle1="3" edges="!548 300S2|348 300"/>
+                    <Edge fillStyle1="2" edges="!348 300S2|148 300"/>
+                    <Edge fillStyle1="1" edges="!148 300S2|0 300!0 300|0 189"/>
+                    <Edge fillStyle1="2" edges="!0 189S2|0 111"/>
+                    <Edge fillStyle1="1" edges="!0 111S2|0 0!0 0|148 0"/>
+                    <Edge fillStyle1="2" edges="!148 0S2|348 0"/>
+                    <Edge fillStyle1="3" edges="!348 0S2|548 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!0 111S3|148 0"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!348 0S3|148 150!148 150|348 300"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!148 300S3|0 189"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!548 0S3|348 150!348 150|548 300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Mouths/Smiles/Smile Closed 2" itemID="4b1437a3-00001c8b" sourceFlashFilepath="../../../../2-14.fla" sourceLibraryItemHRef="Body Parts/Mouths/Smiles/Smile Closed 2" sourceLastModified="1257223616" lastModified="1257223616" sourceItemID="4b1437a3-00001c8b">
+  <timeline>
+    <DOMTimeline name="Smile Closed 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-430 -104[-455 75 -335 190!-335 190[-226 294 -47 305!-47 305[132 315 277 224!277 224[439 122 485 -69"/>
+                    <Edge cubics="!-430 -104(;-500,400 355,470 485,-69q-430 -104Q-455 75q-335 190Q-226 294q-47 305Q132 315q277 224Q439 122q485 -69);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

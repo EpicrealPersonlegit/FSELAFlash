@@ -1,0 +1,184 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="menuMovieClip" itemID="50fd73a9-00000097" linkageExportForAS="true" linkageIdentifier="menuMovieClip" lastModified="1360694243" lastUniqueIdentifier="37">
+  <timeline>
+    <DOMTimeline name="menuMovieClip">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="playButton" name="menuNewGame" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.66522216796875" d="0.66522216796875" tx="665.55" ty="348.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="27.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="playButton2" name="menuContGame" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.66522216796875" d="0.66522216796875" tx="665.55" ty="393.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="27.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MakeButton" name="menuLevelCreator" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.66522216796875" d="0.66522216796875" tx="665.5" ty="437.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="28.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MakeButton2" name="menuLevelViewer" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.66522216796875" d="0.66522216796875" tx="665.55" ty="482.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="28.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="5a" name="menuWatch" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.66522216796875" d="0.66522216796875" tx="665.55" ty="303.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="107.5" y="27.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="grayed out" name="menuContGameGray">
+                  <matrix>
+                    <Matrix a="0.665206909179688" d="0.664871215820313" tx="801.95" ty="392.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="grayed out" name="menuLevelCreatorGray">
+                  <matrix>
+                    <Matrix a="0.665206909179688" d="0.664871215820313" tx="801.8" ty="437.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="grayed out" name="menuLevelViewerGray">
+                  <matrix>
+                    <Matrix a="0.665206909179688" d="0.664871215820313" tx="801.95" ty="482.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="playButton3" name="menuNewGame2">
+                  <matrix>
+                    <Matrix a="0.66522216796875" d="0.665390014648438" tx="1665.55" ty="81.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" left="116.25" width="217.2" height="54.55" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="617.55" ty="5.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>By Cary Huang</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" size="32" face="HelveticaNeueLT Com 55 Roman" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" size="19" face="HelveticaNeueLT Com 55 Roman" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Music by Michael Huang</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" size="15" face="HelveticaNeueLT Com 55 Roman" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8096 6640.5[#217A.3F #19F0.9D 8873.5 6819.5!8873.5 6819.5[#23E0.33 #1B56.3A 9355 7278!9355 7278[#253D.C4 #1D85.C5 9611.5 7907.5!9611.5 7907.5[#25D1.79 #2039.86 9681.5 8576!9681.5 8576[#25D1.85 #22DD.BF 9580.5 9275.5!9580.5 9275.5[#250F.45
+ #2599.57 9293 9913!9293 9913[#238A.A2 #27D0.C6 8811 10371.5!8811 10371.5[#2143.C5 10542.5 8119.5 10542.5!8119.5 10542.5[#1EB6.E3 #292E.91 7684 10496!7684 10496[#1D51.4C #28D1.68 7381 10379.5!7381 10379.5[#1C60.75 #2845.68 7179 10216
+!7179 10216[#1BBD.5D #2792.A3 7031.5 10037.5!7031.5 10037.5|7023.5 10045!7023.5 10045|7023.5 10449.5!7023.5 10449.5|5655.5 10449.5!5655.5 10449.5|5655.5 5342.5!5655.5 5342.5|7070 5342.5!7070 5342.5|7070 7146!7070 7146|7086 7146!7086 7146
+[#1C50.FA #1AF8.D7 7513 6772.5!7513 6772.5[#1E61.4C #19F0.6E 8096 6640.5!7326.5 7760[#1C29.EF #1E9D.CB 7140 7970!7140 7970[#1B9E.2F #1F9E.51 7047 8257.5!7047 8257.5[#1B6F.97 #20E4.9C 7023.5 8591.5!7023.5 8591.5[#1B6F.97 #2232.BF 7047
+ 8918!7047 8918[#1B9E.2F #2379.4B 7140 9213.5!7140 9213.5[#1C29.EF #2481.92 7326.5 9431!7326.5 9431[#1D1A.E9 9516.5 7637.5 9516.5!7637.5 9516.5[#1E97.DC 9516.5 7948.5 9431!7948.5 9431[#1F88.F4 #2481.92 8143 9213.5!8143 9213.5[#2014.D1
+ #2379.4B 8236 8918!8236 8918[#2043.68 #2232.BF 8259.5 8591.5!8259.5 8591.5[#2043.68 #20E4.9C 8236 8257.5!8236 8257.5[#2014.D1 #1F9E.51 8143 7970!8143 7970[#1F88.F4 #1E9D.CB 7948.5 7760!7948.5 7760[#1E97.DC 7674.5 7637.5 7674.5!7637.5
+ 7674.5[#1D1A.E9 7674.5 7326.5 7760!2316.5 7291.5[#9F3.BE #1BCA.04 2838 7050!2838 7050[3125 #1B4C.0E 3405 6988!3405 6988[#E96.01 #1B4B.E8 4031 7092!4031 7092[#10E9.01 #1C19.48 4553 7407!4553 7407[#12A5.42 #1DC0.5F 4903.5 7948.5!4903.5
+ 7948.5[#13A8.84 #2057.A8 5032.5 8731.5!5032.5 8731.5[#13A8.84 #23A4.6F 4885.5 9456.5!4885.5 9456.5[#1282.43 #263C.A3 4455 10030!4455 10030[#104B.03 #281C.4B 3755 10405.5!3755 10405.5[#D07.03 #292E.99 2796 10542.5!2796 10542.5[#921.BC
+ #292E.9F 1998.5 10453!1998.5 10453[#67A.7D #287E.62 1417.5 10222!1417.5 10222[#498.7D #275D.8D 1022.5 9897!1022.5 9897[#364.7E #25F4.6C 787.5 9524.5!787.5 9524.5[#2BF.7E #2479.CC 675.5 9164.5!675.5 9164.5[#287.7F #231F.4A 661.5 8864.5
+!661.5 8864.5|2071.5 8864.5!2071.5 8864.5[#841.7D #2375.D7 2271.5 9203.5!2271.5 9203.5[#94B.BE #244E.4A 2527 9333.5!2527 9333.5[#A71.FF #249C.D9 2838 9373!2838 9373[#C51.03 #249C.DA 3377 9186!3377 9186[#E0E.06 #2326.6 3598 8688!3598 8688
+[#E0E.06 #2098.5A 3402 8157.5!3402 8157.5[#C86.04 #1F21.E1 2884 7970!2884 7970[#A47.BD #1F22.09 2453.5 8049.5!2453.5 8049.5[#8E2.7E #1FBC.B5 2159.5 8301!2159.5 8301|829.5 8301!829.5 8301|1344.5 5342.5!1344.5 5342.5|4770.5 5342.5!4770.5
+ 5342.5|4770.5 6598!4770.5 6598|2446.5 6598!2446.5 6598|2302.5 7277!2302.5 7277|2316.5 7291.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="poopers">
+                  <matrix>
+                    <Matrix a="0.892501831054688" d="0.892501831054688" tx="258.15" ty="1.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.65" y="148.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!19200 10800S2|0 10800!0 10800|0 0!0 0|19200 0!19200 0|19200 10800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

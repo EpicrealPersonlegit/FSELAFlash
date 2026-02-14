@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="burst1" itemID="50fc6f85-000001e8" linkageExportForAS="true" linkageIdentifier="burst1" lastModified="1358806643">
+  <timeline>
+    <DOMTimeline name="burst1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0489654541015625" d="0.056854248046875" ty="0.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!575.5 -656.5[#32D.A5 #FFFE7F.FA 813.5 0!813.5 0[#32D.A5 #181.67 575.5 658!575.5 658[#151.2F #3A2.82 0 930.5!0 930.5[#FFFEAE.F3 #3A2.82 -576.5 658!-576.5 658[#FFFCD1.1B #181.67 -815 0!-815 0[#FFFCD1.1B #FFFE7F.FA -576.5 -656.5!-576.5
+ -656.5[#FFFEAE.F3 #FFFC5E.FE 0 -929!0 -929[#151.2F #FFFC5E.FE 575.5 -656.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

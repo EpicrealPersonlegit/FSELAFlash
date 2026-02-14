@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Diamond" itemID="4dbcdff8-0000035f" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Diamond" sourceLastModified="1340489119" lastModified="1358653146" lastUniqueIdentifier="3" sourceItemID="4dbcdff8-0000035f">
+  <timeline>
+    <DOMTimeline name="Diamond">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Ruby Body">
+                  <transformationPoint>
+                    <Point x="-0.05" y="8.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="eyespin" itemID="511eb3d3-00003534" lastModified="1360966695" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="eyespin">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="59" tweenType="motion" motionTweenRotate="clockwise" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="eye">
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="eye">
+                  <matrix>
+                    <Matrix a="0.994522094726563" b="-0.101272583007813" c="0.101272583007813" d="0.994522094726563" tx="-0.55" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

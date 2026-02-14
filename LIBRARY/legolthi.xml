@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="legolthi" itemID="5119bad2-00003327" lastModified="1360649007">
+  <timeline>
+    <DOMTimeline name="legolthi">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CC0000"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#FF3333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="6" joints="miter">
+                        <fill>
+                          <SolidColor color="#660000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!461 -2786.5|653 -2786.5"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!653 -2786.5|1080 -2786.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1080 -2786.5|1362.5 -2786.5!1362.5 -2786.5|1362.5 -2330"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!1362.5 -2330|1902 -2330!1902 -2330|1902 0!1902 0|-1902.5 0!-1902.5 0|-1902.5 -2330!-1902.5 -2330|-1379 -2330!-1379 -2330|-1379 -2786.5!-1379 -2786.5|-1225 -2786.5"/>
+                    <Edge fillStyle1="3" strokeStyle="1" edges="!-1225 -2786.5|-1042 -2786.5"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-1042 -2786.5|-656 -2786.5"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-656 -2786.5|-393 -2786.5!-393 -2786.5|-393 -2330"/>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!-393 -2330|376 -2330!376 -2330|376 -2786.5!376 -2786.5|461 -2786.5"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!653 -2786.5|653 -2330!653 -2330|461 -2330!461 -2330|461 -2786.5"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!1362.5 -2330|1080 -2330!1080 -2330|1080 -2786.5"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!-1042 -2786.5|-1042 -2330!-1042 -2330|-1225 -2330!-1225 -2330|-1225 -2786.5"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!-393 -2330|-656 -2330!-656 -2330|-656 -2786.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

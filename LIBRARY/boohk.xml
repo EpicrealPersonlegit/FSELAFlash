@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="boohk" itemID="50c56af0-000550f2" sourceFlashFilepath="../../../../5-9.fla" sourceLibraryItemHRef="boohk" sourceLastModified="1355115295" symbolType="graphic" lastModified="1355115295" sourceItemID="50c56af0-000550f2">
+  <timeline>
+    <DOMTimeline name="boohk">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.829437255859375" b="-0.243667602539063" c="-0.29656982421875" d="0.940078735351563" tx="-43.65" ty="-4.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Walk Cycle" symbolType="graphic" firstFrame="8" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.864242553710938" b="-0.0206756591796875" c="-0.04315185546875" d="0.98480224609375" tx="23.35" ty="43.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Walk Cycle" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.864242553710938" b="-0.0206756591796875" c="-0.04315185546875" d="0.98480224609375" tx="-11.65" ty="42.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Characters/Book/Book Body">
+                  <matrix>
+                    <Matrix a="0.733413696289063" b="-0.004425048828125" c="0.004425048828125" d="0.7333984375" tx="13.55" ty="-21.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Surprised Left">
+                  <matrix>
+                    <Matrix a="0.809326171875" b="-0.0156402587890625" c="0.0156402587890625" d="0.809326171875" tx="-35.9" ty="-29.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2.4" y="-7.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Closed">
+                  <matrix>
+                    <Matrix a="-0.7059326171875" b="0.0136260986328125" c="0.0156402587890625" d="0.809326171875" tx="-25.6" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.15" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight" symbolType="graphic" firstFrame="1" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.84014892578125" b="0.203704833984375" c="0.21319580078125" d="0.962417602539063" tx="66.6" ty="-3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,180 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Limbs/Legs/Walk Cycle Backwards" itemID="4fe75595-00022b63" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Mouths/Limbs/Legs/Walk Cycle Backwards" sourceLastModified="1340560789" symbolType="graphic" lastModified="1340560789" sourceItemID="4fe75595-00022b63">
+  <timeline>
+    <DOMTimeline name="Walk Cycle Backwards">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight">
+                  <matrix>
+                    <Matrix a="0.89691162109375" b="-0.438995361328125" c="0.379684448242188" d="1.0118408203125" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="15872" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight">
+                  <matrix>
+                    <Matrix a="0.820068359375" b="-0.572021484375" c="0.513381958007813" d="0.983245849609375" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight Below">
+                  <matrix>
+                    <Matrix a="0.734664916992188" b="-0.677993774414063" c="0.58477783203125" d="0.823593139648438" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent">
+                  <matrix>
+                    <Matrix a="0.977447509765625" b="-0.217742919921875" c="0.076416015625" d="0.83428955078125" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent">
+                  <matrix>
+                    <Matrix a="0.910186767578125" b="0.401718139648438" c="-0.280853271484375" d="0.63629150390625" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above">
+                  <matrix>
+                    <Matrix a="0.618240356445313" b="0.781204223632813" c="-0.571441650390625" d="0.45220947265625" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above" selected="true">
+                  <matrix>
+                    <Matrix a="0.38232421875" b="0.9208984375" c="-0.7508544921875" d="0.31170654296875" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above">
+                  <matrix>
+                    <Matrix a="0.42236328125" b="0.902694702148438" c="-0.81939697265625" d="0.383377075195313" tx="-0.1" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Bent Above">
+                  <matrix>
+                    <Matrix a="0.548492431640625" b="0.834136962890625" c="-0.834136962890625" d="0.548492431640625" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight Scrunched">
+                  <matrix>
+                    <Matrix a="0.548828125" b="0.883331298828125" c="-0.67431640625" d="0.751754760742188" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight Scrunched">
+                  <matrix>
+                    <Matrix a="0.66864013671875" b="0.91009521484375" c="-0.515594482421875" d="0.745162963867188" tx="-0.15" ty="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" motionTweenScale="false" keyMode="14336">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight" selected="true">
+                  <matrix>
+                    <Matrix a="0.98590087890625" b="-0.0017852783203125" c="-0.247329711914063" d="1.00593566894531" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" motionTweenScale="false" keyMode="14336">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight">
+                  <matrix>
+                    <Matrix a="0.98590087890625" b="-0.0017852783203125" c="-0.104736328125" d="1.00567626953125" tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Legs/Leg Straight" selected="true">
+                  <matrix>
+                    <Matrix tx="-0.15" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

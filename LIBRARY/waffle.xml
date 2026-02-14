@@ -1,0 +1,328 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="waffle" itemID="51216d2b-0000072d" lastModified="1361247599" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="waffle">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="wafbob">
+                  <matrix>
+                    <Matrix tx="-99.35" ty="-107.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.8" y="126.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mouth talk 3" name="mouth">
+                  <matrix>
+                    <Matrix a="4.6165771484375" d="4.6165771484375" tx="104.55" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="wafbob">
+                  <matrix>
+                    <Matrix a="-1" tx="306.25" ty="-107.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="202.8" y="126.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mouth talk 3" name="mouth">
+                  <matrix>
+                    <Matrix a="-4.6165771484375" d="4.6165771484375" tx="104.55" ty="58.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Open Puffy">
+                  <matrix>
+                    <Matrix a="-1.81904602050781" c="0.0367431640625" d="1.75144958496094" tx="99.65" ty="52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Smiles/Smile Open Puffy">
+                  <matrix>
+                    <Matrix a="1.81904602050781" c="-0.0367431640625" d="1.75144958496094" tx="106.45" ty="52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open Puffy 2">
+                  <matrix>
+                    <Matrix a="1.81904602050781" c="-0.0367431640625" d="1.75144958496094" tx="106.45" ty="52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Mouths/Frowns/Frown Open Puffy 2">
+                  <matrix>
+                    <Matrix a="-1.81904602050781" c="0.0367431640625" d="1.75144958496094" tx="96.2" ty="52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="52.7" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="153.3" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="52.7" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="153.3" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="52.7" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Normal">
+                  <matrix>
+                    <Matrix a="-1.33612060546875" c="0.0269927978515625" d="1.28648376464844" tx="153.3" ty="-19.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.4" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Closed 3 2">
+                  <matrix>
+                    <Matrix a="1.54396057128906" d="1.54396057128906" tx="65" ty="-6.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4.1" y="-13.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Closed 3 2">
+                  <matrix>
+                    <Matrix a="-1.54396057128906" d="1.54396057128906" tx="147.7" ty="-3.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4.1" y="-13.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Closed 3 2">
+                  <matrix>
+                    <Matrix a="-1.54396057128906" d="1.54396057128906" tx="137.65" ty="-3.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4.1" y="-13.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Body Parts/Eyes/Eye Closed 3 2">
+                  <matrix>
+                    <Matrix a="1.54396057128906" d="1.54396057128906" tx="54.95" ty="-3.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4.1" y="-13.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix a="-1" tx="101.7" ty="139.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix tx="105" ty="139.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix a="-1" tx="101.7" ty="139.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix tx="105" ty="139.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix a="-1" tx="101.7" ty="139.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix tx="105" ty="139.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="boxscreen" itemID="50fc9e69-00000799" lastModified="1360652755" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="boxscreen">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody">
+                  <matrix>
+                    <Matrix a="2.60029602050781" d="2.60029602050781" tx="-0.1" ty="76.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-27.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CE6FCE"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!799.5 -800|799.5 800!799.5 800|-800.5 800!-800.5 800|-800.5 -800!-800.5 -800|799.5 -800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Eyes/Eye Closed 3" itemID="4fe206eb-00017f38" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Eyes/Eye Closed 3" sourceLastModified="1340217148" lastModified="1340217148" sourceItemID="4fe206eb-00017f38">
+  <timeline>
+    <DOMTimeline name="Eye Closed 3">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-6.5 -246.5[#36.75 #FFFF09.9E 64 -23!64 -23[#44.6C #63.5C 68.5 101.5!68.5 101.5[#48.C7 #89.D3 89 91.5!89 91.5[#6F.28 #15.D 89.5 -152!89.5 -152[#41.9B -349.5 -5 -349.5!-5 -349.5[#FFFFB5.02 #FFFEA2.9A -99 -147.5!-99 -147.5[#FFFF89.5B #18.2C
+ -101 88.5!-101 88.5[#FFFFA5.9B #7F.37 -84.5 86.5!-84.5 86.5[#FFFFB1.39 #F.84 -74.5 -34!-74.5 -34[#FFFFC7.92 #FFFF09.7C -6.5 -246.5"/>
+                    <Edge cubics="!-2 133(;-151,133 -160,-43 -132,-72q-2 133Q-100 133q-133 41Q-163 -40q-132 -72);"/>
+                    <Edge cubics="!130 -71(;148,-49 147,133 -2,133q130 -71Q154 -41q127 39Q94 133q-2 133);"/>
+                    <Edge cubics="!-132 -72(;-65,-141 -151,85 -1,85q-132 -72Q-110 -94q-104 -77Q-104 -76q-98 -19Q-85 85q-1 85);"/>
+                    <Edge cubics="!130 -71(;84,-127 121,85 -1,85q130 -71Q115 -89q107 -70Q99 -37q93 -14Q68 85q-1 85);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

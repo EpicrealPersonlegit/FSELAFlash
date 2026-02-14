@@ -1,0 +1,215 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="coinAnimation" itemID="51049a6c-00000627" lastModified="1359256497" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="coinAnimation">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="9" tweenType="shape" keyMode="17922" acceleration="-100">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#0.9C, #1.1" startPointB="-1.59375, #1.0A" strokeIndex1="0" strokeIndex2="1">
+                    <MorphCurves controlPointA="#0.9C, #0.E1" anchorPointA="#0.BC, #0.C1" controlPointB="-1.59375, #FFFFFF.EF" anchorPointB="-0.8203125, -0.8515625"/>
+                    <MorphCurves controlPointA="#0.DD, #0.A" anchorPointA="#1.0B, #0.A1" controlPointB="#FFFFFF.F7, -1.625" anchorPointB="#1.12, -1.625"/>
+                    <MorphCurves controlPointA="#1.39, #0.A" anchorPointA="#1.59, #0.C1" controlPointB="#2.2E, -1.625" anchorPointB="#2.F4, -0.8515625"/>
+                    <MorphCurves controlPointA="#1.7A, #0.E1" anchorPointA="#1.7A, #1.1" controlPointB="#3.BC, #FFFFFF.EF" anchorPointB="#3.BC, #1.0A"/>
+                    <MorphCurves controlPointA="#1.7A, #1.3E" anchorPointA="#1.59, #1.5E" controlPointB="#3.BC, #2.26" anchorPointB="#2.F4, #2.EC"/>
+                    <MorphCurves controlPointA="#1.39, #1.7F" anchorPointA="#1.0B, #1.7F" controlPointB="#2.2E, #3.B5" anchorPointB="#1.12, #3.B5"/>
+                    <MorphCurves controlPointA="#0.DD, #1.7F" anchorPointA="#0.BC, #1.5E" controlPointB="#FFFFFF.F7, #3.B5" anchorPointB="-0.8203125, #2.EC"/>
+                    <MorphCurves controlPointA="#0.9C, #1.3E" anchorPointA="#0.9C, #1.1" controlPointB="-1.59375, #2.26" anchorPointB="-1.59375, #1.0A"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#0.9C, #1.1" startPointB="-1.59375, #1.0A" strokeIndex1="0" strokeIndex2="1">
+                    <MorphCurves controlPointA="#0.9C, #0.E1" anchorPointA="#0.BC, #0.C1" controlPointB="-1.59375, #FFFFFF.EF" anchorPointB="-0.8203125, -0.8515625"/>
+                    <MorphCurves controlPointA="#0.DD, #0.A" anchorPointA="#1.0B, #0.A1" controlPointB="#FFFFFF.F7, -1.625" anchorPointB="#1.12, -1.625"/>
+                    <MorphCurves controlPointA="#1.39, #0.A" anchorPointA="#1.59, #0.C1" controlPointB="#2.2E, -1.625" anchorPointB="#2.F4, -0.8515625"/>
+                    <MorphCurves controlPointA="#1.7A, #0.E1" anchorPointA="#1.7A, #1.1" controlPointB="#3.BC, #FFFFFF.EF" anchorPointB="#3.BC, #1.0A"/>
+                    <MorphCurves controlPointA="#1.7A, #1.3E" anchorPointA="#1.59, #1.5E" controlPointB="#3.BC, #2.26" anchorPointB="#2.F4, #2.EC"/>
+                    <MorphCurves controlPointA="#1.39, #1.7F" anchorPointA="#1.0B, #1.7F" controlPointB="#2.2E, #3.B5" anchorPointB="#1.12, #3.B5"/>
+                    <MorphCurves controlPointA="#0.DD, #1.7F" anchorPointA="#0.BC, #1.5E" controlPointB="#FFFFFF.F7, #3.B5" anchorPointB="-0.8203125, #2.EC"/>
+                    <MorphCurves controlPointA="#0.9C, #1.3E" anchorPointA="#0.9C, #1.1" controlPointB="-1.59375, #2.26" anchorPointB="-1.59375, #1.0A"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="5">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!345 350[#139.1E #17E.9D 267 382.5!267 382.5[#DC.BD #17E.9D 188 350!188 350[#9B.FD #13D.DD 156 271.5!156 271.5[#9B.FD #E1.3E 188 192.5!188 192.5[#DC.BD #A0.7D 267 160.5!267 160.5[#139.1E #A0.7D 345 192.5!345 192.5[#179.DD #E1.3E 378 271.5
+!378 271.5[#179.DD #13D.DD 345 350"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="2.6748046875" d="2.6748046875" tx="-22.8" ty="-22.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.65" y="13.3"/>
+                  </transformationPoint>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.2">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!273 521S4[167 521 92 446!92 446[18 372 18 266!18 266[18 160 92 85!92 85[167 11 273 11!273 11[379 11 453 85!453 85[528 160 528 266!528 266[528 372 453 446!453 446[379 521 273 521"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" tweenType="shape" keyMode="17922" acceleration="-100">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#0.12, #1.0A" startPointB="-1.6015625, #1.0A" strokeIndex1="0" strokeIndex2="1">
+                    <MorphCurves controlPointA="#0.12, #0.A" anchorPointA="#0.5C, #0.55" controlPointB="-1.6015625, #FFFFFF.EF" anchorPointB="-0.828125, -0.8515625"/>
+                    <MorphCurves controlPointA="#0.A7, #0.0B" anchorPointA="#1.11, #0.0B" controlPointB="#FFFFFF.F5, #FFFFFE.5F" anchorPointB="#1.11, #FFFFFE.5F"/>
+                    <MorphCurves controlPointA="#1.7B, #0.0B" anchorPointA="#1.C5, #0.55" controlPointB="#2.2D, #FFFFFE.5F" anchorPointB="#2.F3, -0.8515625"/>
+                    <MorphCurves controlPointA="#2.1, #0.A" anchorPointA="#2.1, #1.0A" controlPointB="#3.BC, #FFFFFF.EF" anchorPointB="#3.BC, #1.0A"/>
+                    <MorphCurves controlPointA="#2.1, #1.74" anchorPointA="#1.C5, #1.BE" controlPointB="#3.BC, #2.26" anchorPointB="#2.F3, #2.ED"/>
+                    <MorphCurves controlPointA="#1.7B, #2.09" anchorPointA="#1.11, #2.09" controlPointB="#2.2D, #3.B5" anchorPointB="#1.11, #3.B5"/>
+                    <MorphCurves controlPointA="#0.A7, #2.09" anchorPointA="#0.5C, #1.BE" controlPointB="#FFFFFF.F5, #3.B5" anchorPointB="-0.828125, #2.ED"/>
+                    <MorphCurves controlPointA="#0.12, #1.74" anchorPointA="#0.12, #1.0A" controlPointB="-1.6015625, #2.26" anchorPointB="-1.6015625, #1.0A"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#0.12, #1.0A" startPointB="-1.6015625, #1.0A" strokeIndex1="0" strokeIndex2="1">
+                    <MorphCurves controlPointA="#0.12, #0.A" anchorPointA="#0.5C, #0.55" controlPointB="-1.6015625, #FFFFFF.EF" anchorPointB="-0.828125, -0.8515625"/>
+                    <MorphCurves controlPointA="#0.A7, #0.0B" anchorPointA="#1.11, #0.0B" controlPointB="#FFFFFF.F5, #FFFFFE.5F" anchorPointB="#1.11, #FFFFFE.5F"/>
+                    <MorphCurves controlPointA="#1.7B, #0.0B" anchorPointA="#1.C5, #0.55" controlPointB="#2.2D, #FFFFFE.5F" anchorPointB="#2.F3, -0.8515625"/>
+                    <MorphCurves controlPointA="#2.1, #0.A" anchorPointA="#2.1, #1.0A" controlPointB="#3.BC, #FFFFFF.EF" anchorPointB="#3.BC, #1.0A"/>
+                    <MorphCurves controlPointA="#2.1, #1.74" anchorPointA="#1.C5, #1.BE" controlPointB="#3.BC, #2.26" anchorPointB="#2.F3, #2.ED"/>
+                    <MorphCurves controlPointA="#1.7B, #2.09" anchorPointA="#1.11, #2.09" controlPointB="#2.2D, #3.B5" anchorPointB="#1.11, #3.B5"/>
+                    <MorphCurves controlPointA="#0.A7, #2.09" anchorPointA="#0.5C, #1.BE" controlPointB="#FFFFFF.F5, #3.B5" anchorPointB="-0.828125, #2.ED"/>
+                    <MorphCurves controlPointA="#0.12, #1.74" anchorPointA="#0.12, #1.0A" controlPointB="-1.6015625, #2.26" anchorPointB="-1.6015625, #1.0A"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!453 446[379 521 273 521!273 521[167 521 92 446!92 446[18 372 18 266!18 266[18 160 92 85!92 85[167 11 273 11!273 11[379 11 453 85!453 85[528 160 528 266!528 266[528 372 453 446"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix a="2.67843627929688" d="2.67843627929688" tx="-22.9" ty="-22.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.65" y="13.3"/>
+                  </transformationPoint>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.2">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!273 521S4[167 521 92 446!92 446[18 372 18 266!18 266[18 160 92 85!92 85[167 11 273 11!273 11[379 11 453 85!453 85[528 160 528 266!528 266[528 372 453 446!453 446[379 521 273 521"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="coinSway">
+                  <transformationPoint>
+                    <Point x="15" y="13.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="10" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="coin">
+                  <matrix>
+                    <Matrix a="1.05891418457031" d="1.05891418457031" tx="-0.9" ty="-0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="13.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="coin">
+                  <matrix>
+                    <Matrix a="1.43305969238281" d="1.43305969238281" tx="-6.5" ty="-6.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="13.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

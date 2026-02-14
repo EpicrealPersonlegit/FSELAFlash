@@ -1,0 +1,211 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="metalBorder1" itemID="511e9220-00000167" lastModified="1360995328" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="metalBorder1" currentFrame="5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1.00497436523438" d="0" tx="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix a="0" b="1" c="1.00497436523438" d="0"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix a="0" b="1" c="1.00497436523438" d="0"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1.00497436523438" d="0" tx="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix d="-1.00914001464844" ty="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="14.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder4" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1.00497436523438" d="0" tx="30.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder4" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="1" c="1.00497436523438" d="0"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder5">
+                  <matrix>
+                    <Matrix a="0" b="1" c="1.00497436523438" d="0"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix d="1.00914001464844"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="14.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder4">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1.00497436523438" d="0" tx="30.1" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder4">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1.00497436523438" d="0" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder5">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1.00497436523438" d="0" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix a="-1" d="1.00497436523438" tx="30.05" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="metalBorder3">
+                  <matrix>
+                    <Matrix a="-1" d="-1.00497436523438" tx="30.05" ty="30.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder5" selected="true">
+                  <matrix>
+                    <Matrix d="1.0032958984375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder5" selected="true">
+                  <matrix>
+                    <Matrix a="-1" d="1.0032958984375" tx="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="metalBorder6">
+                  <matrix>
+                    <Matrix a="-1" d="1.0032958984375" tx="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

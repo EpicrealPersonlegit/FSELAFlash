@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Match Body" itemID="48dfc301-00000272" sourceFlashFilepath="../../../../2-4.fla" sourceLibraryItemHRef="Body Parts/Characters/Match/Match Body" sourceLastModified="1321938946" lastModified="1321938946" sourceItemID="48dfc301-00000272">
+  <timeline>
+    <DOMTimeline name="Match Body">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9900FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C4842D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#F1CB7C"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#DC3A3A"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#C62222"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#E2B767"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!258 -2369.5[#16A.AF #FFF88B.5B 99 -1666!99 -1666[#26.85 #FFF9B5.C3 -41.5 -1566!-41.5 -1566[#FFFF7F.3F #FFFA12.66 -239.5 -1483!-239.5 -1483[#FFFEF8.45 #FFFA2D.E3 -287 -1498.5!-287 -1498.5[#FFFED4.DC #FFFA20.ED -311 -1508!-311 -1508[#FFFEA2.C7
+ #FFFA0C.3A -384.5 -1543!-384.5 -1543|-384 -1543!-384 -1543[#FFFE71.22 #FFF9F0.6A -412 -1562!-412 -1562[#FFFDEC.AD #FFF989.04 -518.5 -1890!-518.5 -1890[#FFFE08.81 #FFF78E.73 -360 -2308!-360 -2308|-359.5 -2308.5!-359.5 -2308.5[#FFFF28.6C
+ #FFF66C.FA -13.5 -2451!-13.5 -2451[#78.3E #FFF66C.D5 228.5 -2388!228.5 -2388[#F3.5C #FFF6B4.A2 258 -2369.5"/>
+                    <Edge fillStyle0="4" edges="
+!420 -1492[#1A4.49 #FFFA2D.0B 420.5 -1490!420.5 -1490[#26F.08 #FFF991.7A 584 -1924.5!584 -1924.5[#21F.63 #FFF759.A8 434.5 -2314!434.5 -2314[#145.B5 #FFF692.84 263.5 -2449!263.5 -2449[#8B.91 #FFF626.98 -13.5 -2521.5!-13.5 -2521.5[#FFFF0B.62
+ #FFF626.7B -409 -2358!-409 -2358|-409.5 -2358!-409.5 -2358|-409.5 -2357.5!-409.5 -2357.5[#FFFDC3.CB #FFF76C.3D -589 -1893.5!-589 -1893.5[#FFFDA1.A9 #FFF9D3.92 -418.5 -1481.5!-418.5 -1481.5|-418 -1481.5!-418 -1481.5[-415.625 #FFFA37.CE
+ -393 -1467"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!-393 -1467[-364.875 #FFFA53.38 -311.5 -1432.5!-311.5 -1432.5|-311 -1432.5"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!-311 -1432.5[#FFFF51.AD #FFFA98.D -3 -1375!-3 -1375|-2.5 -1375!-2.5 -1375[#3E.C5 #FFFAA3.A6 124 -1379.5"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!124 -1379.5[#EE.8E #FFFA8F.23 339 -1440.5"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!339 -1440.5[371.75 #FFFA50.21 420 -1492"/>
+                    <Edge fillStyle0="1" edges="
+!-393 -1467|-386 2437!-386 2437|415 2434!415 2434|416.5 -1481!416.5 -1481[#19D.FB #FFFA33.14 420 -1489.5!420 -1489.5|420 -1492"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!339 -1440.5|339 2362!339 2362|124 2362"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!124 2362|-311 2362!-311 2362|-311 -1432.5"/>
+                    <Edge fillStyle0="2" fillStyle1="5" edges="
+!124 2362|124 -1379.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

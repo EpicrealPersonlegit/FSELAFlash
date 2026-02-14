@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="i and string" itemID="5118345b-000007c1" lastModified="1360542432">
+  <timeline>
+    <DOMTimeline name="i and string">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="i">
+                  <matrix>
+                    <Matrix a="0.984207153320313" b="0.17376708984375" c="-0.17376708984375" d="0.984207153320313" tx="-6.25" ty="96.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-19.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="string">
+                  <matrix>
+                    <Matrix tx="-8.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="32.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

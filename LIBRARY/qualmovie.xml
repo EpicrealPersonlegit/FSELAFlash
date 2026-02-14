@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="qualmovie" itemID="51218cbb-00005812" lastModified="1361153832" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="qualmovie">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="57" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="low">
+                  <matrix>
+                    <Matrix tx="-69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.5" y="39.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="low" selected="true">
+                  <matrix>
+                    <Matrix tx="-69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.5" y="39.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndStop(1);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="58" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="high">
+                  <matrix>
+                    <Matrix tx="-69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.5" y="39.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="high" selected="true">
+                  <matrix>
+                    <Matrix tx="-69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.5" y="39.9"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ruby fly arm" itemID="50fc6445-000000f7" lastModified="1358719673" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="ruby fly arm" currentFrame="19">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" hasCustomEase="true" keyMode="24065">
+              <tweens>
+                <CustomEase target="all">
+                  <Point/>
+                  <Point x="0.472093023255814"/>
+                  <Point x="0.62093023255814" y="1"/>
+                  <Point x="1" y="1"/>
+                </CustomEase>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight">
+                  <matrix>
+                    <Matrix a="0.363616943359375" b="0.0290069580078125" c="-0.0290069580078125" d="0.363616943359375" tx="0.05" ty="2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.95" y="2.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Limbs/Arms/Arm Straight" selected="true">
+                  <matrix>
+                    <Matrix a="-0.12213134765625" b="0.343719482421875" c="-0.343719482421875" d="-0.12213134765625" tx="-0.75" ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.85" y="1.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

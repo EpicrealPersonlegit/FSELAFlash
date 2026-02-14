@@ -1,0 +1,158 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="poops" itemID="5121890a-0000567b" lastModified="1361152369" lastUniqueIdentifier="14">
+  <timeline>
+    <DOMTimeline name="poops">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tower3">
+                  <matrix>
+                    <Matrix tx="110.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="200.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tower2">
+                  <matrix>
+                    <Matrix tx="22.15" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="200.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="tower4">
+                  <matrix>
+                    <Matrix tx="281.1" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.5" y="200.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="wisp">
+                  <matrix>
+                    <Matrix d="0.727523803710938" tx="427.95" ty="167.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="234.7" y="36.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.113311767578125" d="0.113311767578125" tx="333.35" ty="252.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.15" y="49.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.2222900390625" d="0.2222900390625" tx="371.45" ty="235.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.35" y="49.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.149169921875" d="0.149169921875" tx="362.15" ty="266.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.25" y="49.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.048980712890625" d="0.048980712890625" tx="419.85" ty="257.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.048980712890625" d="0.048980712890625" tx="402.85" ty="266.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.048980712890625" d="0.048980712890625" tx="322.35" ty="270.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.048980712890625" d="0.048980712890625" tx="355.65" ty="233.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.048980712890625" d="0.048980712890625" tx="312.1" ty="220.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.048980712890625" d="0.048980712890625" tx="498.6" ty="212.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.1" y="50"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="ufoshape">
+                  <matrix>
+                    <Matrix a="0.07275390625" d="0.07275390625" tx="295.85" ty="197.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="103.75" y="50.15"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

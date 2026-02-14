@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="char3" itemID="50fb48b8-00000fc7" lastModified="1361147516" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="char3" currentFrame="8">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Diamond">
+                  <matrix>
+                    <Matrix a="0.156082153320313" d="0.156082153320313" tx="0.05" ty="-28.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Dictionary's Body">
+                  <matrix>
+                    <Matrix a="0.121597290039063" b="-0.0020751953125" c="0.0037384033203125" d="0.121536254882813" tx="0.1" ty="-28.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Ice Cube Side">
+                  <matrix>
+                    <Matrix a="0.14532470703125" b="-0.00250244140625" c="0.00445556640625" d="0.145248413085938" tx="-0.3" ty="-28.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Match Body">
+                  <matrix>
+                    <Matrix a="0.116134643554688" d="0.116134643554688" tx="-0.15" ty="-29.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.3" y="1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pencil Body">
+                  <matrix>
+                    <Matrix a="0.10894775390625" b="-0.003753662109375" c="0.003753662109375" d="0.10894775390625" tx="-0.2" ty="-30.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1" y="1.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Characters/Bubble/Bubble Body">
+                  <matrix>
+                    <Matrix a="0.126861572265625" d="0.126861572265625" tx="-0.1" ty="-29.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="legolthi">
+                  <matrix>
+                    <Matrix a="0.116455078125" d="0.116455078125" tx="0.4" ty="-21.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="waflethi">
+                  <matrix>
+                    <Matrix a="-0.06329345703125" d="0.0632781982421875" tx="-0.6" ty="-21.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-69.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="tune2">
+                  <matrix>
+                    <Matrix a="-0.112091064453125" d="0.112091064453125" tx="8.05" ty="-35.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="95" y="69.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ufo" itemID="4e2a3649-00000529" sourceFlashFilepath="D:\BFDI\20-4.fla" sourceLibraryItemHRef="ufo" sourceLastModified="1325265593" lastModified="1325265593" lastUniqueIdentifier="6" sourceItemID="4e2a3649-00000529">
+  <timeline>
+    <DOMTimeline name="ufo">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light of ufo">
+                  <matrix>
+                    <Matrix tx="-156.55" ty="68"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light of ufo">
+                  <matrix>
+                    <Matrix tx="-80.55" ty="79.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light of ufo">
+                  <matrix>
+                    <Matrix tx="-5.05" ty="86"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light of ufo">
+                  <matrix>
+                    <Matrix tx="147.5" ty="61"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="light of ufo">
+                  <matrix>
+                    <Matrix tx="77" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.357025146484375" d="0.357025146484375" tx="-52.9" ty="50.1"/>
+                        </matrix>
+                        <GradientEntry color="#8C8C8C" ratio="0"/>
+                        <GradientEntry color="#515151" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#505050"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="3">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#505050"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="2" edges="!2361.5 0[#A77.9F #93.9E 2995.5 353!2995.5 353[#F73.7A #3D0.B6 4895 2133!4895 2133[#5D2.C3 #CE3.86 -1825.5 2829.5!-1825.5 2829.5[#FFF37E.3B 2634.5 -4563 2157.5!-4563 2157.5[#FFEDC5.05 #849.21 -4771 2083!-4771 2083[#FFF14D.34 #2CE.D4 -2363.5
+ 62"/>
+                    <Edge fillStyle1="1" strokeStyle="3" edges="
+!-2363.5 62[#FFF990.AB #14E.FD -945.5 442.5!-945.5 442.5[#2ED.3F #2BE.BF 2361.5 0"/>
+                    <Edge strokeStyle="1" edges="
+!-3880.5 2484.5|-3877 2493"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Body Parts/Characters/Bubble/ufo bubble" selected="true">
+                  <matrix>
+                    <Matrix a="-1.21023559570313" d="0.837890625" tx="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="rubys" itemID="507634aa-0000ede9" sourceFlashFilepath="../../../../5-9.fla" sourceLibraryItemHRef="rubys" sourceLastModified="1357007646" symbolType="graphic" lastModified="1357007646" sourceItemID="507634aa-0000ede9">
+  <timeline>
+    <DOMTimeline name="rubys">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yrty2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="-1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yrty2" symbolType="graphic" firstFrame="4" loop="loop">
+                  <matrix>
+                    <Matrix ty="4.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yrty2" symbolType="graphic" firstFrame="7" loop="loop">
+                  <matrix>
+                    <Matrix ty="-1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="3" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yrty2" symbolType="graphic" firstFrame="10" loop="loop">
+                  <matrix>
+                    <Matrix ty="3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="yrty2" symbolType="graphic" firstFrame="13" loop="loop">
+                  <matrix>
+                    <Matrix ty="-1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

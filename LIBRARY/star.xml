@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="star" itemID="5117f74b-00000124" lastModified="1360525166">
+  <timeline>
+    <DOMTimeline name="star">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!37 -11[25 2 7 2!7 2[-11 2 -24 -11!-24 -11[-36 -23 -36 -41!-36 -41[-36 -59 -24 -72!-24 -72[-11 -84 7 -84!7 -84[25 -84 37 -72!37 -72[50 -59 50 -41!50 -41[50 -23 37 -11"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="19.85"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333399"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!111 -294|7 5!7 5|-99 -294!-99 -294|-417 -302!-417 -302|-165 -495!-165 -495|-255 -800!-255 -800|7 -620!7 -620|267 -800!267 -800|177 -495!177 -495|429 -302!429 -302|111 -294"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

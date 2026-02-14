@@ -1,0 +1,221 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="anim" itemID="50fb4b55-00001038" lastModified="1358646615" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="anim" currentFrame="32">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="16" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.leftPress = false;
+gotoAndStop(1);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.rightPress = false;
+gotoAndStop(1);]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FFFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody2" selected="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="31.3" ty="5.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.15" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody2" selected="true">
+                  <matrix>
+                    <Matrix a="0.968780517578125" d="0.968780517578125" tx="7" ty="18.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.25" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody2">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="31.3" ty="5.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.15" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody2">
+                  <matrix>
+                    <Matrix a="0.191909790039063" d="0.191909790039063" tx="47.4" ty="-6.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.05" y="21.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody2">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="31.3" ty="5.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.15" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody1" selected="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-31.45" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody1" selected="true">
+                  <matrix>
+                    <Matrix a="0.23663330078125" d="0.23663330078125" tx="-44.75" ty="-4.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.2" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody1">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-31.45" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody1">
+                  <matrix>
+                    <Matrix a="0.947265625" d="0.947265625" tx="-4.6" ty="17.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.05" y="21.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody1">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="-31.45" ty="6.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody" selected="true">
+                  <matrix>
+                    <Matrix tx="0.3" ty="18.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody" selected="true">
+                  <matrix>
+                    <Matrix a="0.667938232421875" d="0.667938232421875" tx="-26.45" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody">
+                  <matrix>
+                    <Matrix tx="0.3" ty="18.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="15" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody">
+                  <matrix>
+                    <Matrix a="0.69384765625" d="0.69384765625" tx="27.55" ty="8.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.15" y="21.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="char3" name="charBody">
+                  <matrix>
+                    <Matrix tx="0.3" ty="18.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.1" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

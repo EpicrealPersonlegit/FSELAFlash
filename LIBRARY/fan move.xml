@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="fan move" itemID="507ae808-00000aa1" sourceFlashFilepath="../../../../4-7.fla" sourceLibraryItemHRef="fan move" sourceLastModified="1350232127" symbolType="graphic" lastModified="1350232127" lastUniqueIdentifier="2" sourceItemID="507ae808-00000aa1">
+  <timeline>
+    <DOMTimeline name="fan move" currentFrame="5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="5" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fan">
+                  <matrix>
+                    <Matrix a="0.89215087890625" d="0.89215087890625" tx="0.05" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="15872">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fan">
+                  <matrix>
+                    <Matrix a="0.23089599609375" b="0.860885620117188" c="-0.860885620117188" d="0.23089599609375" tx="0.05" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

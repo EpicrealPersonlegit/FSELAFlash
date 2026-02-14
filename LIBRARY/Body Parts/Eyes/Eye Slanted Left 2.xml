@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Eyes/Eye Slanted Left 2" itemID="4b0ec764-00000aa8" sourceFlashFilepath="../../../../5-9.fla" sourceLibraryItemHRef="Body Parts/Eyes/Eye Slanted Left 2" sourceLastModified="1280966670" lastModified="1280966670" sourceItemID="4b0ec764-00000aa8">
+  <timeline>
+    <DOMTimeline name="Eye Slanted Left 2">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FFFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!122 -150.5|-24.5 -48!-24.5 -48[#FFFFD0.EB #FFFFE0.19 -67 -29.5!-67 -29.5[#FFFFA5.2D -24.828125 -97.5 -38.5!-97.5 -38.5[#FFFF98.53 #FFFFCD.6B -87.5 -70.5!-87.5 -70.5[#FFFFB5.BD -87.078125 -50 -100.5!-50 -100.5|108 -179!108 -179[#71.D9
+ #FFFF4A.8F 119.5 -180!119.5 -180[#7C.F7 #FFFF4E.51 128 -172.5!128 -172.5[#82.79 #FFFF59.59 129 -161!129 -161[#7F.43 #FFFF65.AC 122 -150.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!36 0[#24.1A #FFFFC4.76 18.5 -103!18.5 -103|-93 -60!-93 -60[#FFFF9A.04 #FFFFC4.76 -102 0!-102 0[#FFFF9A.04 63 -81.5 107!-81.5 107[-61.796875 152 -33 152!-33 152[-4.078125 152 16.5 107!16.5 107[#24.1C 63 36 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Body Parts/Mouths/Frowns/Frown Closed Puffy" itemID="4b0ec9e6-00000fe1" sourceFlashFilepath="\\MIKE-DESKY\LetsShare\BFDIA\5\5 rc.fla" sourceLibraryItemHRef="Body Parts/Mouths/Frowns/Frown Closed Puffy" sourceLastModified="1259260407" lastModified="1259260407" sourceItemID="4b0ec9e6-00000fe1">
+  <timeline>
+    <DOMTimeline name="Frown Closed Puffy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-549 -334[#FFFE5B.E9 #FFFEC1.E9 -324 -222!-324 -222[-209 -107 -209 55!-209 55[-209 #5D.1F -215.5 128.5!-215.5 128.5[#FFFF78.61 #2A.AC -16 51!-16 51[#67.9F #3B.54 142.5 160!142.5 160[145 166 142 141!142 141[#8D.D7 #B.BC 233.5 -80!233.5
+ -80[#13A.48 #FFFF5F.49 424 -170.5!-215.5 128.5[#FFFF13.F1 #F4.0F -324 332!-324 332[#FFFE5B.E9 #1AC.17 -549 444!424 452.5[#13A.48 #1BA.B7 233.5 362!233.5 362[#94.97 #115.05 142.5 160"/>
+                    <Edge cubics="!234 -80(;287,-134 351,-164 424,-170q234 -80Q313 -161q424 -170);"/>
+                    <Edge cubics="!-549 -334(;-463,-323 -388,-286 -324,-222q-549 -334Q-419 -317q-324 -222);"/>
+                    <Edge cubics="!-324 332(;-388,396 -463,433 -549,444q-324 332Q-419 427q-549 444);"/>
+                    <Edge cubics="!-215 129(;-229,206 -265,273 -324,332q-215 129Q-236 244q-324 332);"/>
+                    <Edge cubics="!-209 55(;-209,80 -211,105 -215,129q-209 55Q-209 93q-215 129);"/>
+                    <Edge cubics="!234 362(;177,305 147,238 143,160q234 362Q149 277q143 160);"/>
+                    <Edge cubics="!424 453(;351,446 287,416 234,362q424 453Q313 442q234 362);"/>
+                    <Edge cubics="!143 160(;145,166 142,148 142,141q143 160Q145 166q142 141);"/>
+                    <Edge cubics="!142 141(;142,55 173,-19 234,-80q142 141Q142 12q234 -80);"/>
+                    <Edge cubics="!-215 129(;-93,-35 100,0 143,160q-215 129Q-126 9q-6 23Q110 37q143 160);"/>
+                    <Edge cubics="!-324 -222(;-247,-145 -209,-53 -209,55q-324 -222Q-209 -107q-209 55);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

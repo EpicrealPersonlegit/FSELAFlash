@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="eye" itemID="511eb3bd-00003532" lastModified="1360966608">
+  <timeline>
+    <DOMTimeline name="eye">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#660000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!22 162[5 145 5 120!5 120[5 95 22 77!22 77[40 60 65 60!65 60[90 60 107 77!107 77[125 95 125 120!125 120[125 145 107 162!107 162[90 180 65 180!65 180[40 180 22 162"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#599500"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!205.5 206[#AA.C6 #F1.84 120.5 241.5!120.5 241.5[#46.19 #F1.84 34.5 206!34.5 206[#FFFFFF.9B #AB.46 -0.5 121!-0.5 121[#FFFFFF.9B #46.99 34.5 35!34.5 35[#46.19 #0.1B 120.5 0!120.5 0[#AA.C6 #0.1B 205.5 35!205.5 35[#F1.04 #46.99 241 121!241
+ 121[#F1.04 #AB.46 205.5 206"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
