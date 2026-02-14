@@ -520,10 +520,11 @@ function clearVars(){
 
 // Saves current variables into the SharedObject and writes it to the hard drive
 function saveGame(){
-	bfdia5b.data.gotCoin = new Array(levelCount);
+	var savedCoins:Array = new Array(levelCount);
 	for(var i:Number = 0; i < levelCount; i++){
-		bfdia5b.data.gotCoin[i] = gotCoin[i];
+		savedCoins[i] = gotCoin[i];
 	}
+	bfdia5b.data.gotCoin = savedCoins;
 	bfdia5b.data.coins = coins;
 	bfdia5b.data.levelProgress = levelProgress;
 	bfdia5b.data.deathCount = deathCount;
@@ -936,10 +937,12 @@ function resetLevel(){
 function copyLevel(thatLevel:Array){
 	thisLevel = new Array(thatLevel.length);
 	for(var y:Number = 0; y < levelHeight; y++){
-		thisLevel[y] = new Array(thatLevel[y].length);
+		var sourceRow:Array = thatLevel[y];
+		var copiedRow:Array = new Array(sourceRow.length);
 		for(var x:Number = 0; x < levelWidth; x++){
-			thisLevel[y][x] = thatLevel[y][x]; // Duplicate every tile row by row
+			copiedRow[x] = sourceRow[x]; // Duplicate every tile row by row
 		}
+		thisLevel[y] = copiedRow;
 	}
 }
 
@@ -978,39 +981,36 @@ function drawLevel(){
 		switchable[i] = new Array(0);
 	}
 	
-	// Loop through every X and Y coordinate in the grid
+	var currentBG:Number = bgs[currentLevel];
 	for(var y:Number = 0; y < levelHeight; y++){
+		var row:Array = thisLevel[y];
 		for(var x:Number = 0; x < levelWidth; x++){
-			if(thisLevel[y][x] >= 1){ // If a tile exists here
-			
-				// Check if the block is linked to a switch and add its coordinates to the `switchable` array
-				if(blockProperties[thisLevel[y][x]][12] >= 1){
-					switchable[blockProperties[thisLevel[y][x]][12]-1].push([x,y]);
+			var tileType:Number = row[x];
+			if(tileType >= 1){ // If a tile exists here
+				var properties:Array = blockProperties[tileType];
+				var switchID:Number = properties[12];
+				if(switchID >= 1){
+					switchable[switchID-1].push([x,y]);
 				}
 				
-				// Determine what type of MovieClip container to put the tile in based on its properties
-				if(blockProperties[thisLevel[y][x]][14]){ // Liquid tile
+				if(properties[14]){ // Liquid tile
 					addTileMovieClip(x,y,levelActive3);
-				} else if(blockProperties[thisLevel[y][x]][11] >= 1){ // Lever/Button tile
+				} else if(properties[11] >= 1){ // Lever/Button tile
 					addTileMovieClip(x,y,levelActive2);
-					// Rotate levers visually based on their specific ID (Flash rotation degrees)
-					if(blockProperties[thisLevel[y][x]][11] >= 7 && blockProperties[thisLevel[y][x]][11] <= 12){
+					if(properties[11] >= 7 && properties[11] <= 12){
 						levelActive2["tileX"+x+"Y"+y].lever._rotation = 60;
 					}
-				} else if(blockProperties[thisLevel[y][x]][8]){ // Active moving block tile
+				} else if(properties[8]){ // Active moving block tile
 					addTileMovieClip(x,y,levelActive);
 				} else { // Standard static block tile
 					addTileMovieClip(x,y,levelStill);
 				}
 				
-				// Record the location of special blocks (like the Win zone)
-				if(thisLevel[y][x] == 6){
+				if(tileType == 6){
 					locations[0] = x;
 					locations[1] = y;
-					if(bgs[currentLevel] == 9 || bgs[currentLevel] == 10) levelActive["tileX"+x+"Y"+y].bg.gotoAndStop(2);
-				}
-				// Record location of another special ID (12)
-				if(thisLevel[y][x] == 12){
+					if(currentBG == 9 || currentBG == 10) levelActive["tileX"+x+"Y"+y].bg.gotoAndStop(2);
+				} else if(tileType == 12){
 					locations[2] = x; locations[3] = y; locations[4] = 1000; locations[5] = 0;
 				}
 			}
@@ -1021,13 +1021,15 @@ function drawLevel(){
 // Attaches the actual graphical tile movie clip from the Flash library to the stage
 function addTileMovieClip(x:Number, y:Number, level:MovieClip){
 	var t:Number = thisLevel[y][x];
-	// Attach the clip using math to figure out the linkage name "tileX" and place it at (x*30, y*30)
-	level.attachMovie("tile"+Math.floor(t/10),"tileX"+x+"Y"+y,y*levelWidth+x,{_x:x*30,_y:y*30});
-	level["tileX"+x+"Y"+y].gotoAndStop(t%10+1); // Frame handles graphical variations
+	var tileKey:String = "tileX"+x+"Y"+y;
+	var tileDepth:Number = y*levelWidth+x;
+	level.attachMovie("tile"+Math.floor(t/10),tileKey,tileDepth,{_x:x*30,_y:y*30});
+	var tileClip:MovieClip = level[tileKey];
+	tileClip.gotoAndStop(t%10+1); // Frame handles graphical variations
 	
-	// Add ambient lighting/shadowing around certain blocks
+	var properties:Array = blockProperties[t];
 	if(t == 6){ // Special glowing block needs wide lighting
-		level["tileX"+x+"Y"+y].light.gotoAndStop(charCount2);
+		tileClip.light.gotoAndStop(charCount2);
 		for(var x2:Number = 0; x2 < 2; x2++){
 			for(var y2:Number = 0; y2 < 4; y2++){
 				setAmbientShadow(x-x2,y-y2);
@@ -1039,29 +1041,32 @@ function addTileMovieClip(x:Number, y:Number, level:MovieClip){
 				setAmbientShadow(x-x2,y-y2);
 			}
 		}
-	} else if(blockProperties[thisLevel[y][x]][10]){ // Standard block property that requests shadow
+	} else if(properties[10]){ // Standard block property that requests shadow
 		setAmbientShadow(x,y);
 	}
 	
-	// Draw graphical borders on tiles that ask for it
-	if(blockProperties[thisLevel[y][x]][13]){
-		setBorder(x,y,levelStill["tileX"+x+"Y"+y].tileBorder,t);
+	if(properties[13]){
+		setBorder(x,y,levelStill[tileKey].tileBorder,t);
 	}
 }
 
 // Calculates and attaches shadows around tiles depending on whether neighboring tiles are solid
 function setAmbientShadow(x:Number, y:Number){
-	levelShadow.attachMovie("tileShadow","tileX"+x+"Y"+y,y*levelWidth+x,{_x:x*30,_y:y*30});
+	var tileKey:String = "tileX"+x+"Y"+y;
+	levelShadow.attachMovie("tileShadow",tileKey,y*levelWidth+x,{_x:x*30,_y:y*30});
 	var count:Number = 0;
-	// Loop through the 4 cardinal directions (up, down, left, right)
+	var shadowBits:Array = [8,4,2,1];
 	for(var i:Number = 0; i < 4; i++){
-		var t:Number = blockProperties[thisLevel[y+cardinal[i][1]][x+cardinal[i][0]]][12];
-		// Use binary-like addition to determine which shadow frame to show based on surrounding walls
-		if(blockProperties[thisLevel[y+cardinal[i][1]][x+cardinal[i][0]]][i] &&  (t == 0 || t == 6)){
-			count += Math.pow(2,3-i);
+		var nx:Number = x+cardinal[i][0];
+		var ny:Number = y+cardinal[i][1];
+		var neighborType:Number = thisLevel[ny][nx];
+		var neighborProperties:Array = blockProperties[neighborType];
+		var switchType:Number = neighborProperties[12];
+		if(neighborProperties[i] && (switchType == 0 || switchType == 6)){
+			count += shadowBits[i];
 		}
 	}
-	levelShadow["tileX"+x+"Y"+y].ambientShadow.gotoAndStop(count+1); // Move to correct shadow visual state
+	levelShadow[tileKey].ambientShadow.gotoAndStop(count+1); // Move to correct shadow visual state
 	
 	// (Secondary shadow logic omitted for brevity, handles corners/diagonals)
 }
@@ -1073,29 +1078,30 @@ function outOfRange(x:Number, y:Number){
 
 // Places character movie clips on the stage
 function drawCharacters(){
-	// First, remove old characters from the screen to prevent duplicates
+	var lastCount:Number;
 	if(playMode == 0 && currentLevel >= 1){
-		for(var i:Number = 0; i < startLocations[currentLevel-transitionType].length; i++){
-			levelChar["char"+i].removeMovieClip();
-		}
+		lastCount = startLocations[currentLevel-transitionType].length;
 	} else {
-		for(var i:Number = 0; i < startLocations[currentLevel].length; i++){
-			levelChar["char"+i].removeMovieClip();
-		}
+		lastCount = startLocations[currentLevel].length;
 	}
-	// Loop through our character objects and attach their clips
+	for(var i:Number = 0; i < lastCount; i++){
+		levelChar["char"+i].removeMovieClip();
+	}
 	for(var i:Number = 0; i < charCount; i++){
-		levelChar.attachMovie("char","char"+i,charDepth-i*2,{_x:char[i].x,_y:char[i].y});
-		levelChar["char"+i].gotoAndStop(char[i].id+1); // Go to character's graphical frame
-		levelChar["char"+i].leg1.gotoAndStop(1); // Reset walk cycle leg 1
-		levelChar["char"+i].leg2.gotoAndStop(1); // Reset walk cycle leg 2
+		var charData:Object = char[i];
+		var charKey:String = "char"+i;
+		levelChar.attachMovie("char",charKey,charDepth-i*2,{_x:charData.x,_y:charData.y});
+		var charClip:MovieClip = levelChar[charKey];
+		charClip.gotoAndStop(charData.id+1); // Go to character's graphical frame
+		charClip.leg1.gotoAndStop(1); // Reset walk cycle leg 1
+		charClip.leg2.gotoAndStop(1); // Reset walk cycle leg 2
 		
-		if(char[i].charState <= 1) levelChar["char"+i]._visible = false; // Hide if inactive
-		if(char[i].charState == 9){ // Dead/trapped state
-			char[i].dire = 2; // Force them to look forward
-			levelChar["char"+i].charBody.gotoAndStop(2);
-			levelChar["char"+i].charBody.mouth.gotoAndStop(3);
-			levelChar["char"+i].charBody.mouth.mouth.gotoAndStop(57); // Frown/Trapped face
+		if(charData.charState <= 1) charClip._visible = false; // Hide if inactive
+		if(charData.charState == 9){ // Dead/trapped state
+			charData.dire = 2; // Force them to look forward
+			charClip.charBody.gotoAndStop(2);
+			charClip.charBody.mouth.gotoAndStop(3);
+			charClip.charBody.mouth.mouth.gotoAndStop(57); // Frown/Trapped face
 		}
 	}
 }
@@ -1162,18 +1168,24 @@ function displayLine(level:Number, line:Number){
 
 // Toggles on/off state blocks based on switch ID mapping
 function leverSwitch(j:Number){
-	for(var z:Number = 0; z < switchable[j].length; z++){
-		var x:Number = switchable[Math.min(j,5)][z][0];
-		var y:Number = switchable[Math.min(j,5)][z][1];
-		
-		for(var k:Number = 0; k < switches[j].length; k++){
-			// Swap tile IDs back and forth (like changing a blue block to an empty block)
-			if(thisLevel[y][x] == switches[j][k*2]){
-				thisLevel[y][x] = switches[j][k*2+1];
-				levelActive["tileX"+x+"Y"+y].gotoAndStop(switches[j][k*2+1]%10+1);
-			} else if(thisLevel[y][x] == switches[j][k*2+1]){
-				thisLevel[y][x] = switches[j][k*2];
-				levelActive["tileX"+x+"Y"+y].gotoAndStop(switches[j][k*2]%10+1);
+	var switchableIndex:Number = Math.min(j,5);
+	var switchableTiles:Array = switchable[switchableIndex];
+	var switchPairs:Array = switches[j];
+	for(var z:Number = 0; z < switchableTiles.length; z++){
+		var x:Number = switchableTiles[z][0];
+		var y:Number = switchableTiles[z][1];
+		var currentTile:Number = thisLevel[y][x];
+		for(var k:Number = 0; k < switchPairs.length; k += 2){
+			var fromTile:Number = switchPairs[k];
+			var toTile:Number = switchPairs[k+1];
+			if(currentTile == fromTile){
+				thisLevel[y][x] = toTile;
+				levelActive["tileX"+x+"Y"+y].gotoAndStop(toTile%10+1);
+				break;
+			} else if(currentTile == toTile){
+				thisLevel[y][x] = fromTile;
+				levelActive["tileX"+x+"Y"+y].gotoAndStop(fromTile%10+1);
+				break;
 			}
 		}
 	}
